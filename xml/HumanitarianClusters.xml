@@ -1,0 +1,194 @@
+<codelist xmlns:budget-alignment="http://iatistandard.org/activity-standard/overview/country-budget-alignment/" name="Humanitarian Clusters" xml:lang="en" category-codelist="HumanitarianClusters" complete="1" embedded="0">
+    <metadata>
+        <name>
+            <narrative>Global Coordination Groups</narrative>
+            <narrative xml:lang="fr">Secteur du CAD à 5 chiffres</narrative>
+        </name>
+        <url>https://data.humdata.org/dataset/global-coordination-groups-beta</url>
+        <category>
+            <narrative>CodeforIATImaintained</narrative>
+        </category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>4</code>
+            <name>
+                <narrative>Emergency Shelter and NFI</narrative>
+                <narrative xml:lang="fr">Abris d'urgence et NFI</narrative>
+            </name>
+            <description>
+                <narrative>Shelter and Non-Food Items includes provision of shelter materials and non-food household item packages. The theme also covers Camp Coordination and Camp Management. Long-term/permanent reconstruction/rebuilding of housing is covered under "Recovery and Reconstruction."</narrative>
+                <narrative xml:lang="fr">Le volet Logement et articles non alimentaires comprend la fourniture de matériaux de construction et d'ensembles d'articles ménagers non alimentaires. Le thème couvre également la coordination et la gestion des camps. La reconstruction/reconstruction à long terme/permanente des logements est couverte par le thème "Relèvement et reconstruction".</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                    <code>1</code>
+            <name>
+                <narrative>Camp Coordination / Management</narrative>
+                <narrative xml:lang="fr">Coordination et gestion des camps</narrative>
+            </name>
+            <description>
+                <narrative>Camp Management and Camp Coordination includes ensuring equitable access to services and protection for displaced persons living in communal settings, to improve their quality of life and dignity during displacement, and advocate for solutions while preparing them for life after displacement.</narrative>
+                <narrative xml:lang="fr">La gestion et la coordination des camps consistent notamment à assurer un accès équitable aux services et à la protection pour les personnes déplacées vivant en milieu communautaire, afin d'améliorer leur qualité de vie et leur dignité pendant le déplacement, et à plaider pour des solutions tout en les préparant à la vie après le déplacement.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5406</code>
+            <name>
+                <narrative>Mine Action</narrative>
+                <narrative xml:lang="fr">Action contre les mines</narrative>
+            </name>
+            <description>
+                <narrative>Mine Actions addresses problems of landmines, unexploded ordinances (UXO) and explosive remnants of war (ERW), including clearance, education, victim assistance and advocacy.</narrative>
+                <narrative xml:lang="fr">L'action contre les mines aborde les problèmes des mines terrestres, des munitions non explosées (UXO) et des restes explosifs de guerre (ERW), y compris le déminage, l'éducation, l'assistance aux victimes et le plaidoyer.</narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>6</code>
+            <name>
+                <narrative>Food Security</narrative>
+                <narrative xml:lang="fr">Sécurité alimentaire</narrative>
+            </name>
+            <description>
+                <narrative>Food Security serves to coordinate the food security response during a humanitarian crisis, addressing issues of food availability, access and utilisation.</narrative>
+                <narrative xml:lang="fr">La sécurité alimentaire sert à coordonner la réponse à la sécurité alimentaire pendant une crise humanitaire, en abordant les questions de disponibilité, d'accès et d'utilisation de la nourriture.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>11</code>
+            <name>
+                <narrative>Water Sanitation Hygiene</narrative>
+                <narrative xml:lang="fr">Eau, assainissement et hygiène</narrative>
+            </name>
+            <description>
+                <narrative>Water Sanitation Hygiene includes emergency provision of safe drinking water, hygiene and sanitation services, environmental sanitation and water supply, as well as hygiene promotion campaigns.</narrative>
+                <narrative xml:lang="fr">Eau Assainissement Hygiène comprend la fourniture d'urgence d'eau potable, les services d'hygiène et d'assainissement, l'assainissement de l'environnement et l'approvisionnement en eau, ainsi que les campagnes de promotion de l'hygiène.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>8</code>
+            <name>
+                <narrative>Logistics</narrative>
+                <narrative xml:lang="fr">Logistique</narrative>
+            </name>
+            <description>
+                <narrative>The Logistics Cluster provides coordination and Information Management to support operational decision-making and improve the predictability, timeliness and efficiency of the humanitarian emergency response. Where necessary, the Logistics Cluster also facilitates access to common logistics services.</narrative>
+                <narrative xml:lang="fr">Le Groupe de la logistique assure la coordination et la gestion de l'information pour appuyer la prise de décisions opérationnelles et améliorer la prévisibilité, la rapidité et l'efficacité des interventions humanitaires d'urgence. Le cas échéant, le Groupe de la logistique facilite également l'accès aux services logistiques communs.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5403</code>
+            <name>
+                <narrative>Child Protection</narrative>
+                <narrative xml:lang="fr">Protection de l'enfance</narrative>
+            </name>
+            <description>
+                <narrative>Child Protection is specifically focused on enhancing child protection coordination and response in humanitarian contexts, ensuring that the efforts of national and international actors to protect children are well coordinated, achieving maximum quality and impact.</narrative>
+                <narrative xml:lang="fr">La protection de l'enfance est spécifiquement axée sur le renforcement de la coordination de la protection de l'enfance et des interventions dans les contextes humanitaires, en veillant à ce que les efforts des acteurs nationaux et internationaux pour protéger les enfants soient bien coordonnés, afin d'obtenir une qualité et un impact maximum.</narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>10</code>
+            <name>
+                <narrative>Protection</narrative>
+                <narrative xml:lang="fr">Protection</narrative>
+            </name>
+            <description>
+                <narrative>Protection includes all activities aimed at obtaining full respect for the rights  of  the  individual  in  accordance  with  the  letter  and  spirit  of  human  rights,  refugee  and  international  humanitarian  law.  Protection  involves  creating  an  environment  conducive  to  respect  for  human  beings,  preventing  and/or  alleviating  the  immediate  effects  of  a  specific  pattern of abuse, and restoring dignified conditions of life through reparation, restitution and rehabilitation.</narrative>
+                <narrative xml:lang="fr">La protection comprend toutes les activités visant à obtenir le plein respect des droits de l'individu conformément à la lettre et à l'esprit du droit des droits de l'homme, du droit des réfugiés et du droit international humanitaire.  La protection consiste à créer un environnement propice au respect des êtres humains, à prévenir et/ou à atténuer les effets immédiats d'un type particulier d'abus, et à rétablir des conditions de vie dignes par la réparation, la restitution et la réadaptation.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>3</code>
+            <name>
+                <narrative>Education</narrative>
+                <narrative xml:lang="fr">Education</narrative>
+            </name>
+            <description>
+                <narrative>Education includes establishment of temporary learning spaces, provision of school supplies, and support to teachers and other school personnel, governmental entities. Post-conflict/disaster normalization support, including rehabilitation of schooling infrastructure.</narrative>
+                <narrative xml:lang="fr">L'éducation comprend la création d'espaces d'apprentissage temporaires, la fourniture de fournitures scolaires et le soutien aux enseignants et autres personnels scolaires, aux entités gouvernementales. Appui à la normalisation après un conflit ou une catastrophe, y compris la remise en état des infrastructures scolaires.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>9</code>
+            <name>
+                <narrative>Nutrition</narrative>
+                <narrative xml:lang="fr">Nutrition</narrative>
+            </name>
+            <description>
+                <narrative>Nutrition focusses on school feeding, supplementary feeding, and therapeutic feeding.</narrative>
+                <narrative xml:lang="fr">La nutrition se concentre sur l'alimentation scolaire, l'alimentation complémentaire et l'alimentation thérapeutique.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>7</code>
+            <name>
+                <narrative>Health</narrative>
+                <narrative xml:lang="fr">Santé</narrative>
+            </name>
+            <description>
+                <narrative>Health includes emergency medical services, equipment and supplies; reproductive health; psycho-social support; mobile medical clinics; and disease control and surveillance.</narrative>
+                <narrative xml:lang="fr">La santé comprend les services médicaux d'urgence, l'équipement et les fournitures, la santé génésique, le soutien psychosocial, les cliniques médicales mobiles ainsi que le contrôle et la surveillance des maladies.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>2</code>
+            <name>
+                <narrative>Early Recovery</narrative>
+                <narrative xml:lang="fr">Relèvement rapide</narrative>
+            </name>
+            <description>
+                <narrative>Early Recovery encompasses specific interventions to help people move from dependence on humanitarian relief towards sustainable development.</narrative>
+                <narrative xml:lang="fr">Le relèvement précoce comprend des interventions spécifiques visant à aider les populations à passer de la dépendance à l'égard de l'aide humanitaire au développement durable.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5</code>
+            <name>
+                <narrative>Emergency Telecommunications</narrative>
+                <narrative xml:lang="fr">Télécommunications d'urgence</narrative>
+            </name>
+            <description>
+                <narrative>Emergency Telecommunications provides timely, predictable, and effective information and communications technology (ICT) services to support improved response and coordination among humanitarian organizations, improved operational security environment for staff and assets, and improved decision-making through timely access to critical information.</narrative>
+                <narrative xml:lang="fr">Les télécommunications d'urgence fournissent des services de technologies de l'information et des communications (TIC) opportuns, prévisibles et efficaces pour appuyer l'amélioration des interventions et de la coordination entre les organisations humanitaires, l'amélioration de la sécurité opérationnelle pour le personnel et les biens, et l'amélioration de la prise de décision grâce à l'accès rapide aux informations essentielles.</narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5404</code>
+            <name>
+                <narrative>Gender Based Violence</narrative>
+                <narrative xml:lang="fr">Violences basées sur le genre</narrative>
+            </name>
+            <description>
+                <narrative>Gender Based Violence has the objective of ensuring life-saving, predictable, accountable and effective GBV prevention, risk mitigation and response in emergencies, both natural disaster and conflict-related humanitarian contexts.</narrative>
+                <narrative xml:lang="fr">La violence basée sur le genre a pour objectif d'assurer une prévention, une atténuation des risques et une réponse à la violence basée sur le genre qui sauve des vies, qui soit prévisible, responsable et efficace dans les situations d'urgence, qu'il s'agisse de catastrophes naturelles ou de contextes humanitaires liés à des conflits.</narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5405</code>
+            <name>
+                <narrative>Housing, Land and Property</narrative>
+                <narrative xml:lang="fr">Logement, terre, et biens</narrative>
+            </name>
+            <description>
+                <narrative>Housing, Land and Property work to ensure that Housing, Land and Property issues are effectively taken into account in other relevant sectors of humanitarian assistance.</narrative>
+                <narrative xml:lang="fr">Le Département du logement, de la terre et de la propriété s'emploie à faire en sorte que les questions de logement, de terre et de propriété soient effectivement prises en compte dans d'autres secteurs pertinents de l'aide humanitaire.</narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+    </codelist-items>
+</codelist>
