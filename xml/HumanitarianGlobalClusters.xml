@@ -1,0 +1,179 @@
+<codelist name="HumanitarianGlobalClusters" xml:lang="en" complete="1" embedded="0">
+    <metadata>
+        <name>
+            <narrative>Humanitarian Global Clusters)</narrative>
+            <narrative xml:lang="fr">Clusters Humanitaires Mondiaux</narrative>
+        </name>
+        <url>https://data.humdata.org/dataset/global-coordination-groups-beta</url>
+        <category>
+            <narrative>Maintained</narrative>
+        </category>
+    </metadata>
+    <codelist-items>
+        <codelist-item status="active">
+            <code>4</code>
+            <name>
+                <narrative>Emergency Shelter and NFI</narrative>
+                <narrative xml:lang="fr">Abris d'urgence et NFI</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                    <code>1</code>
+            <name>
+                <narrative>Camp Coordination / Management</narrative>
+                <narrative xml:lang="fr">Coordination et gestion des camps</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5406</code>
+            <name>
+                <narrative>Mine Action</narrative>
+                <narrative xml:lang="fr">Action contre les mines</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>6</code>
+            <name>
+                <narrative>Food Security</narrative>
+                <narrative xml:lang="fr">Sécurité alimentaire</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>11</code>
+            <name>
+                <narrative>Water Sanitation Hygiene</narrative>
+                <narrative xml:lang="fr">Eau, assainissement et hygiène</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>8</code>
+            <name>
+                <narrative>Logistics</narrative>
+                <narrative xml:lang="fr">Logistique</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5403</code>
+            <name>
+                <narrative>Child Protection</narrative>
+                <narrative xml:lang="fr">Protection de l'enfance</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>10</code>
+            <name>
+                <narrative>Protection</narrative>
+                <narrative xml:lang="fr">Protection</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>3</code>
+            <name>
+                <narrative>Education</narrative>
+                <narrative xml:lang="fr">Education</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>9</code>
+            <name>
+                <narrative>Nutrition</narrative>
+                <narrative xml:lang="fr">Nutrition</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>7</code>
+            <name>
+                <narrative>Health</narrative>
+                <narrative xml:lang="fr">Santé</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>2</code>
+            <name>
+                <narrative>Early Recovery</narrative>
+                <narrative xml:lang="fr">Relèvement rapide</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5</code>
+            <name>
+                <narrative>Emergency Telecommunications</narrative>
+                <narrative xml:lang="fr">Télécommunications d'urgence</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Cluster</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5404</code>
+            <name>
+                <narrative>Gender Based Violence</narrative>
+                <narrative xml:lang="fr">Violences basées sur le genre</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+        <codelist-item status="active">
+                      <code>5405</code>
+            <name>
+                <narrative>Housing, Land and Property</narrative>
+                <narrative xml:lang="fr">Logement, terre, et biens</narrative>
+            </name>
+            <description>
+                <narrative></narrative>
+            </description>
+            <category>Area of Responsibility</category>
+        </codelist-item>
+    </codelist-items>
+</codelist>
