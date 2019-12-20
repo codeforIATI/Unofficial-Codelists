@@ -16,10 +16,6 @@
                 <narrative>Emergency Shelter and NFI</narrative>
                 <narrative xml:lang="fr">Abris d'urgence et NFI</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>1</code>
@@ -27,10 +23,6 @@
                 <narrative>Camp Coordination / Management</narrative>
                 <narrative xml:lang="fr">Coordination et gestion des camps</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>5406</code>
@@ -38,10 +30,6 @@
                 <narrative>Mine Action</narrative>
                 <narrative xml:lang="fr">Action contre les mines</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>6</code>
@@ -49,10 +37,6 @@
                 <narrative>Food Security</narrative>
                 <narrative xml:lang="fr">Sécurité alimentaire</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>11</code>
@@ -60,10 +44,6 @@
                 <narrative>Water Sanitation Hygiene</narrative>
                 <narrative xml:lang="fr">Eau, assainissement et hygiène</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>8</code>
@@ -71,10 +51,6 @@
                 <narrative>Logistics</narrative>
                 <narrative xml:lang="fr">Logistique</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>5403</code>
@@ -82,10 +58,6 @@
                 <narrative>Child Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'enfance</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>10</code>
@@ -93,10 +65,6 @@
                 <narrative>Protection</narrative>
                 <narrative xml:lang="fr">Protection</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>3</code>
@@ -104,10 +72,6 @@
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>9</code>
@@ -115,10 +79,6 @@
                 <narrative>Nutrition</narrative>
                 <narrative xml:lang="fr">Nutrition</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>7</code>
@@ -126,10 +86,6 @@
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>2</code>
@@ -137,10 +93,6 @@
                 <narrative>Early Recovery</narrative>
                 <narrative xml:lang="fr">Relèvement rapide</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>5</code>
@@ -148,10 +100,6 @@
                 <narrative>Emergency Telecommunications</narrative>
                 <narrative xml:lang="fr">Télécommunications d'urgence</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>5404</code>
@@ -159,10 +107,6 @@
                 <narrative>Gender Based Violence</narrative>
                 <narrative xml:lang="fr">Violences basées sur le genre</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
         <codelist-item status="active">
             <code>5405</code>
@@ -170,10 +114,6 @@
                 <narrative>Housing, Land and Property</narrative>
                 <narrative xml:lang="fr">Logement, terre, et biens</narrative>
             </name>
-            <description>
-                <narrative></narrative>
-            </description>
-            <category></category>
         </codelist-item>
     </codelist-items>
 </codelist>
