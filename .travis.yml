@@ -10,7 +10,7 @@ before_script:
 - wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
 - wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
 script: xmllint --schema codelist.xsd --noout xml/*
-after_success:
+after_script:
 - |
   test $TRAVIS_BRANCH = "master" && \
   curl -s -X POST \
