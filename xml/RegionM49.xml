@@ -23,8 +23,8 @@
                 <narrative xml:lang="ru">Алжир</narrative>
                 <narrative xml:lang="zh">阿尔及利亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>DZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>DZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>DZA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -67,8 +67,8 @@
                 <narrative xml:lang="ru">Египет</narrative>
                 <narrative xml:lang="zh">埃及</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>EG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>EG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>EGY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -111,8 +111,8 @@
                 <narrative xml:lang="ru">Ливия</narrative>
                 <narrative xml:lang="zh">利比亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LBY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -155,8 +155,8 @@
                 <narrative xml:lang="ru">Марокко</narrative>
                 <narrative xml:lang="zh">摩洛哥</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MAR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -199,8 +199,8 @@
                 <narrative xml:lang="ru">Судан</narrative>
                 <narrative xml:lang="zh">苏丹</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SDN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -243,8 +243,8 @@
                 <narrative xml:lang="ru">Тунис</narrative>
                 <narrative xml:lang="zh">突尼斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TUN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -287,8 +287,8 @@
                 <narrative xml:lang="ru">Западная Сахара</narrative>
                 <narrative xml:lang="zh">西撒哈拉</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>EH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>EH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ESH</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -331,8 +331,8 @@
                 <narrative xml:lang="ru">Британская территория в Индийском океане</narrative>
                 <narrative xml:lang="zh">英属印度洋领土</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IOT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -380,8 +380,8 @@
                 <narrative xml:lang="ru">Бурунди</narrative>
                 <narrative xml:lang="zh">布隆迪</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BDI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -429,8 +429,8 @@
                 <narrative xml:lang="ru">Коморские Острова</narrative>
                 <narrative xml:lang="zh">科摩罗</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>COM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -478,8 +478,8 @@
                 <narrative xml:lang="ru">Джибути</narrative>
                 <narrative xml:lang="zh">吉布提</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>DJ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>DJ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>DJI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -527,8 +527,8 @@
                 <narrative xml:lang="ru">Эритрея</narrative>
                 <narrative xml:lang="zh">厄立特里亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ER</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ER</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ERI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -576,8 +576,8 @@
                 <narrative xml:lang="ru">Эфиопия</narrative>
                 <narrative xml:lang="zh">埃塞俄比亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ET</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ET</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ETH</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -625,8 +625,8 @@
                 <narrative xml:lang="ru">Южные земли (французская заморская территория)</narrative>
                 <narrative xml:lang="zh">法属南方领地</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ATF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -674,8 +674,8 @@
                 <narrative xml:lang="ru">Кения</narrative>
                 <narrative xml:lang="zh">肯尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KEN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -723,8 +723,8 @@
                 <narrative xml:lang="ru">Мадагаскар</narrative>
                 <narrative xml:lang="zh">马达加斯加</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MDG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -772,8 +772,8 @@
                 <narrative xml:lang="ru">Малави</narrative>
                 <narrative xml:lang="zh">马拉维</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MWI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -821,8 +821,8 @@
                 <narrative xml:lang="ru">Маврикий</narrative>
                 <narrative xml:lang="zh">毛里求斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MUS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -870,8 +870,8 @@
                 <narrative xml:lang="ru">Остров Майотта</narrative>
                 <narrative xml:lang="zh">马约特</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>YT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>YT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MYT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -919,8 +919,8 @@
                 <narrative xml:lang="ru">Мозамбик</narrative>
                 <narrative xml:lang="zh">莫桑比克</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MOZ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -968,8 +968,8 @@
                 <narrative xml:lang="ru">Реюньон</narrative>
                 <narrative xml:lang="zh">留尼汪</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>RE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>RE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>REU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1017,8 +1017,8 @@
                 <narrative xml:lang="ru">Руанда</narrative>
                 <narrative xml:lang="zh">卢旺达</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>RW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>RW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>RWA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1066,8 +1066,8 @@
                 <narrative xml:lang="ru">Сейшельские Острова</narrative>
                 <narrative xml:lang="zh">塞舌尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SYC</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1115,8 +1115,8 @@
                 <narrative xml:lang="ru">Сомали</narrative>
                 <narrative xml:lang="zh">索马里</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SOM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1164,8 +1164,8 @@
                 <narrative xml:lang="ru">Южный Судан</narrative>
                 <narrative xml:lang="zh">南苏丹</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SSD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1213,8 +1213,8 @@
                 <narrative xml:lang="ru">Уганда</narrative>
                 <narrative xml:lang="zh">乌干达</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>UG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>UG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>UGA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1262,8 +1262,8 @@
                 <narrative xml:lang="ru">Объединенная Республика Танзания</narrative>
                 <narrative xml:lang="zh">坦桑尼亚联合共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TZA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1311,8 +1311,8 @@
                 <narrative xml:lang="ru">Замбия</narrative>
                 <narrative xml:lang="zh">赞比亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ZM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ZM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ZMB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1360,8 +1360,8 @@
                 <narrative xml:lang="ru">Зимбабве</narrative>
                 <narrative xml:lang="zh">津巴布韦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ZW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ZW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ZWE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1409,8 +1409,8 @@
                 <narrative xml:lang="ru">Ангола</narrative>
                 <narrative xml:lang="zh">安哥拉</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AGO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1458,8 +1458,8 @@
                 <narrative xml:lang="ru">Камерун</narrative>
                 <narrative xml:lang="zh">喀麦隆</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CMR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1507,8 +1507,8 @@
                 <narrative xml:lang="ru">Центральноафриканская Республика</narrative>
                 <narrative xml:lang="zh">中非共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CAF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1556,8 +1556,8 @@
                 <narrative xml:lang="ru">Чад</narrative>
                 <narrative xml:lang="zh">乍得</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TCD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1605,8 +1605,8 @@
                 <narrative xml:lang="ru">Конго</narrative>
                 <narrative xml:lang="zh">刚果</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>COG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1654,8 +1654,8 @@
                 <narrative xml:lang="ru">Демократическая Республика Конго</narrative>
                 <narrative xml:lang="zh">刚果民主共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>COD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1703,8 +1703,8 @@
                 <narrative xml:lang="ru">Экваториальная Гвинея</narrative>
                 <narrative xml:lang="zh">赤道几内亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GQ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GQ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GNQ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1752,8 +1752,8 @@
                 <narrative xml:lang="ru">Габон</narrative>
                 <narrative xml:lang="zh">加蓬</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GAB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1801,8 +1801,8 @@
                 <narrative xml:lang="ru">Сан-Томе и Принсипи</narrative>
                 <narrative xml:lang="zh">圣多美和普林西比</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ST</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ST</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>STP</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1850,8 +1850,8 @@
                 <narrative xml:lang="ru">Ботсвана</narrative>
                 <narrative xml:lang="zh">博茨瓦纳</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BWA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1899,8 +1899,8 @@
                 <narrative xml:lang="ru">Эсватини</narrative>
                 <narrative xml:lang="zh">斯威士兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SWZ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1948,8 +1948,8 @@
                 <narrative xml:lang="ru">Лесото</narrative>
                 <narrative xml:lang="zh">莱索托</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LSO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -1997,8 +1997,8 @@
                 <narrative xml:lang="ru">Намибия</narrative>
                 <narrative xml:lang="zh">纳米比亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NAM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2046,8 +2046,8 @@
                 <narrative xml:lang="ru">Южная Африка</narrative>
                 <narrative xml:lang="zh">南非</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ZA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ZA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ZAF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2095,8 +2095,8 @@
                 <narrative xml:lang="ru">Бенин</narrative>
                 <narrative xml:lang="zh">贝宁</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BJ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BJ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BEN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2144,8 +2144,8 @@
                 <narrative xml:lang="ru">Буркина-Фасо</narrative>
                 <narrative xml:lang="zh">布基纳法索</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BFA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2193,8 +2193,8 @@
                 <narrative xml:lang="ru">Кабо-Верде</narrative>
                 <narrative xml:lang="zh">佛得角</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CV</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CV</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CPV</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2242,8 +2242,8 @@
                 <narrative xml:lang="ru">Кот-д'Ивуар</narrative>
                 <narrative xml:lang="zh">科特迪瓦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CIV</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2291,8 +2291,8 @@
                 <narrative xml:lang="ru">Гамбия</narrative>
                 <narrative xml:lang="zh">冈比亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GMB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2340,8 +2340,8 @@
                 <narrative xml:lang="ru">Гана</narrative>
                 <narrative xml:lang="zh">加纳</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GHA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2389,8 +2389,8 @@
                 <narrative xml:lang="ru">Гвинея</narrative>
                 <narrative xml:lang="zh">几内亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GIN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2438,8 +2438,8 @@
                 <narrative xml:lang="ru">Гвинея-Бисау</narrative>
                 <narrative xml:lang="zh">几内亚比绍</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GNB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2487,8 +2487,8 @@
                 <narrative xml:lang="ru">Либерия</narrative>
                 <narrative xml:lang="zh">利比里亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LBR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2536,8 +2536,8 @@
                 <narrative xml:lang="ru">Мали</narrative>
                 <narrative xml:lang="zh">马里</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ML</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ML</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MLI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2585,8 +2585,8 @@
                 <narrative xml:lang="ru">Мавритания</narrative>
                 <narrative xml:lang="zh">毛里塔尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MRT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2634,8 +2634,8 @@
                 <narrative xml:lang="ru">Нигер</narrative>
                 <narrative xml:lang="zh">尼日尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NER</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2683,8 +2683,8 @@
                 <narrative xml:lang="ru">Нигерия</narrative>
                 <narrative xml:lang="zh">尼日利亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NGA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2732,8 +2732,8 @@
                 <narrative xml:lang="ru">Остров Святой Елены</narrative>
                 <narrative xml:lang="zh">圣赫勒拿</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SHN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2781,8 +2781,8 @@
                 <narrative xml:lang="ru">Сенегал</narrative>
                 <narrative xml:lang="zh">塞内加尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SEN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2830,8 +2830,8 @@
                 <narrative xml:lang="ru">Сьерра-Леоне</narrative>
                 <narrative xml:lang="zh">塞拉利昂</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SLE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2879,8 +2879,8 @@
                 <narrative xml:lang="ru">Того</narrative>
                 <narrative xml:lang="zh">多哥</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TGO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2928,8 +2928,8 @@
                 <narrative xml:lang="ru">Ангилья</narrative>
                 <narrative xml:lang="zh">安圭拉</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AIA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -2977,8 +2977,8 @@
                 <narrative xml:lang="ru">Антигуа и Барбуда</narrative>
                 <narrative xml:lang="zh">安提瓜和巴布达</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ATG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3026,8 +3026,8 @@
                 <narrative xml:lang="ru">Аруба</narrative>
                 <narrative xml:lang="zh">阿鲁巴</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ABW</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3075,8 +3075,8 @@
                 <narrative xml:lang="ru">Багамские Острова</narrative>
                 <narrative xml:lang="zh">巴哈马</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BHS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3124,8 +3124,8 @@
                 <narrative xml:lang="ru">Барбадос</narrative>
                 <narrative xml:lang="zh">巴巴多斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BB</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BB</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BRB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3173,8 +3173,8 @@
                 <narrative xml:lang="ru">Бонайре, Синт-Эстатиус и Саба</narrative>
                 <narrative xml:lang="zh">博纳尔，圣俄斯塔休斯和萨巴</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BQ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BQ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BES</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3222,8 +3222,8 @@
                 <narrative xml:lang="ru">Британские Виргинские острова</narrative>
                 <narrative xml:lang="zh">英属维尔京群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VGB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3271,8 +3271,8 @@
                 <narrative xml:lang="ru">Кайман острова</narrative>
                 <narrative xml:lang="zh">开曼群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CYM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3320,8 +3320,8 @@
                 <narrative xml:lang="ru">Куба</narrative>
                 <narrative xml:lang="zh">古巴</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CUB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3369,8 +3369,8 @@
                 <narrative xml:lang="ru">Кюрасао</narrative>
                 <narrative xml:lang="zh">库拉索</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CUW</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3418,8 +3418,8 @@
                 <narrative xml:lang="ru">Доминика</narrative>
                 <narrative xml:lang="zh">多米尼克</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>DM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>DM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>DMA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3467,8 +3467,8 @@
                 <narrative xml:lang="ru">Доминиканская Республика</narrative>
                 <narrative xml:lang="zh">多米尼加</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>DO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>DO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>DOM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3516,8 +3516,8 @@
                 <narrative xml:lang="ru">Гренада</narrative>
                 <narrative xml:lang="zh">格林纳达</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GRD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3565,8 +3565,8 @@
                 <narrative xml:lang="ru">Гваделупа</narrative>
                 <narrative xml:lang="zh">瓜德罗普</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GP</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GP</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GLP</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3614,8 +3614,8 @@
                 <narrative xml:lang="ru">Гаити</narrative>
                 <narrative xml:lang="zh">海地</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>HT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>HT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>HTI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3663,8 +3663,8 @@
                 <narrative xml:lang="ru">Ямайка</narrative>
                 <narrative xml:lang="zh">牙买加</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>JM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>JM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>JAM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3712,8 +3712,8 @@
                 <narrative xml:lang="ru">Мартиника</narrative>
                 <narrative xml:lang="zh">马提尼克</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MQ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MQ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MTQ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3761,8 +3761,8 @@
                 <narrative xml:lang="ru">Монтсеррат</narrative>
                 <narrative xml:lang="zh">蒙特塞拉特</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MSR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3810,8 +3810,8 @@
                 <narrative xml:lang="ru">Пуэрто-Рико</narrative>
                 <narrative xml:lang="zh">波多黎各</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PRI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3859,8 +3859,8 @@
                 <narrative xml:lang="ru">Сен-Бартелеми</narrative>
                 <narrative xml:lang="zh">圣巴泰勒米</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BLM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3908,8 +3908,8 @@
                 <narrative xml:lang="ru">Сент-Китс и Невис</narrative>
                 <narrative xml:lang="zh">圣基茨和尼维斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KNA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -3957,8 +3957,8 @@
                 <narrative xml:lang="ru">Сент-Люсия</narrative>
                 <narrative xml:lang="zh">圣卢西亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LCA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4006,8 +4006,8 @@
                 <narrative xml:lang="ru">Сен-Мартен (французская часть)</narrative>
                 <narrative xml:lang="zh">圣马丁（法属）</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MAF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4055,8 +4055,8 @@
                 <narrative xml:lang="ru">Сент-Винсент и Гренадины</narrative>
                 <narrative xml:lang="zh">圣文森特和格林纳丁斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VCT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4104,8 +4104,8 @@
                 <narrative xml:lang="ru">Синт-Мартен (нидерландская часть)</narrative>
                 <narrative xml:lang="zh">圣马丁（荷属）</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SX</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SX</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SXM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4153,8 +4153,8 @@
                 <narrative xml:lang="ru">Тринидад и Тобаго</narrative>
                 <narrative xml:lang="zh">特立尼达和多巴哥</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TTO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4202,8 +4202,8 @@
                 <narrative xml:lang="ru">Острова Теркс и Кайкос</narrative>
                 <narrative xml:lang="zh">特克斯和凯科斯群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TCA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4251,8 +4251,8 @@
                 <narrative xml:lang="ru">Виргинские острова Соединенных Штатов</narrative>
                 <narrative xml:lang="zh">美属维尔京群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VIR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4300,8 +4300,8 @@
                 <narrative xml:lang="ru">Белиз</narrative>
                 <narrative xml:lang="zh">伯利兹</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BLZ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4349,8 +4349,8 @@
                 <narrative xml:lang="ru">Коста-Рика</narrative>
                 <narrative xml:lang="zh">哥斯达黎加</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CRI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4398,8 +4398,8 @@
                 <narrative xml:lang="ru">Сальвадор</narrative>
                 <narrative xml:lang="zh">萨尔瓦多</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SV</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SV</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SLV</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4447,8 +4447,8 @@
                 <narrative xml:lang="ru">Гватемала</narrative>
                 <narrative xml:lang="zh">危地马拉</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GTM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4496,8 +4496,8 @@
                 <narrative xml:lang="ru">Гондурас</narrative>
                 <narrative xml:lang="zh">洪都拉斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>HN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>HN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>HND</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4545,8 +4545,8 @@
                 <narrative xml:lang="ru">Мексика</narrative>
                 <narrative xml:lang="zh">墨西哥</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MX</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MX</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MEX</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4594,8 +4594,8 @@
                 <narrative xml:lang="ru">Никарагуа</narrative>
                 <narrative xml:lang="zh">尼加拉瓜</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NIC</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4643,8 +4643,8 @@
                 <narrative xml:lang="ru">Панама</narrative>
                 <narrative xml:lang="zh">巴拿马</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PAN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4692,8 +4692,8 @@
                 <narrative xml:lang="ru">Аргентина</narrative>
                 <narrative xml:lang="zh">阿根廷</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ARG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4741,8 +4741,8 @@
                 <narrative xml:lang="ru">Боливия (Многонациональное Государство)</narrative>
                 <narrative xml:lang="zh">多民族玻利维亚国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BOL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4790,8 +4790,8 @@
                 <narrative xml:lang="ru">Остров Буве</narrative>
                 <narrative xml:lang="zh">布维岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BV</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BV</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BVT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4839,8 +4839,8 @@
                 <narrative xml:lang="ru">Бразилия</narrative>
                 <narrative xml:lang="zh">巴西</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BRA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4888,8 +4888,8 @@
                 <narrative xml:lang="ru">Чили</narrative>
                 <narrative xml:lang="zh">智利</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CHL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4937,8 +4937,8 @@
                 <narrative xml:lang="ru">Колумбия</narrative>
                 <narrative xml:lang="zh">哥伦比亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>COL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -4986,8 +4986,8 @@
                 <narrative xml:lang="ru">Эквадор</narrative>
                 <narrative xml:lang="zh">厄瓜多尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>EC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>EC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ECU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5035,8 +5035,8 @@
                 <narrative xml:lang="ru">Фолклендские (Мальвинские) острова</narrative>
                 <narrative xml:lang="zh">福克兰群岛（马尔维纳斯）</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>FK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>FK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>FLK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5084,8 +5084,8 @@
                 <narrative xml:lang="ru">Французская Гвиана</narrative>
                 <narrative xml:lang="zh">法属圭亚那</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GUF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5133,8 +5133,8 @@
                 <narrative xml:lang="ru">Гайана</narrative>
                 <narrative xml:lang="zh">圭亚那</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GUY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5182,8 +5182,8 @@
                 <narrative xml:lang="ru">Парагвай</narrative>
                 <narrative xml:lang="zh">巴拉圭</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PRY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5231,8 +5231,8 @@
                 <narrative xml:lang="ru">Перу</narrative>
                 <narrative xml:lang="zh">秘鲁</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PER</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5280,8 +5280,8 @@
                 <narrative xml:lang="ru">Южная Джорджия и Южные Сандвичевы острова</narrative>
                 <narrative xml:lang="zh">南乔治亚岛和南桑德韦奇岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SGS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5329,8 +5329,8 @@
                 <narrative xml:lang="ru">Суринам</narrative>
                 <narrative xml:lang="zh">苏里南</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SUR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5378,8 +5378,8 @@
                 <narrative xml:lang="ru">Уругвай</narrative>
                 <narrative xml:lang="zh">乌拉圭</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>UY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>UY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>URY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5427,8 +5427,8 @@
                 <narrative xml:lang="ru">Венесуэла (Боливарианская Республика)</narrative>
                 <narrative xml:lang="zh">委内瑞拉玻利瓦尔共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VEN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5476,8 +5476,8 @@
                 <narrative xml:lang="ru">Бермудские острова</narrative>
                 <narrative xml:lang="zh">百慕大</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BMU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5520,8 +5520,8 @@
                 <narrative xml:lang="ru">Канада</narrative>
                 <narrative xml:lang="zh">加拿大</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CAN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5564,8 +5564,8 @@
                 <narrative xml:lang="ru">Гренландия</narrative>
                 <narrative xml:lang="zh">格陵兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GRL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5608,8 +5608,8 @@
                 <narrative xml:lang="ru">Сен-Пьер и Микелон</narrative>
                 <narrative xml:lang="zh">圣皮埃尔和密克隆</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SPM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5652,8 +5652,8 @@
                 <narrative xml:lang="ru">Соединенные Штаты Америки</narrative>
                 <narrative xml:lang="zh">美利坚合众国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>US</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>US</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>USA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5696,8 +5696,8 @@
                 <narrative xml:lang="ru">Антарктике</narrative>
                 <narrative xml:lang="zh">南极洲</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AQ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AQ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ATA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5730,8 +5730,8 @@
                 <narrative xml:lang="ru">Казахстан</narrative>
                 <narrative xml:lang="zh">哈萨克斯坦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KAZ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5774,8 +5774,8 @@
                 <narrative xml:lang="ru">Кыргызстан</narrative>
                 <narrative xml:lang="zh">吉尔吉斯斯坦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KGZ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5818,8 +5818,8 @@
                 <narrative xml:lang="ru">Таджикистан</narrative>
                 <narrative xml:lang="zh">塔吉克斯坦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TJ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TJ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TJK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5862,8 +5862,8 @@
                 <narrative xml:lang="ru">Туркменистан</narrative>
                 <narrative xml:lang="zh">土库曼斯坦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TKM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5906,8 +5906,8 @@
                 <narrative xml:lang="ru">Узбекистан</narrative>
                 <narrative xml:lang="zh">乌兹别克斯坦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>UZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>UZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>UZB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5950,8 +5950,8 @@
                 <narrative xml:lang="ru">Китай</narrative>
                 <narrative xml:lang="zh">中国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CHN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -5994,8 +5994,8 @@
                 <narrative xml:lang="ru">Китай, Специальный административный район Гонконг</narrative>
                 <narrative xml:lang="zh">中国香港特别行政区</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>HK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>HK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>HKG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6038,8 +6038,8 @@
                 <narrative xml:lang="ru">Китай, Специальный административный район Макао</narrative>
                 <narrative xml:lang="zh">中国澳门特别行政区</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MAC</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6082,8 +6082,8 @@
                 <narrative xml:lang="ru">Корейская Народно-Демократическая Республика</narrative>
                 <narrative xml:lang="zh">朝鲜民主主义人民共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KP</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KP</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PRK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6126,8 +6126,8 @@
                 <narrative xml:lang="ru">Япония</narrative>
                 <narrative xml:lang="zh">日本</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>JP</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>JP</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>JPN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6170,8 +6170,8 @@
                 <narrative xml:lang="ru">Монголия</narrative>
                 <narrative xml:lang="zh">蒙古</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MNG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6214,8 +6214,8 @@
                 <narrative xml:lang="ru">Республика Корея</narrative>
                 <narrative xml:lang="zh">大韩民国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KOR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6258,8 +6258,8 @@
                 <narrative xml:lang="ru">Бруней-Даруссалам</narrative>
                 <narrative xml:lang="zh">文莱达鲁萨兰国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BRN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6302,8 +6302,8 @@
                 <narrative xml:lang="ru">Камбоджа</narrative>
                 <narrative xml:lang="zh">柬埔寨</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KHM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6346,8 +6346,8 @@
                 <narrative xml:lang="ru">Индонезия</narrative>
                 <narrative xml:lang="zh">印度尼西亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ID</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ID</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IDN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6390,8 +6390,8 @@
                 <narrative xml:lang="ru">Лаосская Народно-Демократическая Республика</narrative>
                 <narrative xml:lang="zh">老挝人民民主共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LAO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6434,8 +6434,8 @@
                 <narrative xml:lang="ru">Малайзия</narrative>
                 <narrative xml:lang="zh">马来西亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MYS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6478,8 +6478,8 @@
                 <narrative xml:lang="ru">Мьянма</narrative>
                 <narrative xml:lang="zh">缅甸</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MMR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6522,8 +6522,8 @@
                 <narrative xml:lang="ru">Филиппины</narrative>
                 <narrative xml:lang="zh">菲律宾</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PHL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6566,8 +6566,8 @@
                 <narrative xml:lang="ru">Сингапур</narrative>
                 <narrative xml:lang="zh">新加坡</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SGP</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6610,8 +6610,8 @@
                 <narrative xml:lang="ru">Таиланд</narrative>
                 <narrative xml:lang="zh">泰国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>THA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6654,8 +6654,8 @@
                 <narrative xml:lang="ru">Тимор-Лешти</narrative>
                 <narrative xml:lang="zh">东帝汶</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TLS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6698,8 +6698,8 @@
                 <narrative xml:lang="ru">Вьетнам</narrative>
                 <narrative xml:lang="zh">越南</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VNM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6742,8 +6742,8 @@
                 <narrative xml:lang="ru">Афганистан</narrative>
                 <narrative xml:lang="zh">阿富汗</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AFG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6786,8 +6786,8 @@
                 <narrative xml:lang="ru">Бангладеш</narrative>
                 <narrative xml:lang="zh">孟加拉国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BGD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6830,8 +6830,8 @@
                 <narrative xml:lang="ru">Бутан</narrative>
                 <narrative xml:lang="zh">不丹</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BTN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6874,8 +6874,8 @@
                 <narrative xml:lang="ru">Индия</narrative>
                 <narrative xml:lang="zh">印度</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IND</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6918,8 +6918,8 @@
                 <narrative xml:lang="ru">Иран (Исламская Республика)</narrative>
                 <narrative xml:lang="zh">伊朗伊斯兰共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IRN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -6962,8 +6962,8 @@
                 <narrative xml:lang="ru">Мальдивские Острова</narrative>
                 <narrative xml:lang="zh">马尔代夫</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MV</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MV</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MDV</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7006,8 +7006,8 @@
                 <narrative xml:lang="ru">Непал</narrative>
                 <narrative xml:lang="zh">尼泊尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NP</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NP</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NPL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7050,8 +7050,8 @@
                 <narrative xml:lang="ru">Пакистан</narrative>
                 <narrative xml:lang="zh">巴基斯坦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PAK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7094,8 +7094,8 @@
                 <narrative xml:lang="ru">Шри-Ланка</narrative>
                 <narrative xml:lang="zh">斯里兰卡</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LKA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7138,8 +7138,8 @@
                 <narrative xml:lang="ru">Армения</narrative>
                 <narrative xml:lang="zh">亚美尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ARM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7182,8 +7182,8 @@
                 <narrative xml:lang="ru">Азербайджан</narrative>
                 <narrative xml:lang="zh">阿塞拜疆</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AZE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7226,8 +7226,8 @@
                 <narrative xml:lang="ru">Бахрейн</narrative>
                 <narrative xml:lang="zh">巴林</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BHR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7270,8 +7270,8 @@
                 <narrative xml:lang="ru">Кипр</narrative>
                 <narrative xml:lang="zh">塞浦路斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CYP</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7314,8 +7314,8 @@
                 <narrative xml:lang="ru">Грузия</narrative>
                 <narrative xml:lang="zh">格鲁吉亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GEO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7358,8 +7358,8 @@
                 <narrative xml:lang="ru">Ирак</narrative>
                 <narrative xml:lang="zh">伊拉克</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IQ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IQ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IRQ</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7402,8 +7402,8 @@
                 <narrative xml:lang="ru">Израиль</narrative>
                 <narrative xml:lang="zh">以色列</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ISR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7446,8 +7446,8 @@
                 <narrative xml:lang="ru">Иордания</narrative>
                 <narrative xml:lang="zh">约旦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>JO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>JO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>JOR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7490,8 +7490,8 @@
                 <narrative xml:lang="ru">Кувейт</narrative>
                 <narrative xml:lang="zh">科威特</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KWT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7534,8 +7534,8 @@
                 <narrative xml:lang="ru">Ливан</narrative>
                 <narrative xml:lang="zh">黎巴嫩</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LB</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LB</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LBN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7578,8 +7578,8 @@
                 <narrative xml:lang="ru">Оман</narrative>
                 <narrative xml:lang="zh">阿曼</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>OM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>OM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>OMN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7622,8 +7622,8 @@
                 <narrative xml:lang="ru">Катар</narrative>
                 <narrative xml:lang="zh">卡塔尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>QA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>QA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>QAT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7666,8 +7666,8 @@
                 <narrative xml:lang="ru">Саудовская Аравия</narrative>
                 <narrative xml:lang="zh">沙特阿拉伯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SAU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7710,8 +7710,8 @@
                 <narrative xml:lang="ru">Государство Палестина</narrative>
                 <narrative xml:lang="zh">巴勒斯坦国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PSE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7754,8 +7754,8 @@
                 <narrative xml:lang="ru">Сирийская Арабская Республика</narrative>
                 <narrative xml:lang="zh">阿拉伯叙利亚共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SYR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7798,8 +7798,8 @@
                 <narrative xml:lang="ru">Турция</narrative>
                 <narrative xml:lang="zh">土耳其</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TUR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7842,8 +7842,8 @@
                 <narrative xml:lang="ru">Объединенные Арабские Эмираты</narrative>
                 <narrative xml:lang="zh">阿拉伯联合酋长国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ARE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7886,8 +7886,8 @@
                 <narrative xml:lang="ru">Йемен</narrative>
                 <narrative xml:lang="zh">也门</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>YE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>YE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>YEM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7930,8 +7930,8 @@
                 <narrative xml:lang="ru">Беларусь</narrative>
                 <narrative xml:lang="zh">白俄罗斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BY</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BY</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BLR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -7974,8 +7974,8 @@
                 <narrative xml:lang="ru">Болгария</narrative>
                 <narrative xml:lang="zh">保加利亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BGR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8018,8 +8018,8 @@
                 <narrative xml:lang="ru">Чехия</narrative>
                 <narrative xml:lang="zh">捷克</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CZE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8062,8 +8062,8 @@
                 <narrative xml:lang="ru">Венгрия</narrative>
                 <narrative xml:lang="zh">匈牙利</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>HU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>HU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>HUN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8106,8 +8106,8 @@
                 <narrative xml:lang="ru">Польша</narrative>
                 <narrative xml:lang="zh">波兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>POL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8150,8 +8150,8 @@
                 <narrative xml:lang="ru">Республика Молдова</narrative>
                 <narrative xml:lang="zh">摩尔多瓦共和国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MDA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8194,8 +8194,8 @@
                 <narrative xml:lang="ru">Румыния</narrative>
                 <narrative xml:lang="zh">罗马尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>RO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>RO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ROU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8238,8 +8238,8 @@
                 <narrative xml:lang="ru">Российская Федерация</narrative>
                 <narrative xml:lang="zh">俄罗斯联邦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>RU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>RU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>RUS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8282,8 +8282,8 @@
                 <narrative xml:lang="ru">Словакия</narrative>
                 <narrative xml:lang="zh">斯洛伐克</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SVK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8326,8 +8326,8 @@
                 <narrative xml:lang="ru">Украина</narrative>
                 <narrative xml:lang="zh">乌克兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>UA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>UA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>UKR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8370,8 +8370,8 @@
                 <narrative xml:lang="ru">Аландских островов</narrative>
                 <narrative xml:lang="zh">奥兰群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AX</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AX</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ALA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8414,8 +8414,8 @@
                 <narrative xml:lang="ru">Гернси</narrative>
                 <narrative xml:lang="zh">格恩西</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GGY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8463,8 +8463,8 @@
                 <narrative xml:lang="ru">Джерси</narrative>
                 <narrative xml:lang="zh">泽西</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>JE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>JE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>JEY</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8561,8 +8561,8 @@
                 <narrative xml:lang="ru">Дания</narrative>
                 <narrative xml:lang="zh">丹麦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>DK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>DK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>DNK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8605,8 +8605,8 @@
                 <narrative xml:lang="ru">Эстония</narrative>
                 <narrative xml:lang="zh">爱沙尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>EE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>EE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>EST</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8649,8 +8649,8 @@
                 <narrative xml:lang="ru">Фарерские острова</narrative>
                 <narrative xml:lang="zh">法罗群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>FO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>FO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>FRO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8693,8 +8693,8 @@
                 <narrative xml:lang="ru">Финляндия</narrative>
                 <narrative xml:lang="zh">芬兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>FI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>FI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>FIN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8737,8 +8737,8 @@
                 <narrative xml:lang="ru">Исландия</narrative>
                 <narrative xml:lang="zh">冰岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ISL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8781,8 +8781,8 @@
                 <narrative xml:lang="ru">Ирландия</narrative>
                 <narrative xml:lang="zh">爱尔兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IRL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8825,8 +8825,8 @@
                 <narrative xml:lang="ru">Остров Мэн</narrative>
                 <narrative xml:lang="zh">马恩岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>IMN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8869,8 +8869,8 @@
                 <narrative xml:lang="ru">Латвия</narrative>
                 <narrative xml:lang="zh">拉脱维亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LV</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LV</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LVA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8913,8 +8913,8 @@
                 <narrative xml:lang="ru">Литва</narrative>
                 <narrative xml:lang="zh">立陶宛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LTU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -8957,8 +8957,8 @@
                 <narrative xml:lang="ru">Норвегия</narrative>
                 <narrative xml:lang="zh">挪威</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NOR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9001,8 +9001,8 @@
                 <narrative xml:lang="ru">Острова Свальбард и Ян-Майен</narrative>
                 <narrative xml:lang="zh">斯瓦尔巴群岛和扬马延岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SJ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SJ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SJM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9045,8 +9045,8 @@
                 <narrative xml:lang="ru">Швеция</narrative>
                 <narrative xml:lang="zh">瑞典</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SWE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9089,8 +9089,8 @@
                 <narrative xml:lang="ru">Соединенное Королевство Великобритании и Северной Ирландии</narrative>
                 <narrative xml:lang="zh">大不列颠及北爱尔兰联合王国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GB</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GB</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GBR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9133,8 +9133,8 @@
                 <narrative xml:lang="ru">Албания</narrative>
                 <narrative xml:lang="zh">阿尔巴尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ALB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9177,8 +9177,8 @@
                 <narrative xml:lang="ru">Андорра</narrative>
                 <narrative xml:lang="zh">安道尔</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AD</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AD</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AND</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9221,8 +9221,8 @@
                 <narrative xml:lang="ru">Босния и Герцеговина</narrative>
                 <narrative xml:lang="zh">波斯尼亚和黑塞哥维那</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BIH</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9265,8 +9265,8 @@
                 <narrative xml:lang="ru">Хорватия</narrative>
                 <narrative xml:lang="zh">克罗地亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>HR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>HR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>HRV</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9309,8 +9309,8 @@
                 <narrative xml:lang="ru">Гибралтар</narrative>
                 <narrative xml:lang="zh">直布罗陀</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GIB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9353,8 +9353,8 @@
                 <narrative xml:lang="ru">Греция</narrative>
                 <narrative xml:lang="zh">希腊</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GRC</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9397,8 +9397,8 @@
                 <narrative xml:lang="ru">Святой Престол</narrative>
                 <narrative xml:lang="zh">教廷</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VA</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VA</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VAT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9441,8 +9441,8 @@
                 <narrative xml:lang="ru">Италия</narrative>
                 <narrative xml:lang="zh">意大利</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>IT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>IT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ITA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9485,8 +9485,8 @@
                 <narrative xml:lang="ru">Мальта</narrative>
                 <narrative xml:lang="zh">马耳他</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MLT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9529,8 +9529,8 @@
                 <narrative xml:lang="ru">Черногория</narrative>
                 <narrative xml:lang="zh">黑山</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ME</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ME</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MNE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9573,8 +9573,8 @@
                 <narrative xml:lang="ru">Северная Македония</narrative>
                 <narrative xml:lang="zh">北马其顿</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MKD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9617,8 +9617,8 @@
                 <narrative xml:lang="ru">Португалия</narrative>
                 <narrative xml:lang="zh">葡萄牙</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PRT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9661,8 +9661,8 @@
                 <narrative xml:lang="ru">Сан-Марино</narrative>
                 <narrative xml:lang="zh">圣马力诺</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SMR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9705,8 +9705,8 @@
                 <narrative xml:lang="ru">Сербия</narrative>
                 <narrative xml:lang="zh">塞尔维亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>RS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>RS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SRB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9749,8 +9749,8 @@
                 <narrative xml:lang="ru">Словения</narrative>
                 <narrative xml:lang="zh">斯洛文尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SVN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9793,8 +9793,8 @@
                 <narrative xml:lang="ru">Испания</narrative>
                 <narrative xml:lang="zh">西班牙</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>ES</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>ES</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ESP</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9837,8 +9837,8 @@
                 <narrative xml:lang="ru">Австрия</narrative>
                 <narrative xml:lang="zh">奥地利</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AT</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AT</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AUT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9881,8 +9881,8 @@
                 <narrative xml:lang="ru">Бельгия</narrative>
                 <narrative xml:lang="zh">比利时</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>BE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>BE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>BEL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9925,8 +9925,8 @@
                 <narrative xml:lang="ru">Франция</narrative>
                 <narrative xml:lang="zh">法国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>FR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>FR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>FRA</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -9969,8 +9969,8 @@
                 <narrative xml:lang="ru">Германия</narrative>
                 <narrative xml:lang="zh">德国</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>DE</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>DE</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>DEU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10013,8 +10013,8 @@
                 <narrative xml:lang="ru">Лихтенштейн</narrative>
                 <narrative xml:lang="zh">列支敦士登</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LIE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10057,8 +10057,8 @@
                 <narrative xml:lang="ru">Люксембург</narrative>
                 <narrative xml:lang="zh">卢森堡</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>LU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>LU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>LUX</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10101,8 +10101,8 @@
                 <narrative xml:lang="ru">Монако</narrative>
                 <narrative xml:lang="zh">摩纳哥</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MCO</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10145,8 +10145,8 @@
                 <narrative xml:lang="ru">Нидерланды</narrative>
                 <narrative xml:lang="zh">荷兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NL</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NL</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NLD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10189,8 +10189,8 @@
                 <narrative xml:lang="ru">Швейцария</narrative>
                 <narrative xml:lang="zh">瑞士</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CHE</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10233,8 +10233,8 @@
                 <narrative xml:lang="ru">Австралия</narrative>
                 <narrative xml:lang="zh">澳大利亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>AUS</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10277,8 +10277,8 @@
                 <narrative xml:lang="ru">остров Рождества</narrative>
                 <narrative xml:lang="zh">圣诞岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CX</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CX</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CXR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10321,8 +10321,8 @@
                 <narrative xml:lang="ru">Кокосовых (Килинг) островов</narrative>
                 <narrative xml:lang="zh">科科斯（基林）群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>CCK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10365,8 +10365,8 @@
                 <narrative xml:lang="ru">Остров Херд и острова Макдональд</narrative>
                 <narrative xml:lang="zh">赫德岛和麦克唐纳岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>HM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>HM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>HMD</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10409,8 +10409,8 @@
                 <narrative xml:lang="ru">Новая Зеландия</narrative>
                 <narrative xml:lang="zh">新西兰</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NZ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NZ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NZL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10453,8 +10453,8 @@
                 <narrative xml:lang="ru">Остров Норфолк</narrative>
                 <narrative xml:lang="zh">诺福克岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NFK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10497,8 +10497,8 @@
                 <narrative xml:lang="ru">Фиджи</narrative>
                 <narrative xml:lang="zh">斐济</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>FJ</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>FJ</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>FJI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10541,8 +10541,8 @@
                 <narrative xml:lang="ru">Новая Каледония</narrative>
                 <narrative xml:lang="zh">新喀里多尼亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NC</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NC</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NCL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10585,8 +10585,8 @@
                 <narrative xml:lang="ru">Папуа-Новая Гвинея</narrative>
                 <narrative xml:lang="zh">巴布亚新几内亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PG</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PG</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PNG</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10629,8 +10629,8 @@
                 <narrative xml:lang="ru">Соломоновы Острова</narrative>
                 <narrative xml:lang="zh">所罗门群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>SB</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>SB</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>SLB</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10673,8 +10673,8 @@
                 <narrative xml:lang="ru">Вануату</narrative>
                 <narrative xml:lang="zh">瓦努阿图</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>VU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>VU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>VUT</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10717,8 +10717,8 @@
                 <narrative xml:lang="ru">Гуам</narrative>
                 <narrative xml:lang="zh">关岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>GU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>GU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>GUM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10761,8 +10761,8 @@
                 <narrative xml:lang="ru">Кирибати</narrative>
                 <narrative xml:lang="zh">基里巴斯</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>KI</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>KI</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>KIR</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10805,8 +10805,8 @@
                 <narrative xml:lang="ru">Маршалловы Острова</narrative>
                 <narrative xml:lang="zh">马绍尔群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MH</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MH</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MHL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10849,8 +10849,8 @@
                 <narrative xml:lang="ru">Микронезия (Федеративные Штаты)</narrative>
                 <narrative xml:lang="zh">密克罗尼西亚联邦</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>FM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>FM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>FSM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10893,8 +10893,8 @@
                 <narrative xml:lang="ru">Науру</narrative>
                 <narrative xml:lang="zh">瑙鲁</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NR</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NR</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NRU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10937,8 +10937,8 @@
                 <narrative xml:lang="ru">Северные Марианские острова</narrative>
                 <narrative xml:lang="zh">北马里亚纳群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>MP</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>MP</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>MNP</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -10981,8 +10981,8 @@
                 <narrative xml:lang="ru">Палау</narrative>
                 <narrative xml:lang="zh">帕劳</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PW</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PW</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PLW</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11025,8 +11025,8 @@
                 <narrative xml:lang="ru">Внешние малые острова Соединенных Штатов</narrative>
                 <narrative xml:lang="zh">美国本土外小岛屿</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>UM</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>UM</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>UMI</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11069,8 +11069,8 @@
                 <narrative xml:lang="ru">Американское Самоа</narrative>
                 <narrative xml:lang="zh">美属萨摩亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>AS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>AS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>ASM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11113,8 +11113,8 @@
                 <narrative xml:lang="ru">Острова Кука</narrative>
                 <narrative xml:lang="zh">库克群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>CK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>CK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>COK</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11157,8 +11157,8 @@
                 <narrative xml:lang="ru">Французская Полинезия</narrative>
                 <narrative xml:lang="zh">法属波利尼西亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PYF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11201,8 +11201,8 @@
                 <narrative xml:lang="ru">Ниуэ</narrative>
                 <narrative xml:lang="zh">纽埃</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>NU</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>NU</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>NIU</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11245,8 +11245,8 @@
                 <narrative xml:lang="ru">Питкэрн</narrative>
                 <narrative xml:lang="zh">皮特凯恩</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>PN</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>PN</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>PCN</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11289,8 +11289,8 @@
                 <narrative xml:lang="ru">Самоа</narrative>
                 <narrative xml:lang="zh">萨摩亚</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>WS</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>WS</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>WSM</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11333,8 +11333,8 @@
                 <narrative xml:lang="ru">Токелау</narrative>
                 <narrative xml:lang="zh">托克劳</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TK</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TK</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TKL</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11377,8 +11377,8 @@
                 <narrative xml:lang="ru">Тонга</narrative>
                 <narrative xml:lang="zh">汤加</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TO</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TO</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TON</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11421,8 +11421,8 @@
                 <narrative xml:lang="ru">Тувалу</narrative>
                 <narrative xml:lang="zh">图瓦卢</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>TV</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>TV</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>TUV</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
@@ -11465,8 +11465,8 @@
                 <narrative xml:lang="ru">Острова Уоллис и Футуна</narrative>
                 <narrative xml:lang="zh">瓦利斯群岛和富图纳群岛</narrative>
             </name>
-            <codeforiati:iso-alpha-2-code/>
-            <codeforiati:iso-alpha-3-code>WF</codeforiati:iso-alpha-3-code>
+            <codeforiati:iso-alpha-2-code>WF</codeforiati:iso-alpha-2-code>
+            <codeforiati:iso-alpha-3-code>WLF</codeforiati:iso-alpha-3-code>
             <codeforiati:global-code>001</codeforiati:global-code>
             <codeforiati:global-name>
                 <narrative>World</narrative>
