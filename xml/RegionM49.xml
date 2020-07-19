@@ -13,7 +13,7 @@
         </category>
     </metadata>
     <codelist-items>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>012</code>
             <name>
                 <narrative>Algeria</narrative>
@@ -57,7 +57,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>818</code>
             <name>
                 <narrative>Egypt</narrative>
@@ -101,7 +101,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>434</code>
             <name>
                 <narrative>Libya</narrative>
@@ -145,7 +145,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>504</code>
             <name>
                 <narrative>Morocco</narrative>
@@ -189,7 +189,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>729</code>
             <name>
                 <narrative>Sudan</narrative>
@@ -233,7 +233,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>788</code>
             <name>
                 <narrative>Tunisia</narrative>
@@ -277,7 +277,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>732</code>
             <name>
                 <narrative>Western Sahara</narrative>
@@ -321,7 +321,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>086</code>
             <name>
                 <narrative>British Indian Ocean Territory</narrative>
@@ -370,7 +370,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>108</code>
             <name>
                 <narrative>Burundi</narrative>
@@ -419,7 +419,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>174</code>
             <name>
                 <narrative>Comoros</narrative>
@@ -468,7 +468,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>262</code>
             <name>
                 <narrative>Djibouti</narrative>
@@ -517,7 +517,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>232</code>
             <name>
                 <narrative>Eritrea</narrative>
@@ -566,7 +566,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>231</code>
             <name>
                 <narrative>Ethiopia</narrative>
@@ -615,7 +615,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>260</code>
             <name>
                 <narrative>French Southern Territories</narrative>
@@ -664,7 +664,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>404</code>
             <name>
                 <narrative>Kenya</narrative>
@@ -713,7 +713,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>450</code>
             <name>
                 <narrative>Madagascar</narrative>
@@ -762,7 +762,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>454</code>
             <name>
                 <narrative>Malawi</narrative>
@@ -811,7 +811,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>480</code>
             <name>
                 <narrative>Mauritius</narrative>
@@ -860,7 +860,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>175</code>
             <name>
                 <narrative>Mayotte</narrative>
@@ -909,7 +909,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>508</code>
             <name>
                 <narrative>Mozambique</narrative>
@@ -958,7 +958,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>638</code>
             <name>
                 <narrative>Réunion</narrative>
@@ -1007,7 +1007,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>646</code>
             <name>
                 <narrative>Rwanda</narrative>
@@ -1056,7 +1056,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>690</code>
             <name>
                 <narrative>Seychelles</narrative>
@@ -1105,7 +1105,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>706</code>
             <name>
                 <narrative>Somalia</narrative>
@@ -1154,7 +1154,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>728</code>
             <name>
                 <narrative>South Sudan</narrative>
@@ -1203,7 +1203,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>800</code>
             <name>
                 <narrative>Uganda</narrative>
@@ -1252,7 +1252,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>834</code>
             <name>
                 <narrative>United Republic of Tanzania</narrative>
@@ -1301,7 +1301,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>894</code>
             <name>
                 <narrative>Zambia</narrative>
@@ -1350,7 +1350,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>716</code>
             <name>
                 <narrative>Zimbabwe</narrative>
@@ -1399,7 +1399,7 @@
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>024</code>
             <name>
                 <narrative>Angola</narrative>
@@ -1448,7 +1448,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>120</code>
             <name>
                 <narrative>Cameroon</narrative>
@@ -1497,7 +1497,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>140</code>
             <name>
                 <narrative>Central African Republic</narrative>
@@ -1546,7 +1546,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>148</code>
             <name>
                 <narrative>Chad</narrative>
@@ -1595,7 +1595,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>178</code>
             <name>
                 <narrative>Congo</narrative>
@@ -1644,7 +1644,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>180</code>
             <name>
                 <narrative>Democratic Republic of the Congo</narrative>
@@ -1693,7 +1693,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>226</code>
             <name>
                 <narrative>Equatorial Guinea</narrative>
@@ -1742,7 +1742,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>266</code>
             <name>
                 <narrative>Gabon</narrative>
@@ -1791,7 +1791,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>678</code>
             <name>
                 <narrative>Sao Tome and Principe</narrative>
@@ -1840,7 +1840,7 @@
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>072</code>
             <name>
                 <narrative>Botswana</narrative>
@@ -1889,7 +1889,7 @@
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>748</code>
             <name>
                 <narrative>Eswatini</narrative>
@@ -1938,7 +1938,7 @@
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>426</code>
             <name>
                 <narrative>Lesotho</narrative>
@@ -1987,7 +1987,7 @@
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>516</code>
             <name>
                 <narrative>Namibia</narrative>
@@ -2036,7 +2036,7 @@
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>710</code>
             <name>
                 <narrative>South Africa</narrative>
@@ -2085,7 +2085,7 @@
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>204</code>
             <name>
                 <narrative>Benin</narrative>
@@ -2134,7 +2134,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>854</code>
             <name>
                 <narrative>Burkina Faso</narrative>
@@ -2183,7 +2183,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>132</code>
             <name>
                 <narrative>Cabo Verde</narrative>
@@ -2232,7 +2232,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>384</code>
             <name>
                 <narrative>Côte d’Ivoire</narrative>
@@ -2281,7 +2281,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>270</code>
             <name>
                 <narrative>Gambia</narrative>
@@ -2330,7 +2330,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>288</code>
             <name>
                 <narrative>Ghana</narrative>
@@ -2379,7 +2379,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>324</code>
             <name>
                 <narrative>Guinea</narrative>
@@ -2428,7 +2428,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>624</code>
             <name>
                 <narrative>Guinea-Bissau</narrative>
@@ -2477,7 +2477,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>430</code>
             <name>
                 <narrative>Liberia</narrative>
@@ -2526,7 +2526,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>466</code>
             <name>
                 <narrative>Mali</narrative>
@@ -2575,7 +2575,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>478</code>
             <name>
                 <narrative>Mauritania</narrative>
@@ -2624,7 +2624,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>562</code>
             <name>
                 <narrative>Niger</narrative>
@@ -2673,7 +2673,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>566</code>
             <name>
                 <narrative>Nigeria</narrative>
@@ -2722,7 +2722,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>654</code>
             <name>
                 <narrative>Saint Helena</narrative>
@@ -2771,7 +2771,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>686</code>
             <name>
                 <narrative>Senegal</narrative>
@@ -2820,7 +2820,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>694</code>
             <name>
                 <narrative>Sierra Leone</narrative>
@@ -2869,7 +2869,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>768</code>
             <name>
                 <narrative>Togo</narrative>
@@ -2918,7 +2918,7 @@
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>660</code>
             <name>
                 <narrative>Anguilla</narrative>
@@ -2967,7 +2967,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>028</code>
             <name>
                 <narrative>Antigua and Barbuda</narrative>
@@ -3016,7 +3016,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>533</code>
             <name>
                 <narrative>Aruba</narrative>
@@ -3065,7 +3065,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>044</code>
             <name>
                 <narrative>Bahamas</narrative>
@@ -3114,7 +3114,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>052</code>
             <name>
                 <narrative>Barbados</narrative>
@@ -3163,7 +3163,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>535</code>
             <name>
                 <narrative>Bonaire, Sint Eustatius and Saba</narrative>
@@ -3212,7 +3212,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>092</code>
             <name>
                 <narrative>British Virgin Islands</narrative>
@@ -3261,7 +3261,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>136</code>
             <name>
                 <narrative>Cayman Islands</narrative>
@@ -3310,7 +3310,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>192</code>
             <name>
                 <narrative>Cuba</narrative>
@@ -3359,7 +3359,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>531</code>
             <name>
                 <narrative>Curaçao</narrative>
@@ -3408,7 +3408,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>212</code>
             <name>
                 <narrative>Dominica</narrative>
@@ -3457,7 +3457,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>214</code>
             <name>
                 <narrative>Dominican Republic</narrative>
@@ -3506,7 +3506,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>308</code>
             <name>
                 <narrative>Grenada</narrative>
@@ -3555,7 +3555,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>312</code>
             <name>
                 <narrative>Guadeloupe</narrative>
@@ -3604,7 +3604,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>332</code>
             <name>
                 <narrative>Haiti</narrative>
@@ -3653,7 +3653,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>388</code>
             <name>
                 <narrative>Jamaica</narrative>
@@ -3702,7 +3702,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>474</code>
             <name>
                 <narrative>Martinique</narrative>
@@ -3751,7 +3751,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>500</code>
             <name>
                 <narrative>Montserrat</narrative>
@@ -3800,7 +3800,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>630</code>
             <name>
                 <narrative>Puerto Rico</narrative>
@@ -3849,7 +3849,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>652</code>
             <name>
                 <narrative>Saint Barthélemy</narrative>
@@ -3898,7 +3898,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>659</code>
             <name>
                 <narrative>Saint Kitts and Nevis</narrative>
@@ -3947,7 +3947,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>662</code>
             <name>
                 <narrative>Saint Lucia</narrative>
@@ -3996,7 +3996,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>663</code>
             <name>
                 <narrative>Saint Martin (French Part)</narrative>
@@ -4045,7 +4045,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>670</code>
             <name>
                 <narrative>Saint Vincent and the Grenadines</narrative>
@@ -4094,7 +4094,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>534</code>
             <name>
                 <narrative>Sint Maarten (Dutch part)</narrative>
@@ -4143,7 +4143,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>780</code>
             <name>
                 <narrative>Trinidad and Tobago</narrative>
@@ -4192,7 +4192,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>796</code>
             <name>
                 <narrative>Turks and Caicos Islands</narrative>
@@ -4241,7 +4241,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>850</code>
             <name>
                 <narrative>United States Virgin Islands</narrative>
@@ -4290,7 +4290,7 @@
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>084</code>
             <name>
                 <narrative>Belize</narrative>
@@ -4339,7 +4339,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>188</code>
             <name>
                 <narrative>Costa Rica</narrative>
@@ -4388,7 +4388,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>222</code>
             <name>
                 <narrative>El Salvador</narrative>
@@ -4437,7 +4437,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>320</code>
             <name>
                 <narrative>Guatemala</narrative>
@@ -4486,7 +4486,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>340</code>
             <name>
                 <narrative>Honduras</narrative>
@@ -4535,7 +4535,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>484</code>
             <name>
                 <narrative>Mexico</narrative>
@@ -4584,7 +4584,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>558</code>
             <name>
                 <narrative>Nicaragua</narrative>
@@ -4633,7 +4633,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>591</code>
             <name>
                 <narrative>Panama</narrative>
@@ -4682,7 +4682,7 @@
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>032</code>
             <name>
                 <narrative>Argentina</narrative>
@@ -4731,7 +4731,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>068</code>
             <name>
                 <narrative>Bolivia (Plurinational State of)</narrative>
@@ -4780,7 +4780,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>074</code>
             <name>
                 <narrative>Bouvet Island</narrative>
@@ -4829,7 +4829,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>076</code>
             <name>
                 <narrative>Brazil</narrative>
@@ -4878,7 +4878,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>152</code>
             <name>
                 <narrative>Chile</narrative>
@@ -4927,7 +4927,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>170</code>
             <name>
                 <narrative>Colombia</narrative>
@@ -4976,7 +4976,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>218</code>
             <name>
                 <narrative>Ecuador</narrative>
@@ -5025,7 +5025,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>238</code>
             <name>
                 <narrative>Falkland Islands (Malvinas)</narrative>
@@ -5074,7 +5074,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>254</code>
             <name>
                 <narrative>French Guiana</narrative>
@@ -5123,7 +5123,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>328</code>
             <name>
                 <narrative>Guyana</narrative>
@@ -5172,7 +5172,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>600</code>
             <name>
                 <narrative>Paraguay</narrative>
@@ -5221,7 +5221,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>604</code>
             <name>
                 <narrative>Peru</narrative>
@@ -5270,7 +5270,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>239</code>
             <name>
                 <narrative>South Georgia and the South Sandwich Islands</narrative>
@@ -5319,7 +5319,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>740</code>
             <name>
                 <narrative>Suriname</narrative>
@@ -5368,7 +5368,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>858</code>
             <name>
                 <narrative>Uruguay</narrative>
@@ -5417,7 +5417,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>862</code>
             <name>
                 <narrative>Venezuela (Bolivarian Republic of)</narrative>
@@ -5466,7 +5466,7 @@
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>060</code>
             <name>
                 <narrative>Bermuda</narrative>
@@ -5510,7 +5510,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>124</code>
             <name>
                 <narrative>Canada</narrative>
@@ -5554,7 +5554,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>304</code>
             <name>
                 <narrative>Greenland</narrative>
@@ -5598,7 +5598,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>666</code>
             <name>
                 <narrative>Saint Pierre and Miquelon</narrative>
@@ -5642,7 +5642,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>840</code>
             <name>
                 <narrative>United States of America</narrative>
@@ -5686,7 +5686,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>010</code>
             <name>
                 <narrative>Antarctica</narrative>
@@ -5720,7 +5720,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>398</code>
             <name>
                 <narrative>Kazakhstan</narrative>
@@ -5764,7 +5764,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>417</code>
             <name>
                 <narrative>Kyrgyzstan</narrative>
@@ -5808,7 +5808,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>762</code>
             <name>
                 <narrative>Tajikistan</narrative>
@@ -5852,7 +5852,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>795</code>
             <name>
                 <narrative>Turkmenistan</narrative>
@@ -5896,7 +5896,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>860</code>
             <name>
                 <narrative>Uzbekistan</narrative>
@@ -5940,7 +5940,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>156</code>
             <name>
                 <narrative>China</narrative>
@@ -5984,7 +5984,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>344</code>
             <name>
                 <narrative>China, Hong Kong Special Administrative Region</narrative>
@@ -6028,7 +6028,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>446</code>
             <name>
                 <narrative>China, Macao Special Administrative Region</narrative>
@@ -6072,7 +6072,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>408</code>
             <name>
                 <narrative>Democratic People's Republic of Korea</narrative>
@@ -6116,7 +6116,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>392</code>
             <name>
                 <narrative>Japan</narrative>
@@ -6160,7 +6160,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>496</code>
             <name>
                 <narrative>Mongolia</narrative>
@@ -6204,7 +6204,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>410</code>
             <name>
                 <narrative>Republic of Korea</narrative>
@@ -6248,7 +6248,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>096</code>
             <name>
                 <narrative>Brunei Darussalam</narrative>
@@ -6292,7 +6292,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>116</code>
             <name>
                 <narrative>Cambodia</narrative>
@@ -6336,7 +6336,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>360</code>
             <name>
                 <narrative>Indonesia</narrative>
@@ -6380,7 +6380,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>418</code>
             <name>
                 <narrative>Lao People's Democratic Republic</narrative>
@@ -6424,7 +6424,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>458</code>
             <name>
                 <narrative>Malaysia</narrative>
@@ -6468,7 +6468,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>104</code>
             <name>
                 <narrative>Myanmar</narrative>
@@ -6512,7 +6512,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>608</code>
             <name>
                 <narrative>Philippines</narrative>
@@ -6556,7 +6556,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>702</code>
             <name>
                 <narrative>Singapore</narrative>
@@ -6600,7 +6600,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>764</code>
             <name>
                 <narrative>Thailand</narrative>
@@ -6644,7 +6644,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>626</code>
             <name>
                 <narrative>Timor-Leste</narrative>
@@ -6688,7 +6688,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>704</code>
             <name>
                 <narrative>Viet Nam</narrative>
@@ -6732,7 +6732,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>004</code>
             <name>
                 <narrative>Afghanistan</narrative>
@@ -6776,7 +6776,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>050</code>
             <name>
                 <narrative>Bangladesh</narrative>
@@ -6820,7 +6820,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>064</code>
             <name>
                 <narrative>Bhutan</narrative>
@@ -6864,7 +6864,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>356</code>
             <name>
                 <narrative>India</narrative>
@@ -6908,7 +6908,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>364</code>
             <name>
                 <narrative>Iran (Islamic Republic of)</narrative>
@@ -6952,7 +6952,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>462</code>
             <name>
                 <narrative>Maldives</narrative>
@@ -6996,7 +6996,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>524</code>
             <name>
                 <narrative>Nepal</narrative>
@@ -7040,7 +7040,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>586</code>
             <name>
                 <narrative>Pakistan</narrative>
@@ -7084,7 +7084,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>144</code>
             <name>
                 <narrative>Sri Lanka</narrative>
@@ -7128,7 +7128,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>051</code>
             <name>
                 <narrative>Armenia</narrative>
@@ -7172,7 +7172,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>031</code>
             <name>
                 <narrative>Azerbaijan</narrative>
@@ -7216,7 +7216,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>048</code>
             <name>
                 <narrative>Bahrain</narrative>
@@ -7260,7 +7260,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>196</code>
             <name>
                 <narrative>Cyprus</narrative>
@@ -7304,7 +7304,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>268</code>
             <name>
                 <narrative>Georgia</narrative>
@@ -7348,7 +7348,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>368</code>
             <name>
                 <narrative>Iraq</narrative>
@@ -7392,7 +7392,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>376</code>
             <name>
                 <narrative>Israel</narrative>
@@ -7436,7 +7436,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>400</code>
             <name>
                 <narrative>Jordan</narrative>
@@ -7480,7 +7480,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>414</code>
             <name>
                 <narrative>Kuwait</narrative>
@@ -7524,7 +7524,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>422</code>
             <name>
                 <narrative>Lebanon</narrative>
@@ -7568,7 +7568,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>512</code>
             <name>
                 <narrative>Oman</narrative>
@@ -7612,7 +7612,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>634</code>
             <name>
                 <narrative>Qatar</narrative>
@@ -7656,7 +7656,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>682</code>
             <name>
                 <narrative>Saudi Arabia</narrative>
@@ -7700,7 +7700,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>275</code>
             <name>
                 <narrative>State of Palestine</narrative>
@@ -7744,7 +7744,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>760</code>
             <name>
                 <narrative>Syrian Arab Republic</narrative>
@@ -7788,7 +7788,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>792</code>
             <name>
                 <narrative>Turkey</narrative>
@@ -7832,7 +7832,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>784</code>
             <name>
                 <narrative>United Arab Emirates</narrative>
@@ -7876,7 +7876,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>887</code>
             <name>
                 <narrative>Yemen</narrative>
@@ -7920,7 +7920,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>112</code>
             <name>
                 <narrative>Belarus</narrative>
@@ -7964,7 +7964,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>100</code>
             <name>
                 <narrative>Bulgaria</narrative>
@@ -8008,7 +8008,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>203</code>
             <name>
                 <narrative>Czechia</narrative>
@@ -8052,7 +8052,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>348</code>
             <name>
                 <narrative>Hungary</narrative>
@@ -8096,7 +8096,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>616</code>
             <name>
                 <narrative>Poland</narrative>
@@ -8140,7 +8140,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>498</code>
             <name>
                 <narrative>Republic of Moldova</narrative>
@@ -8184,7 +8184,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>642</code>
             <name>
                 <narrative>Romania</narrative>
@@ -8228,7 +8228,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>643</code>
             <name>
                 <narrative>Russian Federation</narrative>
@@ -8272,7 +8272,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>703</code>
             <name>
                 <narrative>Slovakia</narrative>
@@ -8316,7 +8316,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>804</code>
             <name>
                 <narrative>Ukraine</narrative>
@@ -8360,7 +8360,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>248</code>
             <name>
                 <narrative>Åland Islands</narrative>
@@ -8404,7 +8404,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>831</code>
             <name>
                 <narrative>Guernsey</narrative>
@@ -8453,7 +8453,7 @@
                 <narrative xml:lang="zh">海峡群岛</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>832</code>
             <name>
                 <narrative>Jersey</narrative>
@@ -8502,7 +8502,7 @@
                 <narrative xml:lang="zh">海峡群岛</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>680</code>
             <name>
                 <narrative>Sark</narrative>
@@ -8551,7 +8551,7 @@
                 <narrative xml:lang="zh">海峡群岛</narrative>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>208</code>
             <name>
                 <narrative>Denmark</narrative>
@@ -8595,7 +8595,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>233</code>
             <name>
                 <narrative>Estonia</narrative>
@@ -8639,7 +8639,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>234</code>
             <name>
                 <narrative>Faroe Islands</narrative>
@@ -8683,7 +8683,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>246</code>
             <name>
                 <narrative>Finland</narrative>
@@ -8727,7 +8727,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>352</code>
             <name>
                 <narrative>Iceland</narrative>
@@ -8771,7 +8771,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>372</code>
             <name>
                 <narrative>Ireland</narrative>
@@ -8815,7 +8815,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>833</code>
             <name>
                 <narrative>Isle of Man</narrative>
@@ -8859,7 +8859,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>428</code>
             <name>
                 <narrative>Latvia</narrative>
@@ -8903,7 +8903,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>440</code>
             <name>
                 <narrative>Lithuania</narrative>
@@ -8947,7 +8947,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>578</code>
             <name>
                 <narrative>Norway</narrative>
@@ -8991,7 +8991,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>744</code>
             <name>
                 <narrative>Svalbard and Jan Mayen Islands</narrative>
@@ -9035,7 +9035,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>752</code>
             <name>
                 <narrative>Sweden</narrative>
@@ -9079,7 +9079,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>826</code>
             <name>
                 <narrative>United Kingdom of Great Britain and Northern Ireland</narrative>
@@ -9123,7 +9123,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>008</code>
             <name>
                 <narrative>Albania</narrative>
@@ -9167,7 +9167,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>020</code>
             <name>
                 <narrative>Andorra</narrative>
@@ -9211,7 +9211,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>070</code>
             <name>
                 <narrative>Bosnia and Herzegovina</narrative>
@@ -9255,7 +9255,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>191</code>
             <name>
                 <narrative>Croatia</narrative>
@@ -9299,7 +9299,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>292</code>
             <name>
                 <narrative>Gibraltar</narrative>
@@ -9343,7 +9343,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>300</code>
             <name>
                 <narrative>Greece</narrative>
@@ -9387,7 +9387,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>336</code>
             <name>
                 <narrative>Holy See</narrative>
@@ -9431,7 +9431,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>380</code>
             <name>
                 <narrative>Italy</narrative>
@@ -9475,7 +9475,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>470</code>
             <name>
                 <narrative>Malta</narrative>
@@ -9519,7 +9519,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>499</code>
             <name>
                 <narrative>Montenegro</narrative>
@@ -9563,7 +9563,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>807</code>
             <name>
                 <narrative>North Macedonia</narrative>
@@ -9607,7 +9607,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>620</code>
             <name>
                 <narrative>Portugal</narrative>
@@ -9651,7 +9651,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>674</code>
             <name>
                 <narrative>San Marino</narrative>
@@ -9695,7 +9695,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>688</code>
             <name>
                 <narrative>Serbia</narrative>
@@ -9739,7 +9739,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>705</code>
             <name>
                 <narrative>Slovenia</narrative>
@@ -9783,7 +9783,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>724</code>
             <name>
                 <narrative>Spain</narrative>
@@ -9827,7 +9827,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>040</code>
             <name>
                 <narrative>Austria</narrative>
@@ -9871,7 +9871,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>056</code>
             <name>
                 <narrative>Belgium</narrative>
@@ -9915,7 +9915,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>250</code>
             <name>
                 <narrative>France</narrative>
@@ -9959,7 +9959,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>276</code>
             <name>
                 <narrative>Germany</narrative>
@@ -10003,7 +10003,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>438</code>
             <name>
                 <narrative>Liechtenstein</narrative>
@@ -10047,7 +10047,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>442</code>
             <name>
                 <narrative>Luxembourg</narrative>
@@ -10091,7 +10091,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>492</code>
             <name>
                 <narrative>Monaco</narrative>
@@ -10135,7 +10135,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>528</code>
             <name>
                 <narrative>Netherlands</narrative>
@@ -10179,7 +10179,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>756</code>
             <name>
                 <narrative>Switzerland</narrative>
@@ -10223,7 +10223,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>036</code>
             <name>
                 <narrative>Australia</narrative>
@@ -10267,7 +10267,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>162</code>
             <name>
                 <narrative>Christmas Island</narrative>
@@ -10311,7 +10311,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>166</code>
             <name>
                 <narrative>Cocos (Keeling) Islands</narrative>
@@ -10355,7 +10355,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>334</code>
             <name>
                 <narrative>Heard Island and McDonald Islands</narrative>
@@ -10399,7 +10399,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>554</code>
             <name>
                 <narrative>New Zealand</narrative>
@@ -10443,7 +10443,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>574</code>
             <name>
                 <narrative>Norfolk Island</narrative>
@@ -10487,7 +10487,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>242</code>
             <name>
                 <narrative>Fiji</narrative>
@@ -10531,7 +10531,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>540</code>
             <name>
                 <narrative>New Caledonia</narrative>
@@ -10575,7 +10575,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>598</code>
             <name>
                 <narrative>Papua New Guinea</narrative>
@@ -10619,7 +10619,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>090</code>
             <name>
                 <narrative>Solomon Islands</narrative>
@@ -10663,7 +10663,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>548</code>
             <name>
                 <narrative>Vanuatu</narrative>
@@ -10707,7 +10707,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>316</code>
             <name>
                 <narrative>Guam</narrative>
@@ -10751,7 +10751,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>296</code>
             <name>
                 <narrative>Kiribati</narrative>
@@ -10795,7 +10795,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>584</code>
             <name>
                 <narrative>Marshall Islands</narrative>
@@ -10839,7 +10839,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>583</code>
             <name>
                 <narrative>Micronesia (Federated States of)</narrative>
@@ -10883,7 +10883,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>520</code>
             <name>
                 <narrative>Nauru</narrative>
@@ -10927,7 +10927,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>580</code>
             <name>
                 <narrative>Northern Mariana Islands</narrative>
@@ -10971,7 +10971,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>585</code>
             <name>
                 <narrative>Palau</narrative>
@@ -11015,7 +11015,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>581</code>
             <name>
                 <narrative>United States Minor Outlying Islands</narrative>
@@ -11059,7 +11059,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>016</code>
             <name>
                 <narrative>American Samoa</narrative>
@@ -11103,7 +11103,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>184</code>
             <name>
                 <narrative>Cook Islands</narrative>
@@ -11147,7 +11147,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>258</code>
             <name>
                 <narrative>French Polynesia</narrative>
@@ -11191,7 +11191,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>570</code>
             <name>
                 <narrative>Niue</narrative>
@@ -11235,7 +11235,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>612</code>
             <name>
                 <narrative>Pitcairn</narrative>
@@ -11279,7 +11279,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>882</code>
             <name>
                 <narrative>Samoa</narrative>
@@ -11323,7 +11323,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>772</code>
             <name>
                 <narrative>Tokelau</narrative>
@@ -11367,7 +11367,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>776</code>
             <name>
                 <narrative>Tonga</narrative>
@@ -11411,7 +11411,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>798</code>
             <name>
                 <narrative>Tuvalu</narrative>
@@ -11455,7 +11455,7 @@
                 <narrative/>
             </codeforiati:intermediate-region-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>876</code>
             <name>
                 <narrative>Wallis and Futuna Islands</narrative>
