@@ -1,6 +1,6 @@
 # Unofficial Codelists
 
-[![Build Status](https://travis-ci.com/codeforIATI/Unofficial-Codelists.svg?branch=master)](https://travis-ci.com/codeforIATI/Unofficial-Codelists)
+[![Build Status](https://github.com/codeforIATI/Unofficial-Codelists/workflows/CI/badge.svg?branch=master)](https://github.com/codeforIATI/Unofficial-Codelists/actions?query=workflow%3ACI)
 
 ## Policy for merging changes
 
