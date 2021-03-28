@@ -1,27 +1,12 @@
 <mappings>
     <mapping>
-        <path>//iati-activity/recipient-region/@code</path>
-        <codelist ref="RegionM49" />
-        <condition>@vocabulary = '2'</condition>
-    </mapping>
-    <mapping>
         <path>//iati-activity/sector/@code</path>
         <codelist ref="HumanitarianGlobalCluster" />
         <condition>@vocabulary = '10'</condition>
     </mapping>
     <mapping>
-        <path>//iati-activity/transaction/recipient-region/@code</path>
-        <codelist ref="RegionM49" />
-        <condition>@vocabulary = '2'</condition>
-    </mapping>
-    <mapping>
         <path>//iati-activity/transaction/sector/@code</path>
         <codelist ref="HumanitarianGlobalCluster" />
         <condition>@vocabulary = '10'</condition>
-    </mapping>
-    <mapping>
-        <path>//iati-organisation/recipient-region-budget/recipient-region/@code</path>
-        <codelist ref="RegionM49" />
-        <condition>@vocabulary = '2'</condition>
     </mapping>
 </mappings>
