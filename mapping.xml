@@ -1,12 +1,12 @@
 <mappings>
     <mapping>
         <path>//iati-activity/sector/@code</path>
-        <codelist ref="HumanitarianGlobalCluster" />
+        <codelist ref="HumanitarianGlobalClusters" />
         <condition>@vocabulary = '10'</condition>
     </mapping>
     <mapping>
         <path>//iati-activity/transaction/sector/@code</path>
-        <codelist ref="HumanitarianGlobalCluster" />
+        <codelist ref="HumanitarianGlobalClusters" />
         <condition>@vocabulary = '10'</condition>
     </mapping>
 </mappings>
