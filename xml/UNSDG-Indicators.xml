@@ -83,6 +83,13 @@
             <category>1.5</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>1.a.1</code>
+            <name>
+                <narrative>Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income</narrative>
+            </name>
+            <category>1.a</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>1.a.2</code>
             <name>
                 <narrative>Proportion of total government spending on essential services (education, health and social protection)</narrative>
@@ -90,11 +97,11 @@
             <category>1.a</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>1.a.1</code>
+            <code>1.b.1</code>
             <name>
-                <narrative>Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income</narrative>
+                <narrative>Pro-poor public social spending</narrative>
             </name>
-            <category>1.a</category>
+            <category>1.b</category>
         </codelist-item>
         <codelist-item status="active">
             <code>2.1.1</code>
@@ -144,6 +151,13 @@
                 <narrative>Average income of small-scale food producers, by sex and indigenous status</narrative>
             </name>
             <category>2.3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>2.4.1</code>
+            <name>
+                <narrative>Proportion of agricultural area under productive and sustainable agriculture</narrative>
+            </name>
+            <category>2.4</category>
         </codelist-item>
         <codelist-item status="active">
             <code>2.5.1</code>
@@ -237,16 +251,16 @@
             <category>3.3</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.3.5</code>
+            <code>3.3.4</code>
             <name>
-                <narrative>Number of people requiring interventions against neglected tropical diseases</narrative>
+                <narrative>Hepatitis B incidence per 100,000 population</narrative>
             </name>
             <category>3.3</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.3.4</code>
+            <code>3.3.5</code>
             <name>
-                <narrative>Hepatitis B incidence per 100,000 population</narrative>
+                <narrative>Number of people requiring interventions against neglected tropical diseases</narrative>
             </name>
             <category>3.3</category>
         </codelist-item>
@@ -265,16 +279,16 @@
             <category>3.4</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.5.2</code>
+            <code>3.5.1</code>
             <name>
-                <narrative>Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</narrative>
+                <narrative>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</narrative>
             </name>
             <category>3.5</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.5.1</code>
+            <code>3.5.2</code>
             <name>
-                <narrative>Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders</narrative>
+                <narrative>Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</narrative>
             </name>
             <category>3.5</category>
         </codelist-item>
@@ -300,16 +314,16 @@
             <category>3.7</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.8.2</code>
+            <code>3.8.1</code>
             <name>
-                <narrative>Proportion of population with large household expenditures on health as a share of total household expenditure or income</narrative>
+                <narrative>Coverage of essential health services</narrative>
             </name>
             <category>3.8</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.8.1</code>
+            <code>3.8.2</code>
             <name>
-                <narrative>Coverage of essential health services</narrative>
+                <narrative>Proportion of population with large household expenditures on health as a share of total household expenditure or income</narrative>
             </name>
             <category>3.8</category>
         </codelist-item>
@@ -342,16 +356,16 @@
             <category>3.a</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.b.2</code>
+            <code>3.b.1</code>
             <name>
-                <narrative>Total net official development assistance to medical research and basic health sectors</narrative>
+                <narrative>Proportion of the target population covered by all vaccines included in their national programme</narrative>
             </name>
             <category>3.b</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>3.b.1</code>
+            <code>3.b.2</code>
             <name>
-                <narrative>Proportion of the target population covered by all vaccines included in their national programme</narrative>
+                <narrative>Total net official development assistance to medical research and basic health sectors</narrative>
             </name>
             <category>3.b</category>
         </codelist-item>
@@ -440,6 +454,13 @@
             <category>4.6</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>4.7.1</code>
+            <name>
+                <narrative>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</narrative>
+            </name>
+            <category>4.7</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>4.a.1</code>
             <name>
                 <narrative>Proportion of schools offering basic services, by type of service</narrative>
@@ -471,6 +492,13 @@
             <code>5.2.1</code>
             <name>
                 <narrative>Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age</narrative>
+            </name>
+            <category>5.2</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>5.2.2</code>
+            <name>
+                <narrative>Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence</narrative>
             </name>
             <category>5.2</category>
         </codelist-item>
@@ -566,13 +594,6 @@
             <category>6.2</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>6.3.2</code>
-            <name>
-                <narrative>Proportion of bodies of water with good ambient water quality</narrative>
-            </name>
-            <category>6.3</category>
-        </codelist-item>
-        <codelist-item status="active">
             <code>6.3.1</code>
             <name>
                 <narrative>Proportion of domestic and industrial wastewater flows safely treated</narrative>
@@ -580,16 +601,23 @@
             <category>6.3</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>6.4.2</code>
+            <code>6.3.2</code>
             <name>
-                <narrative>Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</narrative>
+                <narrative>Proportion of bodies of water with good ambient water quality</narrative>
             </name>
-            <category>6.4</category>
+            <category>6.3</category>
         </codelist-item>
         <codelist-item status="active">
             <code>6.4.1</code>
             <name>
                 <narrative>Change in water-use efficiency over time</narrative>
+            </name>
+            <category>6.4</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>6.4.2</code>
+            <name>
+                <narrative>Level of water stress: freshwater withdrawal as a proportion of available freshwater resources</narrative>
             </name>
             <category>6.4</category>
         </codelist-item>
@@ -671,6 +699,13 @@
             <category>7.b</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>8.1.1</code>
+            <name>
+                <narrative>Annual growth rate of real GDP per capita</narrative>
+            </name>
+            <category>8.1</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>8.2.1</code>
             <name>
                 <narrative>Annual growth rate of real GDP per employed person</narrative>
@@ -727,13 +762,6 @@
             <category>8.7</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>8.1.1</code>
-            <name>
-                <narrative>Annual growth rate of real GDP per capita</narrative>
-            </name>
-            <category>8.1</category>
-        </codelist-item>
-        <codelist-item status="active">
             <code>8.8.1</code>
             <name>
                 <narrative>Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status</narrative>
@@ -783,16 +811,16 @@
             <category>8.b</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>9.1.2</code>
+            <code>9.1.1</code>
             <name>
-                <narrative>Passenger and freight volumes, by mode of transport</narrative>
+                <narrative>Proportion of the rural population who live within 2 km of an all-season road</narrative>
             </name>
             <category>9.1</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>9.1.1</code>
+            <code>9.1.2</code>
             <name>
-                <narrative>Proportion of the rural population who live within 2 km of an all-season road</narrative>
+                <narrative>Passenger and freight volumes, by mode of transport</narrative>
             </name>
             <category>9.1</category>
         </codelist-item>
@@ -916,6 +944,13 @@
             <category>10.6</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>10.7.1</code>
+            <name>
+                <narrative>Recruitment cost borne by employee as a proportion of monthly income earned in country of destination</narrative>
+            </name>
+            <category>10.7</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>10.7.2</code>
             <name>
                 <narrative>Number of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people</narrative>
@@ -965,6 +1000,34 @@
             <category>11.1</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>11.2.1</code>
+            <name>
+                <narrative>Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities</narrative>
+            </name>
+            <category>11.2</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.3.1</code>
+            <name>
+                <narrative>Ratio of land consumption rate to population growth rate</narrative>
+            </name>
+            <category>11.3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.3.2</code>
+            <name>
+                <narrative>Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically</narrative>
+            </name>
+            <category>11.3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.4.1</code>
+            <name>
+                <narrative>Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)</narrative>
+            </name>
+            <category>11.4</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>11.5.1</code>
             <name>
                 <narrative>Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</narrative>
@@ -991,6 +1054,20 @@
                 <narrative>Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)</narrative>
             </name>
             <category>11.6</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.7.1</code>
+            <name>
+                <narrative>Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities</narrative>
+            </name>
+            <category>11.7</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11.7.2</code>
+            <name>
+                <narrative>Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months</narrative>
+            </name>
+            <category>11.7</category>
         </codelist-item>
         <codelist-item status="active">
             <code>11.a.1</code>
@@ -1077,6 +1154,13 @@
             <category>12.7</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>12.8.1</code>
+            <name>
+                <narrative>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</narrative>
+            </name>
+            <category>12.8</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>12.a.1</code>
             <name>
                 <narrative>Installed renewable energy-generating capacity in developing countries (in watts per capita)</narrative>
@@ -1119,6 +1203,13 @@
             <category>13.1</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>13.2.1</code>
+            <name>
+                <narrative>Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change</narrative>
+            </name>
+            <category>13.2</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>13.2.2</code>
             <name>
                 <narrative>Total greenhouse gas emissions per year</narrative>
@@ -1126,11 +1217,11 @@
             <category>13.2</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>13.2.1</code>
+            <code>13.3.1</code>
             <name>
-                <narrative>Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change</narrative>
+                <narrative>Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment</narrative>
             </name>
-            <category>13.2</category>
+            <category>13.3</category>
         </codelist-item>
         <codelist-item status="active">
             <code>13.a.1</code>
@@ -1154,6 +1245,34 @@
             <category>14.1</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>14.2.1</code>
+            <name>
+                <narrative>Number of countries using ecosystem-based approaches to managing marine areas</narrative>
+            </name>
+            <category>14.2</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.3.1</code>
+            <name>
+                <narrative>Average marine acidity (pH) measured at agreed suite of representative sampling stations</narrative>
+            </name>
+            <category>14.3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.4.1</code>
+            <name>
+                <narrative>Proportion of fish stocks within biologically sustainable levels</narrative>
+            </name>
+            <category>14.4</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>14.5.1</code>
+            <name>
+                <narrative>Coverage of protected areas in relation to marine areas</narrative>
+            </name>
+            <category>14.5</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>14.6.1</code>
             <name>
                 <narrative>Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing</narrative>
@@ -1168,13 +1287,6 @@
             <category>14.7</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>14.3.1</code>
-            <name>
-                <narrative>Average marine acidity (pH) measured at agreed suite of representative sampling stations</narrative>
-            </name>
-            <category>14.3</category>
-        </codelist-item>
-        <codelist-item status="active">
             <code>14.a.1</code>
             <name>
                 <narrative>Proportion of total research budget allocated to research in the field of marine technology</narrative>
@@ -1182,25 +1294,11 @@
             <category>14.a</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>14.4.1</code>
-            <name>
-                <narrative>Proportion of fish stocks within biologically sustainable levels</narrative>
-            </name>
-            <category>14.4</category>
-        </codelist-item>
-        <codelist-item status="active">
             <code>14.b.1</code>
             <name>
-                <narrative>Degree of application of a legal/regulatory/policy/institutional framework which recognizes and protects access rights for small-scale fisheries</narrative>
+                <narrative>Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries</narrative>
             </name>
             <category>14.b</category>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>14.5.1</code>
-            <name>
-                <narrative>Coverage of protected areas in relation to marine areas</narrative>
-            </name>
-            <category>14.5</category>
         </codelist-item>
         <codelist-item status="active">
             <code>14.c.1</code>
@@ -1266,6 +1364,13 @@
             <category>15.6</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>15.7.1</code>
+            <name>
+                <narrative>Proportion of traded wildlife that was poached or illicitly trafficked</narrative>
+            </name>
+            <category>15.7</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>15.8.1</code>
             <name>
                 <narrative>Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species</narrative>
@@ -1294,6 +1399,13 @@
             <category>15.b</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>15.c.1</code>
+            <name>
+                <narrative>Proportion of traded wildlife that was poached or illicitly trafficked</narrative>
+            </name>
+            <category>15.c</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>16.1.1</code>
             <name>
                 <narrative>Number of victims of intentional homicide per 100,000 population, by sex and age</narrative>
@@ -1301,9 +1413,16 @@
             <category>16.1</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>16.1.2</code>
+            <name>
+                <narrative>Conflict-related deaths per 100,000 population, by sex, age and cause</narrative>
+            </name>
+            <category>16.1</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>16.1.3</code>
             <name>
-                <narrative>Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</narrative>
+                <narrative>Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months</narrative>
             </name>
             <category>16.1</category>
         </codelist-item>
@@ -1311,13 +1430,6 @@
             <code>16.1.4</code>
             <name>
                 <narrative>Proportion of population that feel safe walking alone around the area they live</narrative>
-            </name>
-            <category>16.1</category>
-        </codelist-item>
-        <codelist-item status="active">
-            <code>16.1.2</code>
-            <name>
-                <narrative>Conflict-related deaths per 100,000 population, by sex, age and cause</narrative>
             </name>
             <category>16.1</category>
         </codelist-item>
@@ -1343,6 +1455,13 @@
             <category>16.2</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>16.3.1</code>
+            <name>
+                <narrative>Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</narrative>
+            </name>
+            <category>16.3</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>16.3.2</code>
             <name>
                 <narrative>Unsentenced detainees as a proportion of overall prison population</narrative>
@@ -1350,11 +1469,18 @@
             <category>16.3</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>16.3.1</code>
+            <code>16.3.3</code>
             <name>
-                <narrative>Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms</narrative>
+                <narrative>Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism</narrative>
             </name>
             <category>16.3</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.4.1</code>
+            <name>
+                <narrative>Total value of inward and outward illicit financial flows (in current United States dollars)</narrative>
+            </name>
+            <category>16.4</category>
         </codelist-item>
         <codelist-item status="active">
             <code>16.4.2</code>
@@ -1364,16 +1490,16 @@
             <category>16.4</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>16.5.2</code>
+            <code>16.5.1</code>
             <name>
-                <narrative>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</narrative>
+                <narrative>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</narrative>
             </name>
             <category>16.5</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>16.5.1</code>
+            <code>16.5.2</code>
             <name>
-                <narrative>Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months</narrative>
+                <narrative>Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months</narrative>
             </name>
             <category>16.5</category>
         </codelist-item>
@@ -1385,9 +1511,23 @@
             <category>16.6</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>16.6.2</code>
+            <name>
+                <narrative>Proportion of population satisfied with their last experience of public services</narrative>
+            </name>
+            <category>16.6</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>16.7.1</code>
             <name>
                 <narrative>Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups</narrative>
+            </name>
+            <category>16.7</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>16.7.2</code>
+            <name>
+                <narrative>Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group</narrative>
             </name>
             <category>16.7</category>
         </codelist-item>
@@ -1455,16 +1595,16 @@
             <category>17.2</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>17.3.2</code>
+            <code>17.3.1</code>
             <name>
-                <narrative>Volume of remittances (in United States dollars) as a proportion of total GDP</narrative>
+                <narrative>Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income</narrative>
             </name>
             <category>17.3</category>
         </codelist-item>
         <codelist-item status="active">
-            <code>17.3.1</code>
+            <code>17.3.2</code>
             <name>
-                <narrative>Foreign direct investment, official development assistance and South-South cooperation as a proportion of gross national income</narrative>
+                <narrative>Volume of remittances (in United States dollars) as a proportion of total GDP</narrative>
             </name>
             <category>17.3</category>
         </codelist-item>
@@ -1488,6 +1628,13 @@
                 <narrative>Fixed Internet broadband subscriptions per 100 inhabitants, by speed</narrative>
             </name>
             <category>17.6</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.7.1</code>
+            <name>
+                <narrative>Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies</narrative>
+            </name>
+            <category>17.7</category>
         </codelist-item>
         <codelist-item status="active">
             <code>17.8.1</code>
@@ -1525,6 +1672,13 @@
             <category>17.12</category>
         </codelist-item>
         <codelist-item status="active">
+            <code>17.13.1</code>
+            <name>
+                <narrative>Macroeconomic Dashboard</narrative>
+            </name>
+            <category>17.13</category>
+        </codelist-item>
+        <codelist-item status="active">
             <code>17.14.1</code>
             <name>
                 <narrative>Number of countries with mechanisms in place to enhance policy coherence of sustainable development</narrative>
@@ -1551,6 +1705,13 @@
                 <narrative>Amount in United States dollars committed to public-private partnerships for infrastructure</narrative>
             </name>
             <category>17.17</category>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>17.18.1</code>
+            <name>
+                <narrative>Statistical capacity indicator for Sustainable Development Goal monitoring</narrative>
+            </name>
+            <category>17.18</category>
         </codelist-item>
         <codelist-item status="active">
             <code>17.18.2</code>
