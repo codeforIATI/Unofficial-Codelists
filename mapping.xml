@@ -1,5 +1,10 @@
 <mappings>
     <mapping>
+        <path>//iati-activity/default-aid-type/@code</path>
+        <codelist ref="EarmarkingModality" />
+        <condition>@vocabulary = '3'</condition>
+    </mapping>
+    <mapping>
         <path>//iati-activity/sector/@code</path>
         <codelist ref="UNSDG-Indicators" />
         <condition>@vocabulary = '9'</condition>
@@ -8,6 +13,11 @@
         <path>//iati-activity/sector/@code</path>
         <codelist ref="HumanitarianGlobalClusters" />
         <condition>@vocabulary = '10'</condition>
+    </mapping>
+    <mapping>
+        <path>//iati-activity/transaction/aid-type/@code</path>
+        <codelist ref="EarmarkingModality" />
+        <condition>@vocabulary = '3'</condition>
     </mapping>
     <mapping>
         <path>//iati-activity/transaction/sector/@code</path>
