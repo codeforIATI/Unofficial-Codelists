@@ -12729,6 +12729,16 @@
             <codeforiati:registry-identifier>jpal</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-53-0235320</code>
+            <name>
+                <narrative>Pathfinder International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pathfinder1</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BI-NIF-4000742330</code>
             <name>
                 <narrative>AUXFIN Burundi</narrative>
