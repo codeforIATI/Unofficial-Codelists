@@ -2850,6 +2850,16 @@
             <codeforiati:registry-identifier>peas</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UA-EDR-37199602</code>
+            <name>
+                <narrative>Kyiv School of Economics and Management</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kse</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1122799</code>
             <name>
                 <narrative>Retrak</narrative>
