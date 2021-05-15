@@ -10700,6 +10700,16 @@
             <codeforiati:registry-identifier>oyw</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-EDU-133903</code>
+            <name>
+                <narrative>London School of Hygiene and Tropical Medicine</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lshtm</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-GOV-12</code>
             <name>
                 <narrative>UK - Department for Digital, Culture, Media and Sport</narrative>
