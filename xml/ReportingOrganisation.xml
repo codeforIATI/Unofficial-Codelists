@@ -12150,6 +12150,16 @@
             <codeforiati:registry-identifier>uol</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MU-CR-C134274</code>
+            <name>
+                <narrative>Shortlist Professionals Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mauritius</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>shortlistogti</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1187935</code>
             <name>
                 <narrative>International Campaign Women´s Right to Safe Abortion</narrative>
