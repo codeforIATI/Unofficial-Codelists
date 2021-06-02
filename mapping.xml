@@ -34,4 +34,9 @@
         <codelist ref="HumanitarianGlobalClusters" />
         <condition>@vocabulary = '10'</condition>
     </mapping>
+    <mapping>
+        <path>//iati-activity/humanitarian-scope/@code</path>
+        <codelist ref="GLIDENumber" />
+        <condition>@vocabulary = '1-2'</condition>
+    </mapping>
 </mappings>
