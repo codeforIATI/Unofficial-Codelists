@@ -39,4 +39,9 @@
         <codelist ref="GLIDENumber" />
         <condition>@vocabulary = '1-2'</condition>
     </mapping>
+    <mapping>
+        <path>//iati-activity/humanitarian-scope/@code</path>
+        <codelist ref="HumanitarianPlan" />
+        <condition>@vocabulary = '2-1'</condition>
+    </mapping>
 </mappings>
