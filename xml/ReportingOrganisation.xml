@@ -11400,6 +11400,16 @@
             <codeforiati:registry-identifier>wv_de</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-0784</code>
+            <name>
+                <narrative>World Vision Ethiopia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wv_et_activities</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>IT-CF-00677540288</code>
             <name>
                 <narrative>Doctors with Africa CUAMM</narrative>
@@ -12250,6 +12260,16 @@
             <codeforiati:registry-identifier>caeb_mali</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-OCHA-7482</code>
+            <name>
+                <narrative>World Vision Central African Republic</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Central African Republic</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wv_cf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-07840888</code>
             <name>
                 <narrative>MedicineAfrica Ltd.</narrative>
@@ -12337,6 +12357,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pfg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-WVDRC</code>
+            <name>
+                <narrative>World Vision Democratic Republic of Congo</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Congo (Democratic Republic of the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wv_cd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>ID-KHH-5018112631240040</code>
@@ -12957,6 +12987,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lhac</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-RCO-CPR-2010-28036</code>
+            <name>
+                <narrative>Open Capital Advisors</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>oca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-HESA-10004113</code>
