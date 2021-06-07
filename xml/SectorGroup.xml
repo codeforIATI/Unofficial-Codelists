@@ -102,8 +102,42 @@
         <codelist-item status="active">
             <code>11230</code>
             <name>
-                <narrative>Basic life skills for youth and adults</narrative>
-                <narrative xml:lang="fr">Education pour une meilleure qualité de vie pour les jeunes et les adultes</narrative>
+                <narrative>Basic life skills for adults</narrative>
+                <narrative xml:lang="fr">Education pour une meilleure qualité de vie pour les adultes</narrative>
+            </name>
+            <codeforiati:category-code>112</codeforiati:category-code>
+            <codeforiati:category-name>
+                <narrative>Basic Education</narrative>
+                <narrative xml:lang="fr">Education de Base</narrative>
+            </codeforiati:category-name>
+            <codeforiati:group-code>110</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Education</narrative>
+                <narrative xml:lang="fr">Education</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11231</code>
+            <name>
+                <narrative>Basic life skills for youth</narrative>
+                <narrative xml:lang="fr">Éducation pour une meilleure qualité de vie pour les jeunes</narrative>
+            </name>
+            <codeforiati:category-code>112</codeforiati:category-code>
+            <codeforiati:category-name>
+                <narrative>Basic Education</narrative>
+                <narrative xml:lang="fr">Education de Base</narrative>
+            </codeforiati:category-name>
+            <codeforiati:group-code>110</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Education</narrative>
+                <narrative xml:lang="fr">Education</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>11232</code>
+            <name>
+                <narrative>Primary education equivalent for adults</narrative>
+                <narrative xml:lang="fr">Education primaire des adultes</narrative>
             </name>
             <codeforiati:category-code>112</codeforiati:category-code>
             <codeforiati:category-name>
@@ -151,10 +185,27 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>11260</code>
+            <name>
+                <narrative>Lower secondary education</narrative>
+                <narrative xml:lang="fr">Premier cycle de l'enseignement secondaire</narrative>
+            </name>
+            <codeforiati:category-code>112</codeforiati:category-code>
+            <codeforiati:category-name>
+                <narrative>Basic Education</narrative>
+                <narrative xml:lang="fr">Education de Base</narrative>
+            </codeforiati:category-name>
+            <codeforiati:group-code>110</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Education</narrative>
+                <narrative xml:lang="fr">Education</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>11320</code>
             <name>
-                <narrative>Secondary education</narrative>
-                <narrative xml:lang="fr">Enseignement secondaire</narrative>
+                <narrative>Upper Secondary Education (modified and includes data from 11322)</narrative>
+                <narrative xml:lang="fr">Enseignement secondaire supérieur (modifié et comprend les données de 11322)</narrative>
             </name>
             <codeforiati:category-code>113</codeforiati:category-code>
             <codeforiati:category-name>
