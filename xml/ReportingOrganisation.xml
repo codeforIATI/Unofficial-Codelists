@@ -2922,12 +2922,12 @@
         <codelist-item status="active">
             <code>NL-KVK-41180500</code>
             <name>
-                <narrative>LIGHT FOR THE WORLD The Netherlands</narrative>
+                <narrative>SeeYou Foundation</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier>lftwnl</codeforiati:registry-identifier>
+            <codeforiati:registry-identifier>syf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XM-DAC-47086</code>
@@ -12329,6 +12329,16 @@
             <codeforiati:registry-identifier>scss</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-UKPRN-10007164</code>
+            <name>
+                <narrative>The University of the West of England, Bristol</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uwe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>MX-RFC-ICM160118IZ1</code>
             <name>
                 <narrative>Iniciativa Climatica de Mexico</narrative>
@@ -12997,6 +13007,26 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>oca</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NP-CRO-1158-065-066</code>
+            <name>
+                <narrative>Kathmandu Medical College Public Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kmc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-CIT-9415005603</code>
+            <name>
+                <narrative>Stellenbosch University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>su-impala</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-HESA-10004113</code>
