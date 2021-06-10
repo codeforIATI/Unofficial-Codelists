@@ -3580,6 +3580,16 @@
             <codeforiati:registry-identifier>traidcraft</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DE-CR-RA000217-HRB157125B</code>
+            <name>
+                <narrative>Wayamo Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wayamo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-294860</code>
             <name>
                 <narrative>ADD International (Action on Disability and Development)</narrative>
