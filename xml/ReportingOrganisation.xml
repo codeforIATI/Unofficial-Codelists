@@ -12699,6 +12699,16 @@
             <codeforiati:registry-identifier>nico</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-GRID-grid.473464.6</code>
+            <name>
+                <narrative>Water &amp; Land Resource Center - Addis Ababa University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wlrc_aau</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-30547</code>
             <name>
                 <narrative>Paradigm Initiative</narrative>
