@@ -12999,6 +12999,16 @@
             <codeforiati:registry-identifier>mdif</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ES-NIF-G02766913</code>
+            <name>
+                <narrative>Fields Data</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Spain</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fd-es</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ES-NIF-G79408852</code>
             <name>
                 <narrative>Medicos del Mundo</narrative>
