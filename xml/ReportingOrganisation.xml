@@ -13068,5 +13068,15 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lboro</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>UG-RSB-229709</code>
+            <name>
+                <narrative>Mango Tree Property Management LTD</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mangotree</codeforiati:registry-identifier>
+        </codelist-item>
     </codelist-items>
 </codelist>
