@@ -5520,6 +5520,16 @@
             <codeforiati:registry-identifier>3ie</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BE-BCE_KBO-0453975341</code>
+            <name>
+                <narrative>Search for Common Ground (SFCG)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sfcg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>BE-BCE_KBO-0453475391</code>
             <name>
                 <narrative>Search for Common Ground (SFCG)</narrative>
