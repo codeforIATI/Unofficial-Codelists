@@ -13048,7 +13048,7 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>mdif</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>ES-NIF-G02766913</code>
             <name>
                 <narrative>Fields Data</narrative>
@@ -13127,6 +13127,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>mangotree</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SS-RRC-465</code>
+            <name>
+                <narrative>Assistance Mission for Africa</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ama-south-sudan</codeforiati:registry-identifier>
         </codelist-item>
     </codelist-items>
 </codelist>
