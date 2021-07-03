@@ -13048,6 +13048,16 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>mdif</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1123384</code>
+            <name>
+                <narrative>Foundation for Social Improvement</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>the_fsi</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ES-NIF-G02766913</code>
             <name>
