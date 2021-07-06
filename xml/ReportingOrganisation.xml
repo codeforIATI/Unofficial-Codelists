@@ -12240,6 +12240,16 @@
             <codeforiati:registry-identifier>riia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DE-CR-RA000220-VR9971</code>
+            <name>
+                <narrative>CARPO - Center for Applied Research in Partnership with the Orient</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>carpo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1150964</code>
             <name>
                 <narrative>inHive</narrative>
