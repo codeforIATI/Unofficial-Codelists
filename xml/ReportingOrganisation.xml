@@ -12389,6 +12389,16 @@
             <codeforiati:registry-identifier>scss</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-BBDN</code>
+            <name>
+                <narrative>Bangladesh Business and Disability Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bbdn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-UKPRN-10007164</code>
             <name>
                 <narrative>The University of the West of England, Bristol</narrative>
@@ -13157,6 +13167,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ama-south-sudan</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SS-RRC-405</code>
+            <name>
+                <narrative>Eve Organization for Women Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eveowd</codeforiati:registry-identifier>
         </codelist-item>
     </codelist-items>
 </codelist>
