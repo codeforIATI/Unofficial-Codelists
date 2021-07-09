@@ -12829,6 +12829,16 @@
             <codeforiati:registry-identifier>fsduganda</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-41192276</code>
+            <name>
+                <narrative>Stichting Wilde Ganzen/ IKON</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nl_wg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZM-PCR-12015013762</code>
             <name>
                 <narrative>Prospero Limited</narrative>
@@ -13139,6 +13149,16 @@
             <codeforiati:registry-identifier>su-impala</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1173320</code>
+            <name>
+                <narrative>South West International Development Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>swidn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-HESA-10004113</code>
             <name>
                 <narrative>Loughborough University</narrative>
@@ -13167,6 +13187,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ama-south-sudan</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NG-CAC-IT-NO96562</code>
+            <name>
+                <narrative>Olamma Cares Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>olammacares</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SS-RRC-405</code>
