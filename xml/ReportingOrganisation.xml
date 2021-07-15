@@ -10900,6 +10900,16 @@
             <codeforiati:registry-identifier>kepsa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-KRA-P051098561L</code>
+            <name>
+                <narrative>KITUO CHA SHERIA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kituo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FR-RCS-83764263600018</code>
             <name>
                 <narrative>Syrian Center for Media and Freedom of Expression</narrative>
