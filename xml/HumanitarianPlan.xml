@@ -211,6 +211,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OMMR21</code>
+            <name>
+                <narrative>Myanmar Interim Emergency Response Plan 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-07-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ONPL21</code>
             <name>
                 <narrative>Nepal Covid-19 Response Plan 2021</narrative>
