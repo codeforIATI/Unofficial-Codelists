@@ -13179,6 +13179,16 @@
             <codeforiati:registry-identifier>lboro</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-RGD-CG001532017</code>
+            <name>
+                <narrative>PPAG</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ppag_123</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UG-RSB-229709</code>
             <name>
                 <narrative>Mango Tree Property Management LTD</narrative>
@@ -13217,6 +13227,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>eveowd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-1-201879-115</code>
+            <name>
+                <narrative>Wheeler Institute for Business and Development, London Business School</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wheeler</codeforiati:registry-identifier>
         </codelist-item>
     </codelist-items>
 </codelist>
