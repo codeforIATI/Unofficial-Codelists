@@ -8830,6 +8830,16 @@
             <codeforiati:registry-identifier>unocha-sdc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-DSW-4834</code>
+            <name>
+                <narrative>NORSAAC</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>norsaac</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-04930461</code>
             <name>
                 <narrative>Concordis International</narrative>
