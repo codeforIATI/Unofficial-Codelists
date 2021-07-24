@@ -3560,6 +3560,16 @@
             <codeforiati:registry-identifier>progressio</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-24</code>
+            <name>
+                <narrative>Office for National Statistics</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ons</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-285908</code>
             <name>
                 <narrative>World Vision UK</narrative>
@@ -12917,6 +12927,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>jpal</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MW-RG-1011251</code>
+            <name>
+                <narrative>Wala Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malawi</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>walaltd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-53-0235320</code>
