@@ -11510,6 +11510,16 @@
             <codeforiati:registry-identifier>ground-truth-solutions</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-BRIDGE-3665722432</code>
+            <name>
+                <narrative>African Tax Administration Forum</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ataf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1123241</code>
             <name>
                 <narrative>Peace Direct</narrative>
@@ -13267,6 +13277,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>eveowd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-74799525</code>
+            <name>
+                <narrative>Legal Action Worldwide</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>law</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-1-201879-115</code>
