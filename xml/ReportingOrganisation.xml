@@ -9120,6 +9120,16 @@
             <codeforiati:registry-identifier>iif</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-13-5562308</code>
+            <name>
+                <narrative>New York University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nyu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BJ-IFU-4201710012551</code>
             <name>
                 <narrative>Commune de Dangbo - Benin</narrative>
