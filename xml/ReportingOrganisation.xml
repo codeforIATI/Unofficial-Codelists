@@ -3670,6 +3670,16 @@
             <codeforiati:registry-identifier>wcia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-OP218051200904966065</code>
+            <name>
+                <narrative>Pan African Climate Justice Alliance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pacja</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-11126312</code>
             <name>
                 <narrative>Global Disability Innovation Hub</narrative>
@@ -11970,6 +11980,16 @@
             <codeforiati:registry-identifier>femnet</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-37-1552838</code>
+            <name>
+                <narrative>GSMA Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gsma_foundation</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-CHE296622304</code>
             <name>
                 <narrative>The Global Initiative Against Transnational Organized Crime</narrative>
@@ -12418,6 +12438,16 @@
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>epha</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-68758766</code>
+            <name>
+                <narrative>CAPABUILD</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>capabui</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-72908114</code>
@@ -13149,6 +13179,16 @@
             <codeforiati:registry-identifier>mdif</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-NIC-073343</code>
+            <name>
+                <narrative>Global Fund for Community Foundations</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gfcf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1123384</code>
             <name>
                 <narrative>Foundation for Social Improvement</narrative>
@@ -13249,6 +13289,16 @@
             <codeforiati:registry-identifier>ppag_123</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-218-051-9263-33</code>
+            <name>
+                <narrative>Young Women's Christian Association of Kenya</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ywcakenya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UG-RSB-229709</code>
             <name>
                 <narrative>Mango Tree Property Management LTD</narrative>
@@ -13257,6 +13307,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>mangotree</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-41039028</code>
+            <name>
+                <narrative>Stichting Leprazending Nederland - The Leprosy Mission Netherlands</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>leprazending-tlm-nl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SS-RRC-465</code>
