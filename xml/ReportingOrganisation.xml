@@ -12370,6 +12370,16 @@
             <codeforiati:registry-identifier>cowateruk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-CIP-M2005001486</code>
+            <name>
+                <narrative>Sexual Reproductive Health and Rights Africa Trust</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>srhr_africa_trust</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-61-1725201</code>
             <name>
                 <narrative>Field Ready, USA</narrative>
@@ -13368,7 +13378,7 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>law</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
                 <narrative>Wheeler Institute for Business and Development, London Business School</narrative>
