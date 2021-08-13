@@ -121,6 +121,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HSLV2122</code>
+            <name>
+                <narrative>El Salvador Plan de Respuesta Humanitario 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FPSE21</code>
             <name>
                 <narrative>Escalation of Hostilities in the oPt  Flash Appeal 2021</narrative>
@@ -141,6 +151,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HGTM2122</code>
+            <name>
+                <narrative>Guatemala Plan de Respuesta Humanitario 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HHTI21</code>
             <name>
                 <narrative>Haiti Humanitarian Response Plan 2021</narrative>
@@ -159,6 +179,16 @@
             <codeforiati:plan-year>2021</codeforiati:plan-year>
             <codeforiati:plan-start-date>2020-11-15</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2021-06-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HHND2122</code>
+            <name>
+                <narrative>Honduras Plan de Respuesta Humanitario 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
             <code>HIRQ21</code>
