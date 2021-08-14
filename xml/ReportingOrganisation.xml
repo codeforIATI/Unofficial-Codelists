@@ -13079,6 +13079,16 @@
             <codeforiati:registry-identifier>ejaf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CA_AB-ABT-203435797</code>
+            <name>
+                <narrative>Alinea International Ltd.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>alineainternational_2020</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1188731</code>
             <name>
                 <narrative>Sustainable Hospitality Alliance</narrative>
