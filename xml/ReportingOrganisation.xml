@@ -13379,6 +13379,16 @@
             <codeforiati:registry-identifier>eveowd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DE-CR-RA000220-HRB7745</code>
+            <name>
+                <narrative>Forschungsinstitut zur Zukunft der Arbeit GmbH (IZA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iza</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-74799525</code>
             <name>
                 <narrative>Legal Action Worldwide</narrative>
@@ -13387,6 +13397,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>law</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD-ROC-C-107131</code>
+            <name>
+                <narrative>Light Castle Partners</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lcp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
