@@ -13309,6 +13309,16 @@
             <codeforiati:registry-identifier>world_ywca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-218051981161116</code>
+            <name>
+                <narrative>Equality Now</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>e_n</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-RGD-CG001532017</code>
             <name>
                 <narrative>PPAG</narrative>
@@ -13327,6 +13337,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ywcakenya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SS-RRC-342</code>
+            <name>
+                <narrative>Young Women Christian Association of South Sudan (YWCA SS)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ywcass</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>UG-RSB-229709</code>
