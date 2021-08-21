@@ -13329,6 +13329,16 @@
             <codeforiati:registry-identifier>ppag_123</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-27293917</code>
+            <name>
+                <narrative>The Hague Academy for Local Governance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tha</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-218-051-9263-33</code>
             <name>
                 <narrative>Young Women's Christian Association of Kenya</narrative>
