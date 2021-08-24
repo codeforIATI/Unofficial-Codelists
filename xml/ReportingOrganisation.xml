@@ -12809,6 +12809,16 @@
             <codeforiati:registry-identifier>ajar</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-CHE105829963</code>
+            <name>
+                <narrative>Solidar Suisse</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>solidarsuisse</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-UKPRN-10007790</code>
             <name>
                 <narrative>University of Edinburgh</narrative>
