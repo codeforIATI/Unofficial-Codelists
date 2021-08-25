@@ -3730,6 +3730,16 @@
             <codeforiati:registry-identifier>oxfamindia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-SC-035056</code>
+            <name>
+                <narrative>International Primary Care Respiratory Group</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ipcrg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41217595</code>
             <name>
                 <narrative>Stichting ActionAId</narrative>
