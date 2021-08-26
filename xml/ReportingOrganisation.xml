@@ -3570,6 +3570,16 @@
             <codeforiati:registry-identifier>progressio</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CA-CRA_ACR-127202349</code>
+            <name>
+                <narrative>International Institute for Sustainable Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iisd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-GOV-24</code>
             <name>
                 <narrative>Office for National Statistics</narrative>
