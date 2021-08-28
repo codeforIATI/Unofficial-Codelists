@@ -3110,6 +3110,16 @@
             <codeforiati:registry-identifier>asdap</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BD-NAB-0203</code>
+            <name>
+                <narrative>Association for Prevention of Septic Abortion, Bangladesh (BAPSA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bapsa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1069182</code>
             <name>
                 <narrative>International Service</narrative>
@@ -13387,6 +13397,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ywcass</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-74983393</code>
+            <name>
+                <narrative>IDH Investment Management B.V.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>idh_im</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>UG-RSB-229709</code>
