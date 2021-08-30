@@ -3582,7 +3582,7 @@
         <codelist-item status="active">
             <code>CA-CRA_ACR-127202349</code>
             <name>
-                <narrative>International Institute for Sustainable Development</narrative>
+                <narrative>The International Institute for Sustainable Development</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
