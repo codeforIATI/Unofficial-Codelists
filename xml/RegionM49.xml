@@ -56,10 +56,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>818</code>
@@ -104,10 +100,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>434</code>
@@ -152,10 +144,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>504</code>
@@ -200,10 +188,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>729</code>
@@ -248,10 +232,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>788</code>
@@ -296,10 +276,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>732</code>
@@ -344,10 +320,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>086</code>
@@ -397,10 +369,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>108</code>
@@ -450,10 +418,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>174</code>
@@ -503,10 +467,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>262</code>
@@ -556,10 +516,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>232</code>
@@ -609,10 +565,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>231</code>
@@ -662,10 +614,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>260</code>
@@ -715,10 +663,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>404</code>
@@ -768,10 +712,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>450</code>
@@ -821,10 +761,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>454</code>
@@ -874,10 +810,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>480</code>
@@ -927,10 +859,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>175</code>
@@ -980,10 +908,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>508</code>
@@ -1033,10 +957,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>638</code>
@@ -1086,10 +1006,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>646</code>
@@ -1139,10 +1055,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>690</code>
@@ -1192,10 +1104,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>706</code>
@@ -1245,10 +1153,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>728</code>
@@ -1298,10 +1202,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>800</code>
@@ -1351,10 +1251,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>834</code>
@@ -1404,10 +1300,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>894</code>
@@ -1457,10 +1349,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>716</code>
@@ -1510,10 +1398,6 @@
                 <narrative xml:lang="ru">Восточная Африка</narrative>
                 <narrative xml:lang="zh">东非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>024</code>
@@ -1563,10 +1447,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>120</code>
@@ -1616,10 +1496,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>140</code>
@@ -1669,10 +1545,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>148</code>
@@ -1722,10 +1594,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>178</code>
@@ -1775,10 +1643,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>180</code>
@@ -1828,10 +1692,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>226</code>
@@ -1881,10 +1741,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>266</code>
@@ -1934,10 +1790,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>678</code>
@@ -1987,10 +1839,6 @@
                 <narrative xml:lang="ru">Центральная Африка</narrative>
                 <narrative xml:lang="zh">中非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>072</code>
@@ -2040,10 +1888,6 @@
                 <narrative xml:lang="ru">Южная часть Африки</narrative>
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>748</code>
@@ -2093,10 +1937,6 @@
                 <narrative xml:lang="ru">Южная часть Африки</narrative>
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>426</code>
@@ -2146,10 +1986,6 @@
                 <narrative xml:lang="ru">Южная часть Африки</narrative>
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>516</code>
@@ -2199,10 +2035,6 @@
                 <narrative xml:lang="ru">Южная часть Африки</narrative>
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>710</code>
@@ -2252,10 +2084,6 @@
                 <narrative xml:lang="ru">Южная часть Африки</narrative>
                 <narrative xml:lang="zh">南部非洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>204</code>
@@ -2305,10 +2133,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>854</code>
@@ -2358,10 +2182,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>132</code>
@@ -2411,10 +2231,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>384</code>
@@ -2464,10 +2280,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>270</code>
@@ -2517,10 +2329,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>288</code>
@@ -2570,10 +2378,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>324</code>
@@ -2623,10 +2427,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>624</code>
@@ -2676,10 +2476,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>430</code>
@@ -2729,10 +2525,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>466</code>
@@ -2782,10 +2574,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>478</code>
@@ -2835,10 +2623,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>562</code>
@@ -2888,10 +2672,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>566</code>
@@ -2941,10 +2721,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>654</code>
@@ -2994,10 +2770,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>686</code>
@@ -3047,10 +2819,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>694</code>
@@ -3100,10 +2868,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>768</code>
@@ -3153,10 +2917,6 @@
                 <narrative xml:lang="ru">Западная Африка</narrative>
                 <narrative xml:lang="zh">西非</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>660</code>
@@ -3206,10 +2966,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>028</code>
@@ -3259,10 +3015,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>533</code>
@@ -3312,10 +3064,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>044</code>
@@ -3365,10 +3113,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>052</code>
@@ -3418,10 +3162,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>535</code>
@@ -3471,10 +3211,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>092</code>
@@ -3524,10 +3260,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>136</code>
@@ -3577,10 +3309,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>192</code>
@@ -3630,10 +3358,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>531</code>
@@ -3683,10 +3407,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>212</code>
@@ -3736,10 +3456,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>214</code>
@@ -3789,10 +3505,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>308</code>
@@ -3842,10 +3554,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>312</code>
@@ -3895,10 +3603,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>332</code>
@@ -3948,10 +3652,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>388</code>
@@ -4001,10 +3701,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>474</code>
@@ -4054,10 +3750,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>500</code>
@@ -4107,10 +3799,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>630</code>
@@ -4160,10 +3848,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>652</code>
@@ -4213,10 +3897,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>659</code>
@@ -4266,10 +3946,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>662</code>
@@ -4319,10 +3995,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>663</code>
@@ -4372,10 +4044,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>670</code>
@@ -4425,10 +4093,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>534</code>
@@ -4478,10 +4142,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>780</code>
@@ -4531,10 +4191,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>796</code>
@@ -4584,10 +4240,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>850</code>
@@ -4637,10 +4289,6 @@
                 <narrative xml:lang="ru">Карибский бассейн</narrative>
                 <narrative xml:lang="zh">加勒比</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>084</code>
@@ -4690,10 +4338,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>188</code>
@@ -4743,10 +4387,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>222</code>
@@ -4796,10 +4436,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>320</code>
@@ -4849,10 +4485,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>340</code>
@@ -4902,10 +4534,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>484</code>
@@ -4955,10 +4583,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>558</code>
@@ -5008,10 +4632,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>591</code>
@@ -5061,10 +4681,6 @@
                 <narrative xml:lang="ru">Центральная Америка</narrative>
                 <narrative xml:lang="zh">中美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>032</code>
@@ -5114,10 +4730,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>068</code>
@@ -5167,10 +4779,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>074</code>
@@ -5220,10 +4828,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>076</code>
@@ -5273,10 +4877,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>152</code>
@@ -5326,10 +4926,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>170</code>
@@ -5379,10 +4975,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>218</code>
@@ -5432,10 +5024,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>238</code>
@@ -5485,10 +5073,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>254</code>
@@ -5538,10 +5122,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>328</code>
@@ -5591,10 +5171,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>600</code>
@@ -5644,10 +5220,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>604</code>
@@ -5697,10 +5269,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>239</code>
@@ -5750,10 +5318,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>740</code>
@@ -5803,10 +5367,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>858</code>
@@ -5856,10 +5416,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>862</code>
@@ -5909,10 +5465,6 @@
                 <narrative xml:lang="ru">Южная Америка</narrative>
                 <narrative xml:lang="zh">南美洲</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>060</code>
@@ -5957,10 +5509,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>124</code>
@@ -6005,10 +5553,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>304</code>
@@ -6053,10 +5597,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>666</code>
@@ -6101,10 +5641,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>840</code>
@@ -6149,10 +5685,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>010</code>
@@ -6187,10 +5719,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing/>
         </codelist-item>
         <codelist-item status="active">
             <code>398</code>
@@ -6235,10 +5763,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>417</code>
@@ -6283,10 +5807,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>762</code>
@@ -6331,10 +5851,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>795</code>
@@ -6379,10 +5895,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>860</code>
@@ -6427,10 +5939,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>156</code>
@@ -6475,10 +5983,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>344</code>
@@ -6523,10 +6027,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>446</code>
@@ -6571,10 +6071,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>408</code>
@@ -6619,10 +6115,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>392</code>
@@ -6667,10 +6159,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>496</code>
@@ -6715,10 +6203,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>410</code>
@@ -6763,10 +6247,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>096</code>
@@ -6811,10 +6291,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>116</code>
@@ -6859,10 +6335,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>360</code>
@@ -6907,10 +6379,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>418</code>
@@ -6955,10 +6423,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>458</code>
@@ -7003,10 +6467,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>104</code>
@@ -7051,10 +6511,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>608</code>
@@ -7099,10 +6555,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>702</code>
@@ -7147,10 +6599,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>764</code>
@@ -7195,10 +6643,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>626</code>
@@ -7243,10 +6687,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>704</code>
@@ -7291,10 +6731,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>004</code>
@@ -7339,10 +6775,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>050</code>
@@ -7387,10 +6819,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>064</code>
@@ -7435,10 +6863,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>356</code>
@@ -7483,10 +6907,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>364</code>
@@ -7531,10 +6951,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>462</code>
@@ -7579,10 +6995,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>524</code>
@@ -7627,10 +7039,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>586</code>
@@ -7675,10 +7083,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>144</code>
@@ -7723,10 +7127,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>051</code>
@@ -7771,10 +7171,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>031</code>
@@ -7819,10 +7215,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>048</code>
@@ -7867,10 +7259,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>196</code>
@@ -7915,10 +7303,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>268</code>
@@ -7963,10 +7347,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>368</code>
@@ -8011,10 +7391,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>376</code>
@@ -8059,10 +7435,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>400</code>
@@ -8107,10 +7479,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>414</code>
@@ -8155,10 +7523,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>422</code>
@@ -8203,10 +7567,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>512</code>
@@ -8251,10 +7611,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>634</code>
@@ -8299,10 +7655,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>682</code>
@@ -8347,10 +7699,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>275</code>
@@ -8395,10 +7743,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>760</code>
@@ -8443,10 +7787,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>792</code>
@@ -8491,10 +7831,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>784</code>
@@ -8539,10 +7875,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>887</code>
@@ -8587,10 +7919,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>112</code>
@@ -8635,10 +7963,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>100</code>
@@ -8683,10 +8007,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>203</code>
@@ -8731,10 +8051,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>348</code>
@@ -8779,10 +8095,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>616</code>
@@ -8827,10 +8139,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>498</code>
@@ -8875,10 +8183,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>642</code>
@@ -8923,10 +8227,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>643</code>
@@ -8971,10 +8271,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>703</code>
@@ -9019,10 +8315,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>804</code>
@@ -9067,10 +8359,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>248</code>
@@ -9115,10 +8403,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>831</code>
@@ -9168,10 +8452,6 @@
                 <narrative xml:lang="ru">Нормандские острова</narrative>
                 <narrative xml:lang="zh">海峡群岛</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>832</code>
@@ -9221,10 +8501,6 @@
                 <narrative xml:lang="ru">Нормандские острова</narrative>
                 <narrative xml:lang="zh">海峡群岛</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>680</code>
@@ -9274,10 +8550,6 @@
                 <narrative xml:lang="ru">Нормандские острова</narrative>
                 <narrative xml:lang="zh">海峡群岛</narrative>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>208</code>
@@ -9322,10 +8594,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>233</code>
@@ -9370,10 +8638,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>234</code>
@@ -9418,10 +8682,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>246</code>
@@ -9466,10 +8726,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>352</code>
@@ -9514,10 +8770,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>372</code>
@@ -9562,10 +8814,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>833</code>
@@ -9610,10 +8858,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>428</code>
@@ -9658,10 +8902,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>440</code>
@@ -9706,10 +8946,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>578</code>
@@ -9754,10 +8990,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>744</code>
@@ -9802,10 +9034,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>752</code>
@@ -9850,10 +9078,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>826</code>
@@ -9898,10 +9122,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>008</code>
@@ -9946,10 +9166,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>020</code>
@@ -9994,10 +9210,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>070</code>
@@ -10042,10 +9254,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>191</code>
@@ -10090,10 +9298,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>292</code>
@@ -10138,10 +9342,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>300</code>
@@ -10186,10 +9386,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>336</code>
@@ -10234,10 +9430,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>380</code>
@@ -10282,10 +9474,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>470</code>
@@ -10330,10 +9518,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>499</code>
@@ -10378,10 +9562,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>807</code>
@@ -10426,10 +9606,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>620</code>
@@ -10474,10 +9650,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>674</code>
@@ -10522,10 +9694,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>688</code>
@@ -10570,10 +9738,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>705</code>
@@ -10618,10 +9782,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>724</code>
@@ -10666,10 +9826,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>040</code>
@@ -10714,10 +9870,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>056</code>
@@ -10762,10 +9914,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>250</code>
@@ -10810,10 +9958,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>276</code>
@@ -10858,10 +10002,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>438</code>
@@ -10906,10 +10046,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>442</code>
@@ -10954,10 +10090,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>492</code>
@@ -11002,10 +10134,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>528</code>
@@ -11050,10 +10178,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>756</code>
@@ -11098,10 +10222,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>036</code>
@@ -11146,10 +10266,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>162</code>
@@ -11194,10 +10310,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>166</code>
@@ -11242,10 +10354,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>334</code>
@@ -11290,10 +10398,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>554</code>
@@ -11338,10 +10442,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>574</code>
@@ -11386,10 +10486,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>242</code>
@@ -11434,10 +10530,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>540</code>
@@ -11482,10 +10574,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>598</code>
@@ -11530,10 +10618,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>090</code>
@@ -11578,10 +10662,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>548</code>
@@ -11626,10 +10706,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>316</code>
@@ -11674,10 +10750,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>296</code>
@@ -11722,10 +10794,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>584</code>
@@ -11770,10 +10838,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>583</code>
@@ -11818,10 +10882,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>520</code>
@@ -11866,10 +10926,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>580</code>
@@ -11914,10 +10970,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>585</code>
@@ -11962,10 +11014,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>581</code>
@@ -12010,10 +11058,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>016</code>
@@ -12058,10 +11102,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>184</code>
@@ -12106,10 +11146,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>258</code>
@@ -12154,10 +11190,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>570</code>
@@ -12202,10 +11234,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>612</code>
@@ -12250,10 +11278,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>882</code>
@@ -12298,10 +11322,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>772</code>
@@ -12346,10 +11366,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>776</code>
@@ -12394,10 +11410,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>798</code>
@@ -12442,10 +11454,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
         <codelist-item status="active">
             <code>876</code>
@@ -12490,10 +11498,6 @@
             <codeforiati:intermediate-region-name>
                 <narrative/>
             </codeforiati:intermediate-region-name>
-            <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
-            <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
-            <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
-            <codeforiati:developed-developing>Developing</codeforiati:developed-developing>
         </codelist-item>
     </codelist-items>
 </codelist>
