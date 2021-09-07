@@ -12220,6 +12220,16 @@
             <codeforiati:registry-identifier>dmi_admin</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-47-3511012</code>
+            <name>
+                <narrative>SDSN Association, Inc.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sdsna</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-GRID-grid.7247.6</code>
             <name>
                 <narrative>Universidad de los Andes</narrative>
