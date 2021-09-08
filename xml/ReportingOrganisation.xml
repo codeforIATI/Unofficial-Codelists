@@ -13518,6 +13518,16 @@
             <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lcp</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>TH-TIN-0993000190092</code>
+            <name>
+                <narrative>Asian Coalition for Housing Rights</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>achr</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
