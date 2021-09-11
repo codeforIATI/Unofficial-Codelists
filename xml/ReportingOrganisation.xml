@@ -11870,6 +11870,16 @@
             <codeforiati:registry-identifier>hi_fed</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-82-3941326</code>
+            <name>
+                <narrative>Luminate Foundation Inc.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>luminate</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-98-0513530</code>
             <name>
                 <narrative>Alliance for a Green Revolution for Africa</narrative>
