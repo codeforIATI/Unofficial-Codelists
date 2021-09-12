@@ -4220,6 +4220,16 @@
             <codeforiati:registry-identifier>mstamp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-218-051-9341-334</code>
+            <name>
+                <narrative>African Academy of Sciences</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aas</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1101217</code>
             <name>
                 <narrative>LAMB Health Care Foundation</narrative>
