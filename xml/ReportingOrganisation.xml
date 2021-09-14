@@ -13539,6 +13539,16 @@
             <codeforiati:registry-identifier>lcp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-522042014</code>
+            <name>
+                <narrative>GoodWeave International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>goodweave_intl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TH-TIN-0993000190092</code>
             <name>
                 <narrative>Asian Coalition for Housing Rights</narrative>
