@@ -11,6 +11,16 @@
     </metadata>
     <codelist-items>
         <codelist-item status="active">
+            <code>FAFG21</code>
+            <name>
+                <narrative>Afghanistan Flash Appeal 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-09-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HAFG21</code>
             <name>
                 <narrative>Afghanistan Humanitarian Response Plan 2021</narrative>
