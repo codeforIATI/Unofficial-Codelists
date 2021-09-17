@@ -10240,6 +10240,16 @@
             <codeforiati:registry-identifier>icnl_org</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>FI-PRO-1993025-9</code>
+            <name>
+                <narrative>European Forest Institute</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Finland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>efi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-13-3622707</code>
             <name>
                 <narrative>WSP USA Solutions Inc.</narrative>
