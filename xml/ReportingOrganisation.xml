@@ -8489,7 +8489,7 @@
             <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lftw-be</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>JO-CCD-2826</code>
             <name>
                 <narrative>World Vision Syria</narrative>
