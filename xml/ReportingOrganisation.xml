@@ -13568,6 +13568,16 @@
             <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>achr</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>KE-NCB-WDCBO542010192</code>
+            <name>
+                <narrative>Women Challenged to Challenge</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wctc</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
