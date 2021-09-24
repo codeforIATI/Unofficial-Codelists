@@ -221,6 +221,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OLBN2122</code>
+            <name>
+                <narrative>Lebanon Emergency Response Plan 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-03</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-07-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HLBY21</code>
             <name>
                 <narrative>Libya Humanitarian Response Plan 2021</narrative>
