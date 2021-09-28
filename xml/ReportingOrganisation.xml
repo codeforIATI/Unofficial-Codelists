@@ -13349,6 +13349,16 @@
             <codeforiati:registry-identifier>oca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GE-RS-406061513</code>
+            <name>
+                <narrative>Center for Participation and Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Georgia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cpd_2021</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NP-CRO-1158-065-066</code>
             <name>
                 <narrative>Kathmandu Medical College Public Limited</narrative>
@@ -13577,6 +13587,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wctc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-4438</code>
+            <name>
+                <narrative>International Centre for Diarrhoeal Disease Research, Bangladesh (icddr,b)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>icddrb</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
