@@ -12034,8 +12034,8 @@
             <name>
                 <narrative>Centre for Policy Dialogue</narrative>
             </name>
-            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>cpd</codeforiati:registry-identifier>
         </codelist-item>
