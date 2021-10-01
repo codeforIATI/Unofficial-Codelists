@@ -12929,6 +12929,16 @@
             <codeforiati:registry-identifier>ser</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-KRA-P051172537S</code>
+            <name>
+                <narrative>Financial Sector Deepening Trust (Kenya)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fsdk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-10516061</code>
             <name>
                 <narrative>Cobra Collective CIC</narrative>
@@ -13547,6 +13557,36 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lbs</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MHA-083930147</code>
+            <name>
+                <narrative>KEM HOSPITAL RESEARCH CENTRE</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kemhrc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-GRID-grid.10347.31</code>
+            <name>
+                <narrative>Universiti Malaya</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rmc_um</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-GRID-grid.11142.37</code>
+            <name>
+                <narrative>University Putra Malaysia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>upm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BD-ROC-C-107131</code>
