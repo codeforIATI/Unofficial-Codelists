@@ -4810,6 +4810,16 @@
             <codeforiati:registry-identifier>friendsofpwyf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BD-ROC-S-12313</code>
+            <name>
+                <narrative>Bangladesh Primary Care Respiratory Society</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bpcrs</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-58183167</code>
             <name>
                 <narrative>HE Foundation</narrative>
