@@ -4102,6 +4102,16 @@
             <codeforiati:registry-identifier>kpmgllp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CH-05393391</code>
+            <name>
+                <narrative>Global Alliance for Livestock Veterinary Medicines</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>galvmed</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UG-NGB-63360</code>
             <name>
                 <narrative>Protecting Families Against HIV/AIDS</narrative>
@@ -5288,6 +5298,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>friendsofpwyf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD-ROC-S-12313</code>
+            <name>
+                <narrative>Bangladesh Primary Care Respiratory Society</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bpcrs</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-58183167</code>
@@ -14780,6 +14800,16 @@
             <codeforiati:registry-identifier>ppag_123</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-OCHA-585</code>
+            <name>
+                <narrative>International Centre for Migration Policy Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Austria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>icmpd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-27293917</code>
             <name>
                 <narrative>The Hague Academy for Local Governance</narrative>
@@ -14994,6 +15024,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>icddrb</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MZ-NUIT-700089584</code>
+            <name>
+                <narrative>Centro de Aprendizagem e Capacitação da Sociedade Civil</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cesc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
