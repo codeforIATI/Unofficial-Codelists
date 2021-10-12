@@ -4522,7 +4522,7 @@
             <code>NL-KVK-06702132</code>
             <name>
                 <narrative>WYG International B.V.</narrative>
-                <narrative xml:lang="fr">Tetra Tech</narrative>
+                <narrative xml:lang="fr">WYG International B.V.</narrative>
             </name>
             <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
