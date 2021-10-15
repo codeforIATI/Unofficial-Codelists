@@ -4102,6 +4102,16 @@
             <codeforiati:registry-identifier>kpmgllp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-05393391</code>
+            <name>
+                <narrative>Global Alliance for Livestock Veterinary Medicines</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>galvmed</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>GB-CH-05393391</code>
             <name>
                 <narrative>Global Alliance for Livestock Veterinary Medicines</narrative>
