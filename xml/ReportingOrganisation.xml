@@ -14733,6 +14733,16 @@
             <codeforiati:registry-identifier>cpd_2021</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-OP-218-051-9994-1329</code>
+            <name>
+                <narrative>Centre for Rights Education and Awareness</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>creawkenya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NP-CRO-1158-065-066</code>
             <name>
                 <narrative>Kathmandu Medical College Public Limited</narrative>
