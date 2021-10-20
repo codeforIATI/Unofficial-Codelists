@@ -1671,6 +1671,16 @@
             <codeforiati:registry-identifier>arfh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-46002</code>
+            <name>
+                <narrative>African Development Bank</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>afdb</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>46002</code>
             <name>
                 <narrative>African Development Bank</narrative>
