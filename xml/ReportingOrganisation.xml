@@ -1674,6 +1674,7 @@
             <code>XM-DAC-46002</code>
             <name>
                 <narrative>African Development Bank</narrative>
+                <narrative xml:lang="fr">Banque africaine de développement</narrative>
             </name>
             <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
