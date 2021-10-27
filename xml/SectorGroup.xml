@@ -457,6 +457,23 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>12264</code>
+            <name>
+                <narrative>COVID-19 control</narrative>
+                <narrative xml:lang="fr">Lutte contre la COVID-19</narrative>
+            </name>
+            <codeforiati:category-code>122</codeforiati:category-code>
+            <codeforiati:category-name>
+                <narrative>Basic Health</narrative>
+                <narrative xml:lang="fr">Santé de Base</narrative>
+            </codeforiati:category-name>
+            <codeforiati:group-code>120</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Health</narrative>
+                <narrative xml:lang="fr">Santé</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>12281</code>
             <name>
                 <narrative>Health personnel development</narrative>
