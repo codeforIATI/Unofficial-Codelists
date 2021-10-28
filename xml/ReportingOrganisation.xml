@@ -12282,7 +12282,7 @@
             <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>acceleratornepal</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CA-CRA_ACR-869974816</code>
             <name>
                 <narrative>Nutrition International</narrative>
@@ -14850,6 +14850,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>tha</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IT-CF-80017510225</code>
+            <name>
+                <narrative>SOS Italia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Italy</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sosvdb_italia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>KE-NCB-218-051-9263-33</code>
