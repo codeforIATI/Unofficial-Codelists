@@ -14982,7 +14982,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lbs</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>IN-MHA-083930147</code>
             <name>
                 <narrative>KEM HOSPITAL RESEARCH CENTRE</narrative>
