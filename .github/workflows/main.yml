@@ -11,12 +11,17 @@ jobs:
         run: sudo apt-get update && sudo apt-get install libxml2-utils libxml2-dev libxslt-dev python-dev
       - name: wget schema
         run: |
-          wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/codelist.xsd"
-          wget "https://raw.githubusercontent.com/IATI/IATI-Codelists/version-2.03/xml.xsd"
+          wget "https://raw.githubusercontent.com/codeforIATI/IATI-Codelists/version-2.03/codelist.xsd"
+          wget "https://raw.githubusercontent.com/codeforIATI/IATI-Codelists/version-2.03/xml.xsd"
       - name: xml lint
         run: xmllint --schema codelist.xsd --noout xml/*
+
+  trigger:
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
       - name: Trigger a build on the codelists repo
-        if: github.ref == 'refs/heads/master'
+        if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         uses: peter-evans/repository-dispatch@v1
         with:
           repository: codeforIATI/codelists
