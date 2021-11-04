@@ -16434,6 +16434,16 @@
             <codeforiati:registry-identifier>icddrb</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-10959095</code>
+            <name>
+                <narrative>The Faraday Institution</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>thefaradayinstitution</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>MZ-NUIT-700089584</code>
             <name>
                 <narrative>Centro de Aprendizagem e Capacitação da Sociedade Civil</narrative>
