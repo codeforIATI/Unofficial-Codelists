@@ -25,11 +25,13 @@
             <codeforiati:category-name>
                 <narrative>Education, Level Unspecified</narrative>
                 <narrative xml:lang="fr">Education, Niveau non spécifié</narrative>
+                <narrative xml:lang="es">Educación, nivel no especificado</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -43,11 +45,13 @@
             <codeforiati:category-name>
                 <narrative>Education, Level Unspecified</narrative>
                 <narrative xml:lang="fr">Education, Niveau non spécifié</narrative>
+                <narrative xml:lang="es">Educación, nivel no especificado</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -61,11 +65,13 @@
             <codeforiati:category-name>
                 <narrative>Education, Level Unspecified</narrative>
                 <narrative xml:lang="fr">Education, Niveau non spécifié</narrative>
+                <narrative xml:lang="es">Educación, nivel no especificado</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -79,11 +85,13 @@
             <codeforiati:category-name>
                 <narrative>Education, Level Unspecified</narrative>
                 <narrative xml:lang="fr">Education, Niveau non spécifié</narrative>
+                <narrative xml:lang="es">Educación, nivel no especificado</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -97,11 +105,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -115,11 +125,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -133,11 +145,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -151,11 +165,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -169,11 +185,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -187,11 +205,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -205,11 +225,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Education</narrative>
                 <narrative xml:lang="fr">Education de Base</narrative>
+                <narrative xml:lang="es">Educación básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -223,11 +245,13 @@
             <codeforiati:category-name>
                 <narrative>Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Secondaire</narrative>
+                <narrative xml:lang="es">Educación secundaria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -241,11 +265,13 @@
             <codeforiati:category-name>
                 <narrative>Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Secondaire</narrative>
+                <narrative xml:lang="es">Educación secundaria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -259,11 +285,13 @@
             <codeforiati:category-name>
                 <narrative>Post-Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Post Secondaire</narrative>
+                <narrative xml:lang="es">Educación post-secundaria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -277,11 +305,13 @@
             <codeforiati:category-name>
                 <narrative>Post-Secondary Education</narrative>
                 <narrative xml:lang="fr">Education Post Secondaire</narrative>
+                <narrative xml:lang="es">Educación post-secundaria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>110</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Education</narrative>
                 <narrative xml:lang="fr">Education</narrative>
+                <narrative xml:lang="es">Educación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -295,11 +325,13 @@
             <codeforiati:category-name>
                 <narrative>Health, General</narrative>
                 <narrative xml:lang="fr">Santé, Général</narrative>
+                <narrative xml:lang="es">Salud, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -313,11 +345,13 @@
             <codeforiati:category-name>
                 <narrative>Health, General</narrative>
                 <narrative xml:lang="fr">Santé, Général</narrative>
+                <narrative xml:lang="es">Salud, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -331,11 +365,13 @@
             <codeforiati:category-name>
                 <narrative>Health, General</narrative>
                 <narrative xml:lang="fr">Santé, Général</narrative>
+                <narrative xml:lang="es">Salud, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -349,11 +385,13 @@
             <codeforiati:category-name>
                 <narrative>Health, General</narrative>
                 <narrative xml:lang="fr">Santé, Général</narrative>
+                <narrative xml:lang="es">Salud, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -367,11 +405,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -385,11 +425,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -403,11 +445,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -421,11 +465,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -439,11 +485,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -457,11 +505,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -475,11 +525,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -492,11 +544,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -510,11 +564,13 @@
             <codeforiati:category-name>
                 <narrative>Basic Health</narrative>
                 <narrative xml:lang="fr">Santé de Base</narrative>
+                <narrative xml:lang="es">Salud básica</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -528,11 +584,13 @@
             <codeforiati:category-name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -546,11 +604,13 @@
             <codeforiati:category-name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -564,11 +624,13 @@
             <codeforiati:category-name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -582,11 +644,13 @@
             <codeforiati:category-name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -600,11 +664,13 @@
             <codeforiati:category-name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -618,11 +684,13 @@
             <codeforiati:category-name>
                 <narrative>Non-communicable diseases (NCDs)</narrative>
                 <narrative xml:lang="fr">Maladies non-transmissibles (MNT)</narrative>
+                <narrative xml:lang="es">Enfermedades no transmisibles</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>120</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Health</narrative>
                 <narrative xml:lang="fr">Santé</narrative>
+                <narrative xml:lang="es">Salud</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -636,11 +704,13 @@
             <codeforiati:category-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>130</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -654,11 +724,13 @@
             <codeforiati:category-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>130</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -672,11 +744,13 @@
             <codeforiati:category-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>130</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -690,11 +764,13 @@
             <codeforiati:category-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>130</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -708,11 +784,13 @@
             <codeforiati:category-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>130</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Population Policies/Programmes &amp; Reproductive Health</narrative>
                 <narrative xml:lang="fr">Politique en Matière de Population/Santé&amp;Fertilité</narrative>
+                <narrative xml:lang="es">Programas/políticas sobre población y salud reproductiva</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -726,11 +804,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -744,11 +824,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -762,11 +844,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -780,11 +864,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -798,11 +884,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -816,11 +904,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -834,11 +924,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -852,11 +944,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -870,11 +964,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -888,11 +984,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -906,11 +1004,13 @@
             <codeforiati:category-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>140</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Water Supply &amp; Sanitation</narrative>
                 <narrative xml:lang="fr">Distribution d'Eau et Assainissement</narrative>
+                <narrative xml:lang="es">Abastecimiento de agua y saneamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -924,11 +1024,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -942,11 +1044,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -960,11 +1064,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -978,11 +1084,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -996,11 +1104,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1014,11 +1124,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1032,11 +1144,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1050,11 +1164,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1068,11 +1184,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1086,11 +1204,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1104,11 +1224,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1122,11 +1244,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1140,11 +1264,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1158,11 +1284,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1176,11 +1304,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1194,11 +1324,13 @@
             <codeforiati:category-name>
                 <narrative>Government &amp; Civil Society-general</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile-général</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil, general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1212,11 +1344,13 @@
             <codeforiati:category-name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1230,11 +1364,13 @@
             <codeforiati:category-name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1248,11 +1384,13 @@
             <codeforiati:category-name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1266,11 +1404,13 @@
             <codeforiati:category-name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1284,11 +1424,13 @@
             <codeforiati:category-name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1302,11 +1444,13 @@
             <codeforiati:category-name>
                 <narrative>Conflict, Peace &amp; Security</narrative>
                 <narrative xml:lang="fr">Conflits, Paix et Sécurité</narrative>
+                <narrative xml:lang="es">Prevención y resolución de conflictos, paz y seguridad</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>150</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
                 <narrative xml:lang="fr">Gouvernement &amp; Société Civile</narrative>
+                <narrative xml:lang="es">Gobierno y sociedad civil</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1320,11 +1464,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1338,11 +1484,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1356,11 +1504,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1374,11 +1524,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1392,11 +1544,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1410,11 +1564,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1428,11 +1584,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1446,11 +1604,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1464,11 +1624,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1482,11 +1644,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1500,11 +1664,13 @@
             <codeforiati:category-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>160</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Social Infrastructure &amp; Services</narrative>
                 <narrative xml:lang="fr">Infrastructure et Services Sociaux Divers</narrative>
+                <narrative xml:lang="es">Otros servicios e infraestructuras sociales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1518,11 +1684,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1536,11 +1704,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1554,11 +1724,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1572,11 +1744,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1590,11 +1764,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1608,11 +1784,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1626,11 +1804,13 @@
             <codeforiati:category-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>210</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Transport &amp; Storage</narrative>
                 <narrative xml:lang="fr">Transports et Entreposage</narrative>
+                <narrative xml:lang="es">Transporte y almacenamiento</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1644,11 +1824,13 @@
             <codeforiati:category-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>220</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1662,11 +1844,13 @@
             <codeforiati:category-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>220</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1680,11 +1864,13 @@
             <codeforiati:category-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>220</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1698,11 +1884,13 @@
             <codeforiati:category-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>220</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Communications</narrative>
                 <narrative xml:lang="fr">Communications</narrative>
+                <narrative xml:lang="es">Comunicaciones</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1716,11 +1904,13 @@
             <codeforiati:category-name>
                 <narrative>Energy Policy</narrative>
                 <narrative xml:lang="fr">Politique de l'énergie</narrative>
+                <narrative xml:lang="es">Política energética</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1734,11 +1924,13 @@
             <codeforiati:category-name>
                 <narrative>Energy Policy</narrative>
                 <narrative xml:lang="fr">Politique de l'énergie</narrative>
+                <narrative xml:lang="es">Política energética</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1752,11 +1944,13 @@
             <codeforiati:category-name>
                 <narrative>Energy Policy</narrative>
                 <narrative xml:lang="fr">Politique de l'énergie</narrative>
+                <narrative xml:lang="es">Política energética</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1770,11 +1964,13 @@
             <codeforiati:category-name>
                 <narrative>Energy Policy</narrative>
                 <narrative xml:lang="fr">Politique de l'énergie</narrative>
+                <narrative xml:lang="es">Política energética</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1788,11 +1984,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1806,11 +2004,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1824,11 +2024,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1842,11 +2044,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1860,11 +2064,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1878,11 +2084,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1896,11 +2104,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1914,11 +2124,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1932,11 +2144,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1950,11 +2164,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1968,11 +2184,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -1986,11 +2204,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2004,11 +2224,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2022,11 +2244,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2040,11 +2264,13 @@
             <codeforiati:category-name>
                 <narrative>Energy generation, non-renewable sources</narrative>
                 <narrative xml:lang="fr">Production d'électricité, sources non renouvelables</narrative>
+                <narrative xml:lang="es">Generación de energía, fuentes no renovables</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2058,11 +2284,13 @@
             <codeforiati:category-name>
                 <narrative>Hybrid energy plants</narrative>
                 <narrative xml:lang="fr">Centrales hybrides</narrative>
+                <narrative xml:lang="es">Centrales de energía híbrida</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2076,11 +2304,13 @@
             <codeforiati:category-name>
                 <narrative>Nuclear energy plants</narrative>
                 <narrative xml:lang="fr">Centrales nucléaires</narrative>
+                <narrative xml:lang="es">Centrales de energía nuclear</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2094,11 +2324,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2112,11 +2344,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2130,11 +2364,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2148,11 +2384,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2166,11 +2404,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2184,11 +2424,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2202,11 +2444,13 @@
             <codeforiati:category-name>
                 <narrative>Energy distribution</narrative>
                 <narrative xml:lang="fr">Distribution de l'énergie</narrative>
+                <narrative xml:lang="es">Distribución de la energía</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>230</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Energy</narrative>
                 <narrative xml:lang="fr">Energie</narrative>
+                <narrative xml:lang="es">Energía</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2220,11 +2464,13 @@
             <codeforiati:category-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>240</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2238,11 +2484,13 @@
             <codeforiati:category-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>240</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2256,11 +2504,13 @@
             <codeforiati:category-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>240</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2274,11 +2524,13 @@
             <codeforiati:category-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>240</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2292,11 +2544,13 @@
             <codeforiati:category-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>240</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2310,11 +2564,13 @@
             <codeforiati:category-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>240</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Banking &amp; Financial Services</narrative>
                 <narrative xml:lang="fr">Banques et Services Financiers</narrative>
+                <narrative xml:lang="es">Servicios bancarios y financieros</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2328,11 +2584,13 @@
             <codeforiati:category-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>250</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2346,11 +2604,13 @@
             <codeforiati:category-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>250</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2364,11 +2624,13 @@
             <codeforiati:category-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>250</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2382,11 +2644,13 @@
             <codeforiati:category-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>250</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Business &amp; Other Services</narrative>
                 <narrative xml:lang="fr">Entreprises et Autres Services</narrative>
+                <narrative xml:lang="es">Empresas y otros servicios</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2400,11 +2664,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2418,11 +2684,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2436,11 +2704,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2454,11 +2724,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2472,11 +2744,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2490,11 +2764,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2508,11 +2784,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2526,11 +2804,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2544,11 +2824,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2562,11 +2844,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2580,11 +2864,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2598,11 +2884,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2616,11 +2904,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2634,11 +2924,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2652,11 +2944,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2670,11 +2964,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2688,11 +2984,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2706,11 +3004,13 @@
             <codeforiati:category-name>
                 <narrative>Agriculture</narrative>
                 <narrative xml:lang="fr">Agriculture</narrative>
+                <narrative xml:lang="es">Agricultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2724,11 +3024,13 @@
             <codeforiati:category-name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2742,11 +3044,13 @@
             <codeforiati:category-name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2760,11 +3064,13 @@
             <codeforiati:category-name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2778,11 +3084,13 @@
             <codeforiati:category-name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2796,11 +3104,13 @@
             <codeforiati:category-name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2814,11 +3124,13 @@
             <codeforiati:category-name>
                 <narrative>Forestry</narrative>
                 <narrative xml:lang="fr">Sylviculture</narrative>
+                <narrative xml:lang="es">Silvicultura</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2832,11 +3144,13 @@
             <codeforiati:category-name>
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
+                <narrative xml:lang="es">Pesca</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2850,11 +3164,13 @@
             <codeforiati:category-name>
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
+                <narrative xml:lang="es">Pesca</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2868,11 +3184,13 @@
             <codeforiati:category-name>
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
+                <narrative xml:lang="es">Pesca</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2886,11 +3204,13 @@
             <codeforiati:category-name>
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
+                <narrative xml:lang="es">Pesca</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2904,11 +3224,13 @@
             <codeforiati:category-name>
                 <narrative>Fishing</narrative>
                 <narrative xml:lang="fr">Pêche</narrative>
+                <narrative xml:lang="es">Pesca</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>310</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Agriculture, Forestry, Fishing</narrative>
                 <narrative xml:lang="fr">Agriculture, Sylviculture, Pêche</narrative>
+                <narrative xml:lang="es">Agricultura, Silvicultura, Pesca</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2922,11 +3244,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2940,11 +3264,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2958,11 +3284,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2976,11 +3304,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -2994,11 +3324,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3012,11 +3344,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3030,11 +3364,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3048,11 +3384,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3066,11 +3404,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3084,11 +3424,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3102,11 +3444,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3120,11 +3464,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3138,11 +3484,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3156,11 +3504,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3174,11 +3524,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3192,11 +3544,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3210,11 +3564,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3228,11 +3584,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3246,11 +3604,13 @@
             <codeforiati:category-name>
                 <narrative>Industry</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières</narrative>
+                <narrative xml:lang="es">Industria</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3264,11 +3624,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3282,11 +3644,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3300,11 +3664,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3318,11 +3684,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3336,11 +3704,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3354,11 +3724,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3372,11 +3744,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3390,11 +3764,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3408,11 +3784,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3426,11 +3804,13 @@
             <codeforiati:category-name>
                 <narrative>Mineral Resources &amp; Mining</narrative>
                 <narrative xml:lang="fr">Industries Extractives</narrative>
+                <narrative xml:lang="es">Industrias extractivas</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3444,11 +3824,13 @@
             <codeforiati:category-name>
                 <narrative>Construction</narrative>
                 <narrative xml:lang="fr">Construction</narrative>
+                <narrative xml:lang="es">Construcción</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>320</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Industry, Mining, Construction</narrative>
                 <narrative xml:lang="fr">Industries Manufacturières, Extractives, Construct</narrative>
+                <narrative xml:lang="es">Industria, extractivas, construcción</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3462,11 +3844,13 @@
             <codeforiati:category-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>331</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3480,11 +3864,13 @@
             <codeforiati:category-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>331</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3498,11 +3884,13 @@
             <codeforiati:category-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>331</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3516,11 +3904,13 @@
             <codeforiati:category-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>331</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3534,11 +3924,13 @@
             <codeforiati:category-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>331</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3552,11 +3944,13 @@
             <codeforiati:category-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>331</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Trade Policies &amp; Regulations</narrative>
                 <narrative xml:lang="fr">Politique Commerciale et Réglementations</narrative>
+                <narrative xml:lang="es">Política y regulación comercial</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3570,11 +3964,13 @@
             <codeforiati:category-name>
                 <narrative>Tourism</narrative>
                 <narrative xml:lang="fr">Tourisme</narrative>
+                <narrative xml:lang="es">Turismo</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>332</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Tourism</narrative>
                 <narrative xml:lang="fr">Tourisme</narrative>
+                <narrative xml:lang="es">Turismo</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3588,11 +3984,13 @@
             <codeforiati:category-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>410</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3606,11 +4004,13 @@
             <codeforiati:category-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>410</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3624,11 +4024,13 @@
             <codeforiati:category-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>410</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3642,11 +4044,13 @@
             <codeforiati:category-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>410</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3660,11 +4064,13 @@
             <codeforiati:category-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>410</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3678,11 +4084,13 @@
             <codeforiati:category-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>410</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Environment Protection</narrative>
                 <narrative xml:lang="fr">Protection de l'Environnement Général</narrative>
+                <narrative xml:lang="es">Protección general medio ambiente</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3696,11 +4104,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3714,11 +4124,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3732,11 +4144,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3750,11 +4164,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3768,11 +4184,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3786,11 +4204,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3804,11 +4224,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3822,11 +4244,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3840,11 +4264,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3858,11 +4284,13 @@
             <codeforiati:category-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>430</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Multisector</narrative>
                 <narrative xml:lang="fr">Autres Multisecteurs</narrative>
+                <narrative xml:lang="es">Otras acciones multisectoriales</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3876,11 +4304,13 @@
             <codeforiati:category-name>
                 <narrative>General Budget Support</narrative>
                 <narrative xml:lang="fr">Soutien Budgétaire</narrative>
+                <narrative xml:lang="es">Apoyo presupuestario general</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>510</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>General Budget Support</narrative>
                 <narrative xml:lang="fr">Soutien Budgétaire</narrative>
+                <narrative xml:lang="es">Apoyo presupuestario general</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3894,11 +4324,13 @@
             <codeforiati:category-name>
                 <narrative>Development Food Assistance</narrative>
                 <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
+                <narrative xml:lang="es">Ayuda alimentaria para el desarrollo</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>520</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Development Food Assistance</narrative>
                 <narrative xml:lang="fr">Aide Alimentaire Dévelopmentale</narrative>
+                <narrative xml:lang="es">Ayuda alimentaria para el desarrollo</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3912,11 +4344,13 @@
             <codeforiati:category-name>
                 <narrative>Other Commodity Assistance</narrative>
                 <narrative xml:lang="fr">Aide sous forme de Produits, Autre</narrative>
+                <narrative xml:lang="es">Otras ayudas en forma de suministro de bienes</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>530</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Commodity Assistance</narrative>
                 <narrative xml:lang="fr">Aide sous forme de Produits, Autre</narrative>
+                <narrative xml:lang="es">Otras ayudas en forma de suministro de bienes</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3930,11 +4364,13 @@
             <codeforiati:category-name>
                 <narrative>Other Commodity Assistance</narrative>
                 <narrative xml:lang="fr">Aide sous forme de Produits, Autre</narrative>
+                <narrative xml:lang="es">Otras ayudas en forma de suministro de bienes</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>530</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Other Commodity Assistance</narrative>
                 <narrative xml:lang="fr">Aide sous forme de Produits, Autre</narrative>
+                <narrative xml:lang="es">Otras ayudas en forma de suministro de bienes</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3948,11 +4384,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3966,11 +4404,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -3984,11 +4424,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4002,11 +4444,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4020,11 +4464,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4038,11 +4484,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4056,11 +4504,13 @@
             <codeforiati:category-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>600</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Action Relating to Debt</narrative>
                 <narrative xml:lang="fr">Actions se Rapportant a la Dette</narrative>
+                <narrative xml:lang="es">Actividades relacionadas con la deuda</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4074,11 +4524,13 @@
             <codeforiati:category-name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>720</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4092,11 +4544,13 @@
             <codeforiati:category-name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>720</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4110,11 +4564,13 @@
             <codeforiati:category-name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>720</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Emergency Response</narrative>
                 <narrative xml:lang="fr">Intervention d'Urgence</narrative>
+                <narrative xml:lang="es">Ayuda de emergencia</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4128,11 +4584,13 @@
             <codeforiati:category-name>
                 <narrative>Reconstruction Relief &amp; Rehabilitation</narrative>
                 <narrative xml:lang="fr">Reconstruction &amp; Réhabilitation</narrative>
+                <narrative xml:lang="es">Ayuda a la reconstrucción y a la rehabilitación</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>730</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Reconstruction Relief &amp; Rehabilitation</narrative>
                 <narrative xml:lang="fr">Reconstruction &amp; Réhabilitation</narrative>
+                <narrative xml:lang="es">Ayuda a la reconstrucción y a la rehabilitación</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4146,11 +4604,13 @@
             <codeforiati:category-name>
                 <narrative>Disaster Prevention &amp; Preparedness</narrative>
                 <narrative xml:lang="fr">Prévention catastrophes/Préparation à leur survenue</narrative>
+                <narrative xml:lang="es">Prevención de desastres</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>740</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Disaster Prevention &amp; Preparedness</narrative>
                 <narrative xml:lang="fr">Prévention catastrophes/Préparation à leur survenue</narrative>
+                <narrative xml:lang="es">Prevención de desastres</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4164,11 +4624,13 @@
             <codeforiati:category-name>
                 <narrative>Administrative Costs of Donors</narrative>
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
+                <narrative xml:lang="es">Costes administrativos donantes</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>910</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Administrative Costs of Donors</narrative>
                 <narrative xml:lang="fr">Frais Administratifs des Donneurs</narrative>
+                <narrative xml:lang="es">Costes administrativos donantes</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4182,11 +4644,13 @@
             <codeforiati:category-name>
                 <narrative>Refugees in Donor Countries</narrative>
                 <narrative xml:lang="fr">Refugiés dans les Pays Donneurs</narrative>
+                <narrative xml:lang="es">Ayuda a refugiados en el país donante</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>930</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Refugees in Donor Countries</narrative>
                 <narrative xml:lang="fr">Refugiés dans les Pays Donneurs</narrative>
+                <narrative xml:lang="es">Ayuda a refugiados en el país donante</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4200,11 +4664,13 @@
             <codeforiati:category-name>
                 <narrative>Unallocated / Unspecified</narrative>
                 <narrative xml:lang="fr">Non Affecté / Non Specifié</narrative>
+                <narrative xml:lang="es">Sin especificación / no clasificados</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>998</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Unallocated / Unspecified</narrative>
                 <narrative xml:lang="fr">Non Affecté / Non Specifié</narrative>
+                <narrative xml:lang="es">Sin especificación / no clasificados</narrative>
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
@@ -4218,11 +4684,13 @@
             <codeforiati:category-name>
                 <narrative>Unallocated / Unspecified</narrative>
                 <narrative xml:lang="fr">Non Affecté / Non Specifié</narrative>
+                <narrative xml:lang="es">Sin especificación / no clasificados</narrative>
             </codeforiati:category-name>
             <codeforiati:group-code>998</codeforiati:group-code>
             <codeforiati:group-name>
                 <narrative>Unallocated / Unspecified</narrative>
                 <narrative xml:lang="fr">Non Affecté / Non Specifié</narrative>
+                <narrative xml:lang="es">Sin especificación / no clasificados</narrative>
             </codeforiati:group-name>
         </codelist-item>
     </codelist-items>
