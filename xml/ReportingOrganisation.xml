@@ -4661,6 +4661,16 @@
             <codeforiati:registry-identifier>ddp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PK-NTN-6110190392611</code>
+            <name>
+                <narrative>Allergy and Asthma Institute Pakistan</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aaip</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1113868</code>
             <name>
                 <narrative>Hand in Hand International</narrative>
