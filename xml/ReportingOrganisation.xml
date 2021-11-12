@@ -16484,6 +16484,16 @@
             <codeforiati:registry-identifier>cesc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-RGD-CG200980721</code>
+            <name>
+                <narrative>Initiative Sankofa d'Afrique de l'Ouest</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>isdao</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-46012</code>
             <name>
                 <narrative>Inter-American Investment Corporation</narrative>
