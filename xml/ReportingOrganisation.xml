@@ -4610,6 +4610,16 @@
             <codeforiati:registry-identifier>rri</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-RCO-C95110</code>
+            <name>
+                <narrative>Kenya Community Development Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kcdf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-81-3014704</code>
             <name>
                 <narrative>Syria Justice and Accountability Centre (SJAC)</narrative>
@@ -17829,6 +17839,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>thefaradayinstitution</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HK-CR-2288921</code>
+            <name>
+                <narrative>ELEVATE Hong Kong Holdings Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Hong Kong</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>elevatelimited</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>MZ-NUIT-700089584</code>
