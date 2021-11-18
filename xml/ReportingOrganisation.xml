@@ -1977,6 +1977,8 @@
             <name>
                 <narrative>African Development Bank</narrative>
                 <narrative xml:lang="fr">Banque africaine de développement</narrative>
+                <narrative xml:lang="es">Banco Africano de Desarrollo</narrative>
+                <narrative xml:lang="pt">Banco Africano de Desenvolvimento</narrative>
             </name>
             <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
