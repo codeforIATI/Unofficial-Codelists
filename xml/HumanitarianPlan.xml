@@ -341,6 +341,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OETH21</code>
+            <name>
+                <narrative>Northern Ethiopia Response Plan 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-05-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HPSE21</code>
             <name>
                 <narrative>occupied Palestinian territory 2021</narrative>
