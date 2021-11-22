@@ -3741,6 +3741,16 @@
             <codeforiati:registry-identifier>kse</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-270901</code>
+            <name>
+                <narrative>Education Development Trust</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eddevtrust</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1122799</code>
             <name>
                 <narrative>Retrak</narrative>
@@ -17540,6 +17550,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>e_n</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-NGO-1317</code>
+            <name>
+                <narrative>SIHA Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>siharegional</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GH-RGD-CG001532017</code>
