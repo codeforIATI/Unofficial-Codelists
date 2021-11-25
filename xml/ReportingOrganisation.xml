@@ -7763,6 +7763,16 @@
             <codeforiati:registry-identifier>act_alliance</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-30258482</code>
+            <name>
+                <narrative>Kerk in Actie</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kerk_in_actie</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-47064</code>
             <name>
                 <narrative>International Network for Bamboo and Rattan (INBAR)</narrative>
