@@ -17913,6 +17913,16 @@
             <codeforiati:registry-identifier>isdao</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MHA-094421114</code>
+            <name>
+                <narrative>IT for Change</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>itforchange</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-46012</code>
             <name>
                 <narrative>Inter-American Investment Corporation</narrative>
