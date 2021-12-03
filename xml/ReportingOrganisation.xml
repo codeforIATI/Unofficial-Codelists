@@ -7955,6 +7955,16 @@
             <codeforiati:registry-identifier>pin</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-NPO-060766</code>
+            <name>
+                <narrative>Coalition of African Lesbians (CAL)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cal_2000-pu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KBO-0427736148</code>
             <name>
                 <narrative>Trias</narrative>
@@ -17696,6 +17706,16 @@
             <codeforiati:registry-identifier>ama-south-sudan</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ID-KHH-AHU-0013363.AH.01.04</code>
+            <name>
+                <narrative>Yayasan PEKKA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pekka_21</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-IT-NO96562</code>
             <name>
                 <narrative>Olamma Cares Foundation</narrative>
@@ -17733,6 +17753,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iza</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CA_ON-ONT-1783682</code>
+            <name>
+                <narrative>Gender at Work</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>genderatwork</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-74799525</code>
@@ -17931,6 +17961,16 @@
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>idbinvest</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TZ-NNCB-INGOR2000123</code>
+            <name>
+                <narrative>Africa Philanthropy Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tanzania, United Republic of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>apn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>UG-NGO-3690</code>
