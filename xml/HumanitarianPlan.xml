@@ -11,6 +11,376 @@
     </metadata>
     <codelist-items>
         <codelist-item status="active">
+            <code>HAFG22</code>
+            <name>
+                <narrative>Afghanistan Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RAFG22</code>
+            <name>
+                <narrative>Afghanistan Regional Refugee Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RBGD22</code>
+            <name>
+                <narrative>Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HBFA22</code>
+            <name>
+                <narrative>Burkina Faso Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HBDI22</code>
+            <name>
+                <narrative>Burundi Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCMR22</code>
+            <name>
+                <narrative>Cameroon Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCOL22</code>
+            <name>
+                <narrative>Colombia Plan de Respuesta Humanitario 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RDRCRRP22</code>
+            <name>
+                <narrative>Democratic Republic of Congo Regional Refugee Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSLV22</code>
+            <name>
+                <narrative>El Salvador Plan de Respuesta Humanitario 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HETH22</code>
+            <name>
+                <narrative>Ethiopia Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HGTM22</code>
+            <name>
+                <narrative>Guatemala Plan de Respuesta Humanitario 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HHTI22</code>
+            <name>
+                <narrative>Haiti Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HHND22</code>
+            <name>
+                <narrative>Honduras Plan de Respuesta Humanitario 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HIRQ22</code>
+            <name>
+                <narrative>Iraq Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OLBN22</code>
+            <name>
+                <narrative>Lebanon Emergency Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HLBY22</code>
+            <name>
+                <narrative>Libya Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-05-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FMDG22</code>
+            <name>
+                <narrative>Madagascar&amp;#039;s Grand Sud Flash Appeal 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HMLI22</code>
+            <name>
+                <narrative>Mali Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HMOZ22</code>
+            <name>
+                <narrative>Mozambique Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HMMR22</code>
+            <name>
+                <narrative>Myanmar Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HNER22</code>
+            <name>
+                <narrative>Niger Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HNGA22</code>
+            <name>
+                <narrative>Nigeria Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HPSE22</code>
+            <name>
+                <narrative>occupied Palestinian territory Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RREG22</code>
+            <name>
+                <narrative>Refugee and Migrant Response Plan for Venezuela 2022 (RMRP)</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RDJIETHSOMYEM22</code>
+            <name>
+                <narrative>Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCAF22</code>
+            <name>
+                <narrative>République Centrafricaine Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HCOD22</code>
+            <name>
+                <narrative>République Démocratique du Congo Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSOM22</code>
+            <name>
+                <narrative>Somalia Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSSD22</code>
+            <name>
+                <narrative>South Sudan Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RSSDRRP22</code>
+            <name>
+                <narrative>South Sudan Regional Refugee Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSDN22</code>
+            <name>
+                <narrative>Sudan Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSYR22</code>
+            <name>
+                <narrative>Syria Humanitarian Response Plan 2022 - 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RSYR22</code>
+            <name>
+                <narrative>Syria Refugee Response and Resilience Plan (3RP) 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HTCD22</code>
+            <name>
+                <narrative>Tchad Plan de Réponse Humanitaire 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HUKR22</code>
+            <name>
+                <narrative>Ukraine Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HVEN22</code>
+            <name>
+                <narrative>Venezuela Plan de Respuesta Humanitario 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HYEM22</code>
+            <name>
+                <narrative>Yemen Humanitarian Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FAFG21</code>
             <name>
                 <narrative>Afghanistan Flash Appeal 2021</narrative>
@@ -43,7 +413,7 @@
         <codelist-item status="active">
             <code>HBFA21</code>
             <name>
-                <narrative>Burkina Faso Humanitarian Response Plan 2021</narrative>
+                <narrative>Burkina Faso Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -53,7 +423,7 @@
         <codelist-item status="active">
             <code>HBDI21</code>
             <name>
-                <narrative>Burundi Humanitarian Response Plan 2021</narrative>
+                <narrative>Burundi Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -73,7 +443,7 @@
         <codelist-item status="active">
             <code>HCMR21</code>
             <name>
-                <narrative>Cameroon Humanitarian Response Plan 2021</narrative>
+                <narrative>Cameroon Humanitarian Response Plan  2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -83,7 +453,7 @@
         <codelist-item status="active">
             <code>HCAF21</code>
             <name>
-                <narrative>Central African Republic Humanitarian Response Plan 2021</narrative>
+                <narrative>République Centrafricaine Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -93,7 +463,7 @@
         <codelist-item status="active">
             <code>HTCD21</code>
             <name>
-                <narrative>Chad Humanitarian Response Plan 2021</narrative>
+                <narrative>Tchad Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -103,7 +473,7 @@
         <codelist-item status="active">
             <code>HCOL21</code>
             <name>
-                <narrative>Colombia Humanitarian Response Plan 2021</narrative>
+                <narrative>Colombia Plan de Respuesta Humanitario 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -113,7 +483,7 @@
         <codelist-item status="active">
             <code>HCOD21</code>
             <name>
-                <narrative>Democratic Republic of Congo Humanitarian Response Plan 2021</narrative>
+                <narrative>République Démocratique du Congo Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -131,6 +501,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HSLV21</code>
+            <name>
+                <narrative>El Salvador Plan de Respuesta Humanitario 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>HSLV2122</code>
             <name>
                 <narrative>El Salvador Plan de Respuesta Humanitario 2021</narrative>
@@ -161,6 +541,16 @@
             <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HGTM21</code>
+            <name>
+                <narrative>Guatemala Plan de Respuesta Humanitario 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>HGTM2122</code>
             <name>
                 <narrative>Guatemala Plan de Respuesta Humanitario 2021</narrative>
@@ -183,7 +573,7 @@
         <codelist-item status="active">
             <code>HHTI21</code>
             <name>
-                <narrative>Haiti Humanitarian Response Plan 2021</narrative>
+                <narrative>Haiti Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -201,6 +591,16 @@
             <codeforiati:plan-end-date>2021-06-30</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HHND21</code>
+            <name>
+                <narrative>Honduras Plan de Respuesta Humanitario 2021</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2021</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-08-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2021-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>HHND2122</code>
             <name>
                 <narrative>Honduras Plan de Respuesta Humanitario 2021</narrative>
@@ -273,7 +673,7 @@
         <codelist-item status="active">
             <code>HMLI21</code>
             <name>
-                <narrative>Mali Humanitarian Response Plan 2021</narrative>
+                <narrative>Mali Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -323,7 +723,7 @@
         <codelist-item status="active">
             <code>HNER21</code>
             <name>
-                <narrative>Niger Humanitarian Response Plan 2021</narrative>
+                <narrative>Niger Plan de Réponse Humanitaire 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -463,7 +863,7 @@
         <codelist-item status="active">
             <code>HVEN21</code>
             <name>
-                <narrative>Venezuela Humanitarian Response Plan 2021</narrative>
+                <narrative>Venezuela Plan de Respuesta Humanitario 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
