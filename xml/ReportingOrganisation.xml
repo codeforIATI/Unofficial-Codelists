@@ -14478,6 +14478,16 @@
             <codeforiati:registry-identifier>elsam</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-00070527</code>
+            <name>
+                <narrative>London School of Economics and Political Science</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lse</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-GOV-52</code>
             <name>
                 <narrative>Conflict, Stability and Security Fund</narrative>
