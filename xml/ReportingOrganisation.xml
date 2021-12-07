@@ -17943,6 +17943,16 @@
             <codeforiati:registry-identifier>cesc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-NPO-213-268</code>
+            <name>
+                <narrative>South African Network of People who Use Drugs</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sanpud</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-RGD-CG200980721</code>
             <name>
                 <narrative>Initiative Sankofa d'Afrique de l'Ouest</narrative>
@@ -17991,6 +18001,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>rv-ww2</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GH-DSW-7992</code>
+            <name>
+                <narrative>African Security Sector Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>assn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
