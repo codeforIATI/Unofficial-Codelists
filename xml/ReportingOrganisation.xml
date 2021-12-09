@@ -6648,6 +6648,16 @@
             <codeforiati:registry-identifier>itm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZW-ROD-2172</code>
+            <name>
+                <narrative>GALZ</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Zimbabwe</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>galz</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KBO-0264814354</code>
             <name>
                 <narrative>Belgian development agency (Enabel)</narrative>
@@ -17530,6 +17540,16 @@
             <codeforiati:registry-identifier>su-impala</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NG-CAC-37051</code>
+            <name>
+                <narrative>Down syndrome Foundation Nigeria</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dsfn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1173320</code>
             <name>
                 <narrative>South West International Development Network</narrative>
@@ -17992,7 +18012,7 @@
             <codeforiati:hq-country-or-region>Tanzania, United Republic of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>apn</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>UG-NGO-3690</code>
             <name>
                 <narrative>Raising Voices</narrative>
