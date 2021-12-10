@@ -17504,6 +17504,16 @@
             <codeforiati:registry-identifier>tffus</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-NPO-053-456</code>
+            <name>
+                <narrative>The Centre for Economic Governance and Accountability in Africa  (CEGAA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cegaa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-OP-218-051-9994-1329</code>
             <name>
                 <narrative>Centre for Rights Education and Awareness</narrative>
