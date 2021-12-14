@@ -18042,6 +18042,16 @@
             <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>assn</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1102909</code>
+            <name>
+                <narrative>The Climate Change Organisation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>climate-group</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
