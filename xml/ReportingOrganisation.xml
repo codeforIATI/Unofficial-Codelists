@@ -6362,6 +6362,16 @@
             <codeforiati:registry-identifier>solidaridad-europe</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-RSB-29587</code>
+            <name>
+                <narrative>The Uganda Association of Women Lawyers ( FIDA Uganda)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fidauganda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-31-1812979</code>
             <name>
                 <narrative>CREA</narrative>
