@@ -17871,6 +17871,16 @@
             <codeforiati:registry-identifier>upm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>EG-MOSS-3959350</code>
+            <name>
+                <narrative>Ibrahimia Media Center</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Egypt</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>imc-2021</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BD-ROC-C-107131</code>
             <name>
                 <narrative>Light Castle Partners</narrative>
@@ -17991,6 +18001,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sanpud</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-74-2244146</code>
+            <name>
+                <narrative>Rocky Mountain Institute</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rmi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GH-RGD-CG200980721</code>
