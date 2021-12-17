@@ -7819,6 +7819,16 @@
             <codeforiati:registry-identifier>stad</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-5-52</code>
+            <name>
+                <narrative>Germany GIZ Non BMZ</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>giz</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-236</code>
             <name>
                 <narrative>Ministère de l'Economie et des Finances du Bénin</narrative>
