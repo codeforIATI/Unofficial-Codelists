@@ -7818,7 +7818,7 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>stad</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>XM-DAC-5-52</code>
             <name>
                 <narrative>Germany GIZ Non BMZ</narrative>
