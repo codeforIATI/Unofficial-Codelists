@@ -8151,6 +8151,16 @@
             <codeforiati:registry-identifier>clingendael</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MCA-U74900MH2015PTC310042</code>
+            <name>
+                <narrative>Intellecap Advisory Services Private Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>intellecap</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41160229</code>
             <name>
                 <narrative>PUM Netherlands</narrative>
