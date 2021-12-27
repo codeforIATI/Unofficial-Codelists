@@ -241,6 +241,16 @@
             <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OPHL2122</code>
+            <name>
+                <narrative>Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2021-12-24</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-06-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>RREG22</code>
             <name>
                 <narrative>Refugee and Migrant Response Plan for Venezuela 2022 (RMRP)</narrative>
