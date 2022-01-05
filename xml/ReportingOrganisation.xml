@@ -8150,7 +8150,7 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>clingendael</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>IN-MCA-U74900MH2015PTC310042</code>
             <name>
                 <narrative>Intellecap Advisory Services Private Limited</narrative>
@@ -18111,6 +18111,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>climate-group</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NG-CAC-11660</code>
+            <name>
+                <narrative>Center for Research, Evaluation Resources and Development (CRERD)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>crerd_ng</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
