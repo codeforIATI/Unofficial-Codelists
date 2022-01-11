@@ -6863,6 +6863,16 @@
             <codeforiati:registry-identifier>bsr_admin</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-07964746</code>
+            <name>
+                <narrative>Satellite Applications Catapult Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>satelliteapplicationscatapultltd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-40530156</code>
             <name>
                 <narrative>COC Nederland</narrative>
