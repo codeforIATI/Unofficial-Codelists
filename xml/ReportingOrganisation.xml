@@ -17911,6 +17911,16 @@
             <codeforiati:registry-identifier>upm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PS-MOI-QR-1420-C</code>
+            <name>
+                <narrative>YWCA Palestine</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ywca</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>EG-MOSS-3959350</code>
             <name>
                 <narrative>Ibrahimia Media Center</narrative>
