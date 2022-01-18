@@ -8236,6 +8236,16 @@
             <codeforiati:registry-identifier>ideo_org</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-0081</code>
+            <name>
+                <narrative>siiqqee Women's Development Association</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>swda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-66004229946</code>
             <name>
                 <narrative>World Economic Forum Geneva</narrative>
