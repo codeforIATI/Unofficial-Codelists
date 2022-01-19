@@ -17646,6 +17646,16 @@
             <codeforiati:registry-identifier>lboro</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CA-CC-13474046</code>
+            <name>
+                <narrative>Transparently Lebanese</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>transparently_lebanese</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-660-0294975-4</code>
             <name>
                 <narrative>World Young Women's Christian Association</narrative>
@@ -17876,6 +17886,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>law</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-204CBO-JJA02202000348</code>
+            <name>
+                <narrative>Jinja district union of persons with disabilities</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>jidu2021</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-COH-RC000721</code>
