@@ -18023,6 +18023,16 @@
             <codeforiati:registry-identifier>ewla</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>et-CSA-0444</code>
+            <name>
+                <narrative>Ethiopian Women with Disabilities National Assocation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ewdna2025</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-77583442</code>
             <name>
                 <narrative>Transition International</narrative>
@@ -18171,6 +18181,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>crerd_ng</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-RUE-8300033586</code>
+            <name>
+                <narrative>Fundación Gaia Amazonas</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gaia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
