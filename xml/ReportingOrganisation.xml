@@ -6437,6 +6437,16 @@
             <codeforiati:registry-identifier>dec-uk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-91-1179750</code>
+            <name>
+                <narrative>Peace Brigades International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pbi_io</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-40409352</code>
             <name>
                 <narrative>Netherlands Red Cross</narrative>
