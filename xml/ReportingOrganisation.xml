@@ -18193,6 +18193,16 @@
             <codeforiati:registry-identifier>crerd_ng</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PH-SEC-CN200324943</code>
+            <name>
+                <narrative>Non-Timber Forest Products Exchange Programme</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Philippines</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ntfp-ep</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CO-RUE-8300033586</code>
             <name>
                 <narrative>Fundación Gaia Amazonas</narrative>
