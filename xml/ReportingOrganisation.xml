@@ -18043,6 +18043,16 @@
             <codeforiati:registry-identifier>ewdna2025</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-83517626</code>
+            <name>
+                <narrative>InvestInternational</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>investinternational</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-77583442</code>
             <name>
                 <narrative>Transition International</narrative>
@@ -18081,6 +18091,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Hong Kong</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>elevatelimited</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-80547745</code>
+            <name>
+                <narrative>TRAIDE Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>traide_foundation</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>MZ-NUIT-700089584</code>
