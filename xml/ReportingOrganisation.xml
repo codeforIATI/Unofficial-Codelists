@@ -6883,6 +6883,16 @@
             <codeforiati:registry-identifier>satelliteapplicationscatapultltd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-11080032</code>
+            <name>
+                <narrative>MedAccess Guarantee Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>medaccess</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-40530156</code>
             <name>
                 <narrative>COC Nederland</narrative>
@@ -18023,6 +18033,16 @@
             <codeforiati:registry-identifier>wctc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-NGO-S59143785</code>
+            <name>
+                <narrative>National Union of Women With Disabilities of Uganda</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nuwodu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ET-CSA-1128</code>
             <name>
                 <narrative>Ethiopian Women Lawyers Association</narrative>
@@ -18231,6 +18251,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>gaia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LR-MFDPNGO-0961</code>
+            <name>
+                <narrative>Sustainable Development Institute</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Liberia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sdi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
