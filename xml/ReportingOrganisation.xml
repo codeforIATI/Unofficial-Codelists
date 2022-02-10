@@ -18020,6 +18020,16 @@
             <codeforiati:registry-identifier>achr</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>JO-CCD-58307</code>
+            <name>
+                <narrative>7iber Media Consulting</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>7iberdotcom</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-WDCBO542010192</code>
             <name>
                 <narrative>Women Challenged to Challenge</narrative>
