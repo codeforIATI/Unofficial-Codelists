@@ -17981,6 +17981,16 @@
             <codeforiati:registry-identifier>imc-2021</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-13-3615533</code>
+            <name>
+                <narrative>The Education Commission</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>educomm</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BD-ROC-C-107131</code>
             <name>
                 <narrative>Light Castle Partners</narrative>
