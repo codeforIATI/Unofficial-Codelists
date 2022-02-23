@@ -18292,6 +18292,16 @@
             <codeforiati:hq-country-or-region>Liberia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sdi</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>SG-ACRA-201507403G</code>
+            <name>
+                <narrative>Grow Asia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Singapore</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>growasia</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
