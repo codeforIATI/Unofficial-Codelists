@@ -18272,7 +18272,7 @@
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>gaia</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>GH-RGD-CG159432015</code>
             <name>
                 <narrative>GHANA NETHERLANDS BUSINESS &amp; CULTURE COUNCIL</narrative>
