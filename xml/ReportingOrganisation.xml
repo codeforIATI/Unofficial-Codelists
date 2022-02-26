@@ -18153,6 +18153,16 @@
             <codeforiati:registry-identifier>cesc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MY-SSM-1162174T</code>
+            <name>
+                <narrative>Musawah Global Vision Berhad</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>musawah</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZA-NPO-213-268</code>
             <name>
                 <narrative>South African Network of People who Use Drugs</narrative>
