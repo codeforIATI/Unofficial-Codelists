@@ -7553,6 +7553,16 @@
             <codeforiati:registry-identifier>gnpplus</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-08705643</code>
+            <name>
+                <narrative>Innovate UK KTN</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ktn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-SC349355</code>
             <name>
                 <narrative>Global Network of Sex Work Projects (NSWP)</narrative>
