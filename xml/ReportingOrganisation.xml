@@ -8965,6 +8965,16 @@
             <codeforiati:registry-identifier>berytech</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-64680029</code>
+            <name>
+                <narrative>Stichting Wings For Aid Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wfaf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41150085</code>
             <name>
                 <narrative>Nuffic</narrative>
