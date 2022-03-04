@@ -181,6 +181,16 @@
             <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>FMWI22</code>
+            <name>
+                <narrative>Malawi Flash Appeal 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-02-26</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-05-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HMLI22</code>
             <name>
                 <narrative>Mali Plan de Réponse Humanitaire 2022</narrative>
@@ -243,7 +253,7 @@
         <codelist-item status="active">
             <code>OPHL2122</code>
             <name>
-                <narrative>Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities</narrative>
+                <narrative>Philippines: Super Typhoon Rai (Odette) - Humanitarian Needs and Priorities 2022</narrative>
             </name>
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -379,6 +389,16 @@
             <codeforiati:plan-year>2022</codeforiati:plan-year>
             <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RUKRN22</code>
+            <name>
+                <narrative>Ukraine Regional Refugee Response Plan 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-03-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-08-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
             <code>HVEN22</code>
