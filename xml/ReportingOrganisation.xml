@@ -4925,6 +4925,16 @@
             <codeforiati:registry-identifier>wo-men</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>VN-MOST-A399</code>
+            <name>
+                <narrative>Center for Development and Integration</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Viet Nam</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cdi_vn_2021</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>IN-MCA-U74999DL2004NPL131340</code>
             <name>
                 <narrative>Oxfam India</narrative>
@@ -18261,6 +18271,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>assn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ID-DJP-023047012526000</code>
+            <name>
+                <narrative>Business Watch Indonesia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bwi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1102909</code>
