@@ -3818,7 +3818,7 @@
         <codelist-item status="active">
             <code>NL-KVK-27378529</code>
             <name>
-                <narrative>Netherlands Enterprise Agency</narrative>
+                <narrative>Netherlands Enterprise Agency (RVO)</narrative>
                 <narrative xml:lang="fr">Agence néerlandaise pour les entreprises</narrative>
                 <narrative xml:lang="es">Netherlands Enterprise Agency</narrative>
                 <narrative xml:lang="pt">Agência Empresarial dos Países Baixos</narrative>
