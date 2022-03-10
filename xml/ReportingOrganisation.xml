@@ -17866,6 +17866,16 @@
             <codeforiati:registry-identifier>ama-south-sudan</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-NGO-3580</code>
+            <name>
+                <narrative>Akina Mama wa Afrika</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>amwa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ID-KHH-AHU-0013363.AH.01.04</code>
             <name>
                 <narrative>Yayasan PEKKA</narrative>
