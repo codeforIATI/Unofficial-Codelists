@@ -18245,7 +18245,7 @@
         <codelist-item status="active">
             <code>XM-DAC-46012</code>
             <name>
-                <narrative>Inter-American Investment Corporation</narrative>
+                <narrative>IDB Invest</narrative>
             </name>
             <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
@@ -18391,6 +18391,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Singapore</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>growasia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-CIP-2021-421804-08</code>
+            <name>
+                <narrative>Slum Dwellers International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sdi-int</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
