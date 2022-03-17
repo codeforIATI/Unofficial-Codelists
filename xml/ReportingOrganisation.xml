@@ -9882,6 +9882,16 @@
             <codeforiati:registry-identifier>arcfge</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZM-PCR-10104052014</code>
+            <name>
+                <narrative>People's Process on Housing and Poverty in Zambia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Zambia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pphpz</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KBO-0462132150</code>
             <name>
                 <narrative>Croix-Rouge de Belgique Communauté francophone - Activités internationales ASBL</narrative>
@@ -18291,6 +18301,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wwf_id</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TN-RNE-1540791FPN000</code>
+            <name>
+                <narrative>WWF TUNISIA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tunisia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwfna</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>KE-KRA-P051326872M</code>
