@@ -8164,7 +8164,7 @@
         <codelist-item status="active">
             <code>XM-DAC-928</code>
             <name>
-                <narrative>World Health Organization</narrative>
+                <narrative>World Health Organization (WHO)</narrative>
                 <narrative xml:lang="fr">Organisation mondiale de la Santé (OMS)</narrative>
                 <narrative xml:lang="es">Organización Mundial de la Salud</narrative>
                 <narrative xml:lang="pt">Organização Mundial da Saúde</narrative>
