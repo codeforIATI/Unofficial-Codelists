@@ -18343,6 +18343,16 @@
             <codeforiati:registry-identifier>climate-group</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-DSW-1334</code>
+            <name>
+                <narrative>West Africa Network for Peacebuilding</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wanep</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-11660</code>
             <name>
                 <narrative>Center for Research, Evaluation Resources and Development (CRERD)</narrative>
@@ -18421,6 +18431,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sdi-int</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PY-RUC-80025907-6</code>
+            <name>
+                <narrative>WWF Paraguay</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Paraguay</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwf-py</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
