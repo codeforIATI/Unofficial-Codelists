@@ -18313,6 +18313,16 @@
             <codeforiati:registry-identifier>wwfna</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZM-PCR-10102712014</code>
+            <name>
+                <narrative>World Wide Fund for Nature Zambia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Zambia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwfzambia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P051326872M</code>
             <name>
                 <narrative>Shack Dwellers International - Kenya</narrative>
