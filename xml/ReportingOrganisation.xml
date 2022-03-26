@@ -10386,6 +10386,16 @@
             <codeforiati:registry-identifier>qrfed</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-218.051.93197.173</code>
+            <name>
+                <narrative>Forum for Africa Women Educationalist Regional Secretariat</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fawe-rs</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-09119363</code>
             <name>
                 <narrative>PRACTICA Foundation</narrative>
