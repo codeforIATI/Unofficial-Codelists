@@ -17873,6 +17873,16 @@
             <codeforiati:registry-identifier>leprazending-tlm-nl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-SPR</code>
+            <name>
+                <narrative>Synergie des Femmes pour la Paix et la Réconciliation des Peuples des Grands Lacs d'Afrique</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Congo (Democratic Republic of the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>spr</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>SS-RRC-465</code>
             <name>
                 <narrative>Assistance Mission for Africa</narrative>
