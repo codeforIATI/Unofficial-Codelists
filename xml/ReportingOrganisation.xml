@@ -11657,6 +11657,16 @@
             <codeforiati:registry-identifier>rcog_resilience_in_obstetric_skills</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-02188452</code>
+            <name>
+                <narrative>International Institute for Environment and Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iied</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P051311853T</code>
             <name>
                 <narrative>Northern Rangelands Trust</narrative>
