@@ -4697,6 +4697,16 @@
             <codeforiati:registry-identifier>progressio</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-52-1826242</code>
+            <name>
+                <narrative>Tanager</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tan</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CA-CRA_ACR-127202349</code>
             <name>
                 <narrative>The International Institute for Sustainable Development</narrative>
@@ -18301,6 +18311,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Tanzania, United Republic of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>apn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PA-PRP-5789</code>
+            <name>
+                <narrative>Fundación Avina</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Panama</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fundacionavina</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>UG-NGO-3690</code>
