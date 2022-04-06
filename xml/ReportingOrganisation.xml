@@ -5930,6 +5930,16 @@
             <codeforiati:registry-identifier>jass</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MHA-083781496</code>
+            <name>
+                <narrative>Fight Hunger Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fhf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-521291786</code>
             <name>
                 <narrative>Association for Women's Rights in Development (AWID)</narrative>
@@ -17759,6 +17769,16 @@
             <codeforiati:registry-identifier>world_ywca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>SN-NINEA-004487121</code>
+            <name>
+                <narrative>Amref health Africa in Senegal</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Senegal</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>awa_sn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-218051981161116</code>
             <name>
                 <narrative>Equality Now</narrative>
@@ -18471,6 +18491,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Liberia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sdi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-46021</code>
+            <name>
+                <narrative>BANQUE OUEST AFRICAINE DE DEVELOPPEMENT</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Togo</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>boadiita</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SG-ACRA-201507403G</code>
