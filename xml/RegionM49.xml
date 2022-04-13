@@ -53,9 +53,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -101,9 +98,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -149,9 +143,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -197,9 +188,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -245,9 +233,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -293,9 +278,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -341,9 +323,6 @@
                 <narrative xml:lang="zh">北非</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -5954,9 +5933,6 @@
                 <narrative xml:lang="zh">北美</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6002,9 +5978,6 @@
                 <narrative xml:lang="zh">北美</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6050,9 +6023,6 @@
                 <narrative xml:lang="zh">北美</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6098,9 +6068,6 @@
                 <narrative xml:lang="zh">北美</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6146,9 +6113,6 @@
                 <narrative xml:lang="zh">北美</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6176,17 +6140,8 @@
                 <narrative xml:lang="zh">世界</narrative>
             </codeforiati:global-name>
             <codeforiati:region-code/>
-            <codeforiati:region-name>
-                <narrative/>
-            </codeforiati:region-name>
             <codeforiati:sub-region-code/>
-            <codeforiati:sub-region-name>
-                <narrative/>
-            </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6232,9 +6187,6 @@
                 <narrative xml:lang="zh">中亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6280,9 +6232,6 @@
                 <narrative xml:lang="zh">中亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6328,9 +6277,6 @@
                 <narrative xml:lang="zh">中亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6376,9 +6322,6 @@
                 <narrative xml:lang="zh">中亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6424,9 +6367,6 @@
                 <narrative xml:lang="zh">中亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6472,9 +6412,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6520,9 +6457,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6568,9 +6502,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6616,9 +6547,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6664,9 +6592,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6712,9 +6637,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6760,9 +6682,6 @@
                 <narrative xml:lang="zh">东亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6808,9 +6727,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6856,9 +6772,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6904,9 +6817,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -6952,9 +6862,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7000,9 +6907,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7048,9 +6952,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7096,9 +6997,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7144,9 +7042,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -7192,9 +7087,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7240,9 +7132,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -7288,9 +7177,6 @@
                 <narrative xml:lang="zh">东南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7336,9 +7222,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7384,9 +7267,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7432,9 +7312,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7480,9 +7357,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7528,9 +7402,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7576,9 +7447,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -7624,9 +7492,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7672,9 +7537,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7720,9 +7582,6 @@
                 <narrative xml:lang="zh">南亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7768,9 +7627,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7816,9 +7672,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7864,9 +7717,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7912,9 +7762,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -7960,9 +7807,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8008,9 +7852,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8056,9 +7897,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8104,9 +7942,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8152,9 +7987,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8200,9 +8032,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8248,9 +8077,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8296,9 +8122,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8344,9 +8167,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8392,9 +8212,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8440,9 +8257,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8488,9 +8302,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8536,9 +8347,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8584,9 +8392,6 @@
                 <narrative xml:lang="zh">西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8632,9 +8437,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8680,9 +8482,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8728,9 +8527,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8776,9 +8572,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8824,9 +8617,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8872,9 +8662,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8920,9 +8707,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8968,9 +8752,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9016,9 +8797,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9064,9 +8842,6 @@
                 <narrative xml:lang="zh">东欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9112,9 +8887,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9319,9 +9091,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9367,9 +9136,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9415,9 +9181,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9463,9 +9226,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9511,9 +9271,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9559,9 +9316,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9607,9 +9361,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9655,9 +9406,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9703,9 +9451,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9751,9 +9496,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9799,9 +9541,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9847,9 +9586,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9895,9 +9631,6 @@
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9943,9 +9676,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -9991,9 +9721,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10039,9 +9766,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10087,9 +9811,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10135,9 +9856,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10183,9 +9901,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10231,9 +9946,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10279,9 +9991,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10327,9 +10036,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10375,9 +10081,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10423,9 +10126,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>1</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10471,9 +10171,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10519,9 +10216,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10567,9 +10261,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10615,9 +10306,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10663,9 +10351,6 @@
                 <narrative xml:lang="zh">南欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10711,9 +10396,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10759,9 +10441,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10807,9 +10486,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10855,9 +10531,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10903,9 +10576,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10951,9 +10621,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -10999,9 +10666,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11047,9 +10711,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11095,9 +10756,6 @@
                 <narrative xml:lang="zh">西欧</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11143,9 +10801,6 @@
                 <narrative xml:lang="zh">澳大利亚和新西兰</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11191,9 +10846,6 @@
                 <narrative xml:lang="zh">澳大利亚和新西兰</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11239,9 +10891,6 @@
                 <narrative xml:lang="zh">澳大利亚和新西兰</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11287,9 +10936,6 @@
                 <narrative xml:lang="zh">澳大利亚和新西兰</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11335,9 +10981,6 @@
                 <narrative xml:lang="zh">澳大利亚和新西兰</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11383,9 +11026,6 @@
                 <narrative xml:lang="zh">澳大利亚和新西兰</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -11431,9 +11071,6 @@
                 <narrative xml:lang="zh">美拉尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11479,9 +11116,6 @@
                 <narrative xml:lang="zh">美拉尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11527,9 +11161,6 @@
                 <narrative xml:lang="zh">美拉尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11575,9 +11206,6 @@
                 <narrative xml:lang="zh">美拉尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11623,9 +11251,6 @@
                 <narrative xml:lang="zh">美拉尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11671,9 +11296,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11719,9 +11341,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11767,9 +11386,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11815,9 +11431,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11863,9 +11476,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11911,9 +11521,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -11959,9 +11566,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12007,9 +11611,6 @@
                 <narrative xml:lang="zh">密克罗尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -12055,9 +11656,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12103,9 +11701,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12151,9 +11746,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12199,9 +11791,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12247,9 +11836,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -12295,9 +11881,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12343,9 +11926,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -12391,9 +11971,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12439,9 +12016,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>1</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>1</codeforiati:small-island-developing-states>
@@ -12487,9 +12061,6 @@
                 <narrative xml:lang="zh">波利尼西亚</narrative>
             </codeforiati:sub-region-name>
             <codeforiati:intermediate-region-code/>
-            <codeforiati:intermediate-region-name>
-                <narrative/>
-            </codeforiati:intermediate-region-name>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
