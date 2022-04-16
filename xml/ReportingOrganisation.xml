@@ -15935,6 +15935,16 @@
             <codeforiati:registry-identifier>femnet</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-NGO-2292</code>
+            <name>
+                <narrative>Women's International Peace Centre</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wipc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-37-1552838</code>
             <name>
                 <narrative>GSMA Foundation</narrative>
@@ -16674,7 +16684,7 @@
         <codelist-item status="active">
             <code>JO-CCD-200006694</code>
             <name>
-                <narrative>Entiqal lel Tadreeb "Partners for Good"</narrative>
+                <narrative>Entiqal for Training "Partners for Good"</narrative>
                 <narrative xml:lang="fr">Entiqal lel Tadreeb "Partners for Good"</narrative>
                 <narrative xml:lang="es">Entiqal lel Tadreeb “Partners for Good”</narrative>
                 <narrative xml:lang="pt">Entiqal lel Tadreeb "Partners for Good"</narrative>
@@ -17946,6 +17956,16 @@
             <codeforiati:registry-identifier>amwa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>JO-CCD-200178924</code>
+            <name>
+                <narrative>Kvinna till Kvinna</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ktk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ID-KHH-AHU-0013363.AH.01.04</code>
             <name>
                 <narrative>Yayasan PEKKA</narrative>
@@ -18016,6 +18036,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>law</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-NPO-189357</code>
+            <name>
+                <narrative>Sisonke National Sex Workers Movement</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sisonke</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>UG-204CBO-JJA02202000348</code>
@@ -18342,6 +18372,16 @@
             <codeforiati:hq-country-or-region>Panama</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fundacionavina</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>BR-CNPJ-26990192000114</code>
+            <name>
+                <narrative>WWF-BRASIL</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwfbr</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>UG-NGO-3690</code>
             <name>
@@ -18531,6 +18571,26 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Paraguay</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wwf-py</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TN-RNE-1027578P</code>
+            <name>
+                <narrative>Centre des Etudes Méditerranéennes et Internationales</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tunisia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cemi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PS-MOI-RA279C</code>
+            <name>
+                <narrative>Palestinian Working Women Society for Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pwwsd_2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
