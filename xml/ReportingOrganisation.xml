@@ -17779,6 +17779,16 @@
             <codeforiati:registry-identifier>world_ywca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NP-IRD-301131441</code>
+            <name>
+                <narrative>ActionAid International Nepal</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aain</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>SN-NINEA-004487121</code>
             <name>
                 <narrative>Amref health Africa in Senegal</narrative>
