@@ -18583,6 +18583,16 @@
             <codeforiati:registry-identifier>sdi-int</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-NPO-155-669</code>
+            <name>
+                <narrative>Pan Africa ILGA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pai155669</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PY-RUC-80025907-6</code>
             <name>
                 <narrative>WWF Paraguay</narrative>
