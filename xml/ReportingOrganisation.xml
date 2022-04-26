@@ -18603,6 +18603,16 @@
             <codeforiati:registry-identifier>cemi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>SN-NINEA-21516110A0</code>
+            <name>
+                <narrative>Goree Institute</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gorin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PS-MOI-RA279C</code>
             <name>
                 <narrative>Palestinian Working Women Society for Development</narrative>
