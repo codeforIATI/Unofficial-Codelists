@@ -18532,6 +18532,16 @@
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>gaia</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>BF-MATD-2407</code>
+            <name>
+                <narrative>Secrétariat Permanent des Organisation non-gouvernementales du Burkina Faso (SPONG-BURKINA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burkina Faso</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>spong-burkina</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GH-RGD-CG159432015</code>
             <name>
@@ -18551,6 +18561,26 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Liberia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sdi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BJ-IFU-6201500233008</code>
+            <name>
+                <narrative>Plateforme des Acteurs de la Société Civile au BENIN</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pascib_benin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ML-MAT-028-MAT-DNIC-DAG</code>
+            <name>
+                <narrative>Secrétariat de Concertation des Organisations Non Gouvernementales Maliennes</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mali</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>seco-ong-mali</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XM-DAC-46021</code>
@@ -18631,6 +18661,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pwwsd_2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BI-NIF-4000450306</code>
+            <name>
+                <narrative>Burundi Leadership Training Programme</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bltp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MM-MHA-0295</code>
+            <name>
+                <narrative>Gender Equality Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gen</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
