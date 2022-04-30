@@ -7775,6 +7775,16 @@
             <codeforiati:registry-identifier>cost_uk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-32022621</code>
+            <name>
+                <narrative>Stichting RNW Media</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rnw_org</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KBO-0550758080</code>
             <name>
                 <narrative>European Institute of Peace</narrative>
@@ -18601,6 +18611,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Singapore</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>growasia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-20-3074517</code>
+            <name>
+                <narrative>TrustAfrica</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>trustafrica</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>ZA-CIP-2021-421804-08</code>
