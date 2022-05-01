@@ -18573,6 +18573,26 @@
             <codeforiati:registry-identifier>sdi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MY-SSM-199601006465</code>
+            <name>
+                <narrative>International Women's Rights Action Watch Asia Pacific</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iwrawasiapacific</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-NCB-218051200602584403</code>
+            <name>
+                <narrative>Akili Dada</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ad</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BJ-IFU-6201500233008</code>
             <name>
                 <narrative>Plateforme des Acteurs de la Société Civile au BENIN</narrative>
@@ -18691,6 +18711,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bltp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>JO-MSD-19700011100010</code>
+            <name>
+                <narrative>Arab Women Organization of Jordan</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>awo2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>MM-MHA-0295</code>
