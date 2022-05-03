@@ -10260,6 +10260,16 @@
             <codeforiati:registry-identifier>ada</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CO-RUE-860013779-5</code>
+            <name>
+                <narrative>Asociación Profamilia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>profamilia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KBO-0416934803</code>
             <name>
                 <narrative>Forum Universitaire pour la Coopération Internationale au Développement -FUCID ASBL</narrative>
