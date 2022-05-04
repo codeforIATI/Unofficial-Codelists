@@ -18723,6 +18723,16 @@
             <codeforiati:registry-identifier>bltp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>LB-MOI-3567</code>
+            <name>
+                <narrative>Collective for Research and Training on Development Action</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>crtda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-MSD-19700011100010</code>
             <name>
                 <narrative>Arab Women Organization of Jordan</narrative>
