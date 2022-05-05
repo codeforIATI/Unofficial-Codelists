@@ -16092,6 +16092,16 @@
             <codeforiati:registry-identifier>fcdf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-1327</code>
+            <name>
+                <narrative>Justice For All Prison Fellowship Ethiopia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>jfa-pfe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-CHE331930936</code>
             <name>
                 <narrative>Global Antibiotic Research and Development Partnership</narrative>
