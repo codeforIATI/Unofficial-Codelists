@@ -18513,6 +18513,16 @@
             <codeforiati:registry-identifier>climate-group</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BR-CNPJ-09294138-0001-15</code>
+            <name>
+                <narrative>Agroicone</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>agroicone</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-DSW-1334</code>
             <name>
                 <narrative>West Africa Network for Peacebuilding</narrative>
