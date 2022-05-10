@@ -18473,6 +18473,16 @@
             <codeforiati:registry-identifier>wwfna</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PH-SEC-CN200340507</code>
+            <name>
+                <narrative>The Samdhana Institute</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Philippines</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>samdhana_institute</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZM-PCR-10102712014</code>
             <name>
                 <narrative>World Wide Fund for Nature Zambia</narrative>
@@ -18741,6 +18751,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bltp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FI-PRO3087706-5</code>
+            <name>
+                <narrative>Riverrecycle Oy</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Finland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>riverrecycle</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>LB-MOI-3567</code>
