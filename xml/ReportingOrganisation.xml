@@ -7196,6 +7196,16 @@
             <codeforiati:registry-identifier>cowater</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-NPO-057-611</code>
+            <name>
+                <narrative>Natural Justice</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nj_1</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FI-PRO-139407</code>
             <name>
                 <narrative>Caritas Finland</narrative>
@@ -18791,6 +18801,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>gen</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-RUE-830053223</code>
+            <name>
+                <narrative>Liga Internacional de Mujeres por la Paz y la Libertad - Limpal Colombia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>limpal-colombia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
