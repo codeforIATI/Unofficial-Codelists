@@ -10397,6 +10397,16 @@
             <codeforiati:registry-identifier>ucos</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CO-RUE-900.683.942-8</code>
+            <name>
+                <narrative>Asociación Movimiento Feminista Por La Paz Ruta Pacífica de las Mujeres</narrative>
+            </name>
+            <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rpm</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KBO-0421210424</code>
             <name>
                 <narrative>Koepel van de Vlaamse Noord-Zuidbeweging 11.11.11 VZW</narrative>
@@ -18711,6 +18721,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pai155669</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BI-NIF-4001055070</code>
+            <name>
+                <narrative>Association des Editeurs du Magazine Jimbere</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>j2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>PY-RUC-80025907-6</code>
