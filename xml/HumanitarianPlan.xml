@@ -158,7 +158,7 @@
             <codeforiati:plan-type>Other</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
             <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
-            <codeforiati:plan-end-date>2022-07-31</codeforiati:plan-end-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
             <code>HLBY22</code>
