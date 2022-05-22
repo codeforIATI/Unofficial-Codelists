@@ -11197,6 +11197,16 @@
             <codeforiati:registry-identifier>savsign-org</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-00041424</code>
+            <name>
+                <narrative>Unilever</narrative>
+            </name>
+            <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ul</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BD-NAB-0682</code>
             <name>
                 <narrative>Development Organisation of the Rural Poor</narrative>
@@ -18831,6 +18841,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>limpal-colombia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-RUES-800121811</code>
+            <name>
+                <narrative>Corporación de Apoyo a Comunidades Populares</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>codacop</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
