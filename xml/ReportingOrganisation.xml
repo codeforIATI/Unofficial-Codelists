@@ -12179,6 +12179,16 @@
             <codeforiati:registry-identifier>unhcr</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-58-1593137</code>
+            <name>
+                <narrative>DKT International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dkti</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-701-2</code>
             <name>
                 <narrative>Ministry of Foreign Affairs of  Japan</narrative>
