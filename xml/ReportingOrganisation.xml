@@ -18663,6 +18663,16 @@
             <codeforiati:registry-identifier>iwrawasiapacific</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-83-3732786</code>
+            <name>
+                <narrative>Alliance for Global Water Adaptation, Inc</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>agwa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-218051200602584403</code>
             <name>
                 <narrative>Akili Dada</narrative>
