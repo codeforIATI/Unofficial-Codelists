@@ -18803,6 +18803,16 @@
             <codeforiati:registry-identifier>pwwsd_2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>TH-MOI-KhorThor2882</code>
+            <name>
+                <narrative>ILGA Asia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Thailand</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ilgaasia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BI-NIF-4000450306</code>
             <name>
                 <narrative>Burundi Leadership Training Programme</narrative>
