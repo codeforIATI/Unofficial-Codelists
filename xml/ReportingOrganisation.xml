@@ -4824,6 +4824,16 @@
             <codeforiati:registry-identifier>tlmew</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-41155934</code>
+            <name>
+                <narrative>Stichting VSO Nederland</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>vso_nl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1089490</code>
             <name>
                 <narrative>Hope and Homes for Children</narrative>
@@ -6355,7 +6365,7 @@
         <codelist-item status="active">
             <code>NL-KVK-58183167</code>
             <name>
-                <narrative>HE Foundation</narrative>
+                <narrative>Healthy Entrepreneurs Foundation</narrative>
                 <narrative xml:lang="fr">HE Foundation</narrative>
                 <narrative xml:lang="es">HE Foundation</narrative>
                 <narrative xml:lang="pt">Fundação HE</narrative>
@@ -18673,6 +18683,16 @@
             <codeforiati:registry-identifier>agwa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MHA-1070-99-2000</code>
+            <name>
+                <narrative>CIVIL INITIATIVES FOR DEVELOPMENT AND PEACE INDIA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cividep</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-NCB-218051200602584403</code>
             <name>
                 <narrative>Akili Dada</narrative>
@@ -18881,6 +18901,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>codacop</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SS-RRC-140</code>
+            <name>
+                <narrative>AVSI South Sudan</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>avsi-ssd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>DK-CVR-25825012</code>
+            <name>
+                <narrative>SOS Børnebyerne</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sosdk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
