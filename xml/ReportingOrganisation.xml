@@ -16090,6 +16090,16 @@
             <codeforiati:registry-identifier>esfd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-DKTDRC</code>
+            <name>
+                <narrative>DKT RD Congo</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Congo (Democratic Republic of the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dkt_drc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-CCD-200104681</code>
             <name>
                 <narrative>Leaders of Tomorrow</narrative>
