@@ -18913,6 +18913,16 @@
             <codeforiati:registry-identifier>codacop</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DK-CVR-42047007</code>
+            <name>
+                <narrative>International Centre for Antimicrobial Resistance Solutions</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>icars</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>SS-RRC-140</code>
             <name>
                 <narrative>AVSI South Sudan</narrative>
@@ -18931,6 +18941,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sosdk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE10092705</code>
+            <name>
+                <narrative>WILPF</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wilpf_22</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
