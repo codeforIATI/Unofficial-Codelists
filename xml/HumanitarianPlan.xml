@@ -341,6 +341,16 @@
             <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OLKA22</code>
+            <name>
+                <narrative>Sri Lanka Food Security Crisis - Humanitarian Needs and Priorities 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-06-09</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-09-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HSDN22</code>
             <name>
                 <narrative>Sudan Humanitarian Response Plan 2022</narrative>
