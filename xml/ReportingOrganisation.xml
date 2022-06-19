@@ -18952,7 +18952,7 @@
             <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sosdk</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CH-FDJP-CHE10092705</code>
             <name>
                 <narrative>WILPF</narrative>
