@@ -10479,6 +10479,16 @@
             <codeforiati:registry-identifier>practica</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>JO-COA-1701-HPC</code>
+            <name>
+                <narrative>Higher Population Council</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hpc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-22-3087809</code>
             <name>
                 <narrative>IREX (International Research and Exchange Board)</narrative>
