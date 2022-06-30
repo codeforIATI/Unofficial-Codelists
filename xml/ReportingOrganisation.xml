@@ -17244,6 +17244,16 @@
             <codeforiati:registry-identifier>nico</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AT-ZVR-315688676</code>
+            <name>
+                <narrative>Light for the World International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Austria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lftw-int</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-GRID-grid.473464.6</code>
             <name>
                 <narrative>Water &amp; Land Resource Center - Addis Ababa University</narrative>
