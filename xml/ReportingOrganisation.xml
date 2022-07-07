@@ -2896,6 +2896,16 @@
             <codeforiati:registry-identifier>lepra</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-51018586</code>
+            <name>
+                <narrative>Zimmerman Zimmerman</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>zimmzimm</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-CCD-50544</code>
             <name>
                 <narrative>Arab Reporters for Investigative Journalism</narrative>
@@ -18971,6 +18981,26 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sosdk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BF-MATD-N00000408001</code>
+            <name>
+                <narrative>SOS Jeunesse et Défis</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burkina Faso</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sosjd6</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-061805406</code>
+            <name>
+                <narrative>Huairou Commission</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hc2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>CH-FDJP-CHE10092705</code>
