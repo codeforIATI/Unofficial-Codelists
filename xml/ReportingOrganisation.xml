@@ -12427,6 +12427,16 @@
             <codeforiati:registry-identifier>lalo</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-RGD-CG109732014</code>
+            <name>
+                <narrative>Third World Network Africa</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>twnafrica</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BJ-IFU-6200901851300</code>
             <name>
                 <narrative>Commune de Kétou - Bénin</narrative>
@@ -18431,6 +18441,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>cesc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-04-3309296</code>
+            <name>
+                <narrative>Public International Law &amp; Policy Group</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pilpg</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>MY-SSM-1162174T</code>
