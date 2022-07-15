@@ -3452,6 +3452,16 @@
             <codeforiati:registry-identifier>cifal</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-RGD-CG220182018</code>
+            <name>
+                <narrative>STAR-Ghana Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>star_ghanafoundation</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-84-1166148</code>
             <name>
                 <narrative>Water for People</narrative>
@@ -8617,6 +8627,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>vlir-uos</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ET-CSA-0009</code>
+            <name>
+                <narrative>Development Expertise Center</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dec_ethiopia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>AR-CENOC-16969-A</code>
