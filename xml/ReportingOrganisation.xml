@@ -19052,6 +19052,16 @@
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wilpf_22</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-41226182</code>
+            <name>
+                <narrative>Stichting Habitat for Humanity Nederland</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hfhnl</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
