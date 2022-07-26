@@ -18843,6 +18843,16 @@
             <codeforiati:registry-identifier>sdi-int</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BD-ROC-C-104266</code>
+            <name>
+                <narrative>RedOrange Media and Communications</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>redorange</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZA-NPO-155-669</code>
             <name>
                 <narrative>Pan Africa ILGA</narrative>
@@ -19061,6 +19071,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>hfhnl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-40539494</code>
+            <name>
+                <narrative>Doctors of the World (NL)/ Dokters van de Wereld</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mdmnl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
