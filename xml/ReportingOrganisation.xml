@@ -10948,6 +10948,16 @@
             <codeforiati:registry-identifier>the_mentor_initiative</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>EG-CR-117508</code>
+            <name>
+                <narrative>Enroot</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Egypt</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nroot</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BD-NAB-0271</code>
             <name>
                 <narrative>Bangladesh Nari Progati Sangha</narrative>
