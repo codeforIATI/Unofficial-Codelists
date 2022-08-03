@@ -19093,6 +19093,26 @@
             <codeforiati:registry-identifier>hfhnl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-OCHA-HP3664</code>
+            <name>
+                <narrative>Jordan River Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>jrf_2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ci-moi-474-mis-dgat-dag-sdva</code>
+            <name>
+                <narrative>convention de la société civile ivoirienne</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Côte D'Ivoire</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>csci_benkadi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>SS-RRC-652</code>
             <name>
                 <narrative>We Cannot Wait</narrative>
