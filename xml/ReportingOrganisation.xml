@@ -18933,6 +18933,16 @@
             <codeforiati:registry-identifier>gorin</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-54749484</code>
+            <name>
+                <narrative>FairChain Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fc-f</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PS-MOI-RA279C</code>
             <name>
                 <narrative>Palestinian Working Women Society for Development</narrative>
