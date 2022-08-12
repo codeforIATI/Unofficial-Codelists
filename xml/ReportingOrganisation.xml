@@ -2895,7 +2895,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lepra</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-51018586</code>
             <name>
                 <narrative>Zimmerman Zimmerman</narrative>
