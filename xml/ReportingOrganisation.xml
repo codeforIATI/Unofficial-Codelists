@@ -18953,6 +18953,16 @@
             <codeforiati:registry-identifier>pwwsd_2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>LB-MOI-30-ED</code>
+            <name>
+                <narrative>Samir Kassir Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>skf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TH-MOI-KhorThor2882</code>
             <name>
                 <narrative>ILGA Asia</narrative>
