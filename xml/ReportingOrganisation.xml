@@ -14492,6 +14492,16 @@
             <codeforiati:registry-identifier>transafrica19</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-CHE107828868</code>
+            <name>
+                <narrative>Swisscontact</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>swisscontact</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-CHE109947366</code>
             <name>
                 <narrative>Fondation Hirondelle</narrative>
