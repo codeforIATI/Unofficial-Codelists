@@ -10447,6 +10447,16 @@
             <codeforiati:registry-identifier>ucos</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-7-PPR-4000005312</code>
+            <name>
+                <narrative>Bani Abdurrahman Wahid Foundation (YBAW)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ybawahid</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CO-RUE-900.683.942-8</code>
             <name>
                 <narrative>Asociación Movimiento Feminista Por La Paz Ruta Pacífica de las Mujeres</narrative>
