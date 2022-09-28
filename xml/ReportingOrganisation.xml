@@ -905,7 +905,7 @@
             <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier>cdc</codeforiati:registry-identifier>
+            <codeforiati:registry-identifier>bii</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-328206</code>
@@ -1126,7 +1126,7 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier />
+            <codeforiati:registry-identifier/>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1127206</code>
@@ -7949,7 +7949,7 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>stad</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>XM-DAC-5-52</code>
             <name>
                 <narrative>Germany GIZ Non BMZ</narrative>
@@ -10507,6 +10507,16 @@
             <codeforiati:registry-identifier>qrfed</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-218-051-93197-173</code>
+            <name>
+                <narrative>Forum for Africa Women Educationalist Regional Secretariat</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fawe-rs</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>KE-NCB-218.051.93197.173</code>
             <name>
                 <narrative>Forum for Africa Women Educationalist Regional Secretariat</narrative>
@@ -13397,7 +13407,7 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>d4d</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>GB-CHC-1161729</code>
             <name>
                 <narrative>Hope for Children</narrative>
@@ -14909,7 +14919,7 @@
             <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>acceleratornepal</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>CA-CRA_ACR-869974816</code>
             <name>
                 <narrative>Nutrition International</narrative>
@@ -16816,7 +16826,7 @@
             <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier />
+            <codeforiati:registry-identifier/>
         </codelist-item>
         <codelist-item status="active">
             <code>YE-MSAL-49-M-2019</code>
@@ -19124,7 +19134,7 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>hc2022</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>CH-FDJP-CHE10092705</code>
             <name>
                 <narrative>WILPF</narrative>
