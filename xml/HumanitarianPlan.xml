@@ -160,7 +160,7 @@
             <codeforiati:plan-start-date>2022-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2022-10-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>OLBN22</code>
             <name>
                 <narrative>Lebanon Emergency Response Plan 2022</narrative>
