@@ -1126,6 +1126,7 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier />
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1127206</code>
@@ -16815,6 +16816,7 @@
             <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier />
         </codelist-item>
         <codelist-item status="active">
             <code>YE-MSAL-49-M-2019</code>
