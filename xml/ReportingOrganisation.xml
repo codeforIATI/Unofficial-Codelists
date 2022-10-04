@@ -11919,6 +11919,16 @@
             <codeforiati:registry-identifier>ifdc-us</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>LB-MOI-14739</code>
+            <name>
+                <narrative>Marsa Sexual Health Center</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>marsa_welead</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-134166228</code>
             <name>
                 <narrative>Acumen</narrative>
