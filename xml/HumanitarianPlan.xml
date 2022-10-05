@@ -11,6 +11,16 @@
     </metadata>
     <codelist-items>
         <codelist-item status="active">
+            <code>OPAK23</code>
+            <name>
+                <narrative>Pakistan Floods Response Plan 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-05-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HAFG22</code>
             <name>
                 <narrative>Afghanistan Humanitarian Response Plan 2022</narrative>
