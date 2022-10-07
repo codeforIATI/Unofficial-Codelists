@@ -15008,6 +15008,16 @@
             <codeforiati:registry-identifier>msm-ipd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BF-MATD-RNRD00045-4000004688</code>
+            <name>
+                <narrative>Centre Diocésain de Communication de Ouahigouya</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burkina Faso</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cdc_ohg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-06274284</code>
             <name>
                 <narrative>Carbon Trust Advisory Ltd</narrative>
