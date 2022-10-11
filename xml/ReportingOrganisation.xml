@@ -15031,6 +15031,16 @@
             <codeforiati:registry-identifier>carbontrustadvisory</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NA-NAMRA-04822224</code>
+            <name>
+                <narrative>Positive Vibes Trust</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Namibia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pv</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZA-CIP-2005-028883-23</code>
             <name>
                 <narrative>Okapi Consulting</narrative>
