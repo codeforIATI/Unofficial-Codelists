@@ -14621,6 +14621,16 @@
             <codeforiati:registry-identifier>acf-fr</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-27-3440108</code>
+            <name>
+                <narrative>Vera Solutions</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>vera-solutions</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CA-CRA_ACR-107848319</code>
             <name>
                 <narrative>Action Canada for Sexual Health and Rights</narrative>
