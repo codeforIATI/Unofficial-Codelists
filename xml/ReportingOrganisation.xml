@@ -18935,6 +18935,16 @@
             <codeforiati:registry-identifier>trustafrica</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PK-SEC-0108318</code>
+            <name>
+                <narrative>Teach For Pakistan</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tfp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ZA-CIP-2021-421804-08</code>
             <name>
                 <narrative>Slum Dwellers International</narrative>
