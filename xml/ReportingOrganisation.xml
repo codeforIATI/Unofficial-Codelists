@@ -18995,6 +18995,16 @@
             <codeforiati:registry-identifier>j2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AF-MOE-611</code>
+            <name>
+                <narrative>The Liaison Office</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Afghanistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tlo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PY-RUC-80025907-6</code>
             <name>
                 <narrative>WWF Paraguay</narrative>
