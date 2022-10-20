@@ -2686,6 +2686,16 @@
             <codeforiati:registry-identifier>starsfoundation</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NP-SWC-19336</code>
+            <name>
+                <narrative>PHASE Nepal</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>phase-nepal</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>NP-DAO-531/062/063</code>
             <name>
                 <narrative>PHASE Nepal</narrative>
