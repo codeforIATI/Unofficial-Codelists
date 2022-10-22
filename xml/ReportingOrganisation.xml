@@ -19284,6 +19284,16 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>gca</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>PS-MOI-QR177HR</code>
+            <name>
+                <narrative>The Palestinian Initiative for the Promotion of Global Dialogue and Democracy-MIFTAH</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>miftah</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
