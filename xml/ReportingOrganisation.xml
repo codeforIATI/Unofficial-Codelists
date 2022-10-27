@@ -14732,6 +14732,16 @@
             <codeforiati:registry-identifier>mrg</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-7-PPR-4000002894</code>
+            <name>
+                <narrative>Integrated Water Resources Management Programme</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iwrm</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PE-SUNARP-11744379</code>
             <name>
                 <narrative>Centro de Promocion y Defensa de los Derechos Sexuales y Reproductivos</narrative>
