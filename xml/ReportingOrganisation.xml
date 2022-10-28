@@ -12895,6 +12895,16 @@
             <codeforiati:registry-identifier>seefar</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>SO-MPND-L43135002018MJ</code>
+            <name>
+                <narrative>NAGAAD</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nagaad</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1118528</code>
             <name>
                 <narrative>Child.org</narrative>
@@ -19257,11 +19267,11 @@
         <codelist-item status="active">
             <code>SS-RRC-652</code>
             <name>
-                <narrative>We Cannot Wait</narrative>
+                <narrative>SIHA-South Sudan</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
-            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:hq-country-or-region>South Sudan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>siha-southsudan</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
