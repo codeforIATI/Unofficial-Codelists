@@ -15250,6 +15250,16 @@
             <codeforiati:registry-identifier>r4d</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-50-21</code>
+            <name>
+                <narrative>Spanish Agency for International Development Cooperation (AECID)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Spain</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aecid</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>ES-DIR3-EA0035768</code>
             <name>
                 <narrative>Spanish Agency for International Development Cooperation (AECID)</narrative>
