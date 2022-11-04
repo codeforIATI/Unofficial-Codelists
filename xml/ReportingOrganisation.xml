@@ -18864,7 +18864,7 @@
             <codeforiati:hq-country-or-region>Burkina Faso</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>spong-burkina</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>GH-RGD-CG159432015</code>
             <name>
                 <narrative>GHANA NETHERLANDS BUSINESS &amp; CULTURE COUNCIL</narrative>
