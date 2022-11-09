@@ -19315,6 +19315,16 @@
             <codeforiati:registry-identifier>gca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-110.162.567</code>
+            <name>
+                <narrative>FIND</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>finddiagnostics</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PS-MOI-QR177HR</code>
             <name>
                 <narrative>The Palestinian Initiative for the Promotion of Global Dialogue and Democracy-MIFTAH</narrative>
