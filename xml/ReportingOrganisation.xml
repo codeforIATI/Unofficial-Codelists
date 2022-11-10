@@ -7644,6 +7644,16 @@
             <codeforiati:registry-identifier>gnpplus</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BO-NIT-1013209020</code>
+            <name>
+                <narrative>World Wildlife Fund Inc, Bolivia Program Office</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bolivia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwf_bolivia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-08705643</code>
             <name>
                 <narrative>Innovate UK KTN</narrative>
