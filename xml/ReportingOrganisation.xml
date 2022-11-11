@@ -17186,8 +17186,8 @@
                 <narrative xml:lang="es">King Hussein Foundation</narrative>
                 <narrative xml:lang="pt">Fundação Rei Hussein</narrative>
             </name>
-            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>khf</codeforiati:registry-identifier>
         </codelist-item>
