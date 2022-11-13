@@ -11887,6 +11887,16 @@
             <codeforiati:registry-identifier>ywcabd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PS-MOI-QR-209-HR</code>
+            <name>
+                <narrative>Women's Centre for Legal Aid and Counselling</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wclac</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-IATI-MIF</code>
             <name>
                 <narrative>Multilateral Investment Fund</narrative>
