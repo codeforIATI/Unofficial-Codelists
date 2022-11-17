@@ -141,6 +141,16 @@
             <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>FHTI22</code>
+            <name>
+                <narrative>Haiti Cholera+ Flash Appeal 2022</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2022</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-10-16</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2022-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HHTI22</code>
             <name>
                 <narrative>Haiti Plan de Réponse Humanitaire 2022</narrative>
