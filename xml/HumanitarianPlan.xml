@@ -33,7 +33,7 @@
         <codelist-item status="active">
             <code>RAFG22</code>
             <name>
-                <narrative>Afghanistan Regional Refugee Response Plan 2022</narrative>
+                <narrative>Afghanistan Situation Regional Refugee Response Plan 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -43,7 +43,7 @@
         <codelist-item status="active">
             <code>RBGD22</code>
             <name>
-                <narrative>Bangladesh: Rohingya Refugee Crisis Joint Response Plan 2022</narrative>
+                <narrative>Rohingya Humanitarian Crisis Joint Response Plan 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -103,7 +103,7 @@
         <codelist-item status="active">
             <code>RDRCRRP22</code>
             <name>
-                <narrative>Democratic Republic of Congo Regional Refugee Response Plan 2022</narrative>
+                <narrative>Democratic Republic of the Congo Regional Refugee Response Plan 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -333,7 +333,7 @@
         <codelist-item status="active">
             <code>RREG22</code>
             <name>
-                <narrative>Refugee and Migrant Response Plan for Venezuela 2022 (RMRP)</narrative>
+                <narrative>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -343,7 +343,7 @@
         <codelist-item status="active">
             <code>RDJIETHSOMYEM22</code>
             <name>
-                <narrative>Regional Migrant Humanitarian Response Plan for the Horn of Africa and Yemen 2022</narrative>
+                <narrative>Regional Migrant Response Plan for the Horn of Africa and Yemen 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -433,7 +433,7 @@
         <codelist-item status="active">
             <code>RSYR22</code>
             <name>
-                <narrative>Syria Refugee Response and Resilience Plan (3RP) 2022</narrative>
+                <narrative>Syria Regional Refugee and Resilience Plan (3RP) 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -473,7 +473,7 @@
         <codelist-item status="active">
             <code>RUKRN22</code>
             <name>
-                <narrative>Ukraine Regional Refugee Response Plan 2022</narrative>
+                <narrative>Ukraine Situation Regional Refugee Response Plan 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
