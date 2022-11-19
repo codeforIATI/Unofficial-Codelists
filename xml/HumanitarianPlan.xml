@@ -293,7 +293,7 @@
         <codelist-item status="active">
             <code>HPSE22</code>
             <name>
-                <narrative>occupied Palestinian territory Humanitarian Response Plan 2022</narrative>
+                <narrative>Occupied Palestinian Territory Humanitarian Response Plan 2022</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -423,7 +423,7 @@
         <codelist-item status="active">
             <code>HSYR22</code>
             <name>
-                <narrative>Syria Humanitarian Response Plan 2022 - 2023</narrative>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2022 - 2023</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -433,7 +433,7 @@
         <codelist-item status="active">
             <code>RSYR22</code>
             <name>
-                <narrative>Syria Regional Refugee and Resilience Plan (3RP) 2022</narrative>
+                <narrative>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2022</codeforiati:plan-year>
@@ -643,7 +643,7 @@
         <codelist-item status="active">
             <code>FPSE21</code>
             <name>
-                <narrative>Escalation of Hostilities in the oPt  Flash Appeal 2021</narrative>
+                <narrative>Escalation of Hostilities in the OPT  Flash Appeal 2021</narrative>
             </name>
             <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -873,7 +873,7 @@
         <codelist-item status="active">
             <code>HPSE21</code>
             <name>
-                <narrative>occupied Palestinian territory 2021</narrative>
+                <narrative>Occupied Palestinian Territory 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -953,7 +953,7 @@
         <codelist-item status="active">
             <code>HSYR21</code>
             <name>
-                <narrative>Syria Humanitarian Response Plan 2021</narrative>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2021</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -963,7 +963,7 @@
         <codelist-item status="active">
             <code>RSYR21</code>
             <name>
-                <narrative>Syria Refugee Response and Resilience Plan (3RP) 2021</narrative>
+                <narrative>Syrian Arab Republic Refugee Response and Resilience Plan (3RP) 2021</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -1403,7 +1403,7 @@
         <codelist-item status="active">
             <code>HPSE20</code>
             <name>
-                <narrative>occupied Palestinian territory 2020 (part of 2018-2020 HRP)</narrative>
+                <narrative>Occupied Palestinian Territory 2020 (part of 2018-2020 HRP)</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2020</codeforiati:plan-year>
@@ -1513,7 +1513,7 @@
         <codelist-item status="active">
             <code>HSYR20</code>
             <name>
-                <narrative>Syria Humanitarian Response Plan 2020</narrative>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2020</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2020</codeforiati:plan-year>
@@ -1523,7 +1523,7 @@
         <codelist-item status="active">
             <code>RSYR20</code>
             <name>
-                <narrative>Syria Refugee Response and Resilience Plan (3RP) 2020</narrative>
+                <narrative>Syrian Arab Republic Refugee Response and Resilience Plan (3RP) 2020</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2020</codeforiati:plan-year>
@@ -1833,7 +1833,7 @@
         <codelist-item status="active">
             <code>HPSE19</code>
             <name>
-                <narrative>occupied Palestinian territory 2019  (part of 2018-2020 HRP)</narrative>
+                <narrative>Occupied Palestinian Territory 2019 (part of 2018-2020 HRP)</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2019</codeforiati:plan-year>
@@ -1893,7 +1893,7 @@
         <codelist-item status="active">
             <code>HSYR19</code>
             <name>
-                <narrative>Syria Humanitarian Response Plan 2019</narrative>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2019</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2019</codeforiati:plan-year>
@@ -1903,7 +1903,7 @@
         <codelist-item status="active">
             <code>RSYR19</code>
             <name>
-                <narrative>Syria Refugee Response and Resilience Plan (3RP) 2019</narrative>
+                <narrative>Syrian Arab Republic Refugee Response and Resilience Plan (3RP) 2019</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2019</codeforiati:plan-year>
@@ -2143,7 +2143,7 @@
         <codelist-item status="active">
             <code>HPSE18</code>
             <name>
-                <narrative>occupied Palestinian territory 2018  (part of 2018-2020 HRP)</narrative>
+                <narrative>Occupied Palestinian Territory 2018 (part of 2018-2020 HRP)</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2018</codeforiati:plan-year>
@@ -2211,6 +2211,16 @@
             <codeforiati:plan-end-date>2018-12-24</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HSYR18</code>
+            <name>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2018</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2018</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2018-11-30</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2018-12-30</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>HSYR17a</code>
             <name>
                 <narrative>Syria Humanitarian Response Plan 2018</narrative>
@@ -2220,7 +2230,7 @@
             <codeforiati:plan-start-date>2018-11-30</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2018-12-30</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>R18</code>
             <name>
                 <narrative>Syria regional refugee and resilience plan (3RP) 2018</narrative>
@@ -2590,7 +2600,7 @@
             <codeforiati:plan-start-date>2017-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HSYR17</code>
             <name>
                 <narrative>Syria Humanitarian Response Plan 2017</narrative>
@@ -2606,6 +2616,16 @@
                 <narrative>Syria regional refugee and resilience plan (3RP) 2017</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2017</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2017-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSYR17b</code>
+            <name>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2017</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2017</codeforiati:plan-year>
             <codeforiati:plan-start-date>2017-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2017-12-31</codeforiati:plan-end-date>
@@ -2963,14 +2983,14 @@
         <codelist-item status="active">
             <code>HSYR16</code>
             <name>
-                <narrative>Syria Humanitarian Response Plan 2016</narrative>
+                <narrative>Syrian Arab Republic Humanitarian Response Plan 2016</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2016</codeforiati:plan-year>
             <codeforiati:plan-start-date>2016-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2016-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RXSYRREG16</code>
             <name>
                 <narrative>Syria regional refugee and resilience plan (3RP) 2016</narrative>
@@ -3290,7 +3310,7 @@
             <codeforiati:plan-start-date>2015-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2015-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RXSYRREG15</code>
             <name>
                 <narrative>Syria regional refugee and resilience plan (3RP) 2015</narrative>
@@ -3303,7 +3323,7 @@
         <codelist-item status="active">
             <code>HSYR15</code>
             <name>
-                <narrative>Syria Response Plan 2015</narrative>
+                <narrative>Syrian Arab Republic Response Plan 2015</narrative>
             </name>
             <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2015</codeforiati:plan-year>
@@ -3610,7 +3630,7 @@
             <codeforiati:plan-start-date>2013-11-09</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2014-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RXSYRREG14</code>
             <name>
                 <narrative>Syria Regional Refugee Response Plan (RRP) 2014</narrative>
