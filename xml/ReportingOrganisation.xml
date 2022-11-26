@@ -18098,6 +18098,16 @@
             <codeforiati:registry-identifier>transparently_lebanese</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-106756410</code>
+            <name>
+                <narrative>World Young Women's Christian Association</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>world_ywca</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>CH-660-0294975-4</code>
             <name>
                 <narrative>World Young Women's Christian Association</narrative>
