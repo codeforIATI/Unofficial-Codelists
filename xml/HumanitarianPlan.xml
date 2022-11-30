@@ -613,7 +613,7 @@
         <codelist-item status="active">
             <code>RDRCRRP21</code>
             <name>
-                <narrative>Democratic Republic of Congo Regional Refugee Response Plan 2021</narrative>
+                <narrative>Democratic Republic of the Congo Regional Refugee Response Plan 2021</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2021</codeforiati:plan-year>
@@ -1153,7 +1153,7 @@
         <codelist-item status="active">
             <code>RDRCRRP20</code>
             <name>
-                <narrative>Democratic Republic of Congo Regional Refugee Response Plan 2020</narrative>
+                <narrative>Democratic Republic of the Congo Regional Refugee Response Plan 2020</narrative>
             </name>
             <codeforiati:plan-type>Regional response plan</codeforiati:plan-type>
             <codeforiati:plan-year>2020</codeforiati:plan-year>
