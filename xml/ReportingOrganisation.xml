@@ -19325,6 +19325,16 @@
             <codeforiati:registry-identifier>siha-southsudan</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ID-KHH-01060014412</code>
+            <name>
+                <narrative>Tifa Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tifa_foundation</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NP-SWC-19781</code>
             <name>
                 <narrative>International Nepal Fellowship Nepal</narrative>
