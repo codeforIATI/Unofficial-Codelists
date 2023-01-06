@@ -21,6 +21,26 @@
             <codeforiati:plan-end-date>2023-05-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>HSSD23</code>
+            <name>
+                <narrative>South Sudan Humanitarian Response Plan 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HSDN23</code>
+            <name>
+                <narrative>Sudan Humanitarian Response Plan 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Humanitarian response plan</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HAFG22</code>
             <name>
                 <narrative>Afghanistan Humanitarian Response Plan 2022</narrative>
