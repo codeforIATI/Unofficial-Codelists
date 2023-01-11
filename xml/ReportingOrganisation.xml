@@ -10936,7 +10936,7 @@
         <codelist-item status="active">
             <code>GB-COH-07157505</code>
             <name>
-                <narrative>ODI Sales Limited</narrative>
+                <narrative>ODI Global Advisory Ltd</narrative>
                 <narrative xml:lang="fr">ODI Sales Limited</narrative>
                 <narrative xml:lang="es">ODI Sales Limited</narrative>
                 <narrative xml:lang="pt">ODI Sales Limited</narrative>
@@ -19253,6 +19253,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sosdk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-81-2108637</code>
+            <name>
+                <narrative>Dalberg Catalyst</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dalbergcatalyst</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BF-MATD-N00000408001</code>
