@@ -10937,9 +10937,9 @@
             <code>GB-COH-07157505</code>
             <name>
                 <narrative>ODI Global Advisory Ltd</narrative>
-                <narrative xml:lang="fr">ODI Sales Limited</narrative>
-                <narrative xml:lang="es">ODI Sales Limited</narrative>
-                <narrative xml:lang="pt">ODI Sales Limited</narrative>
+                <narrative xml:lang="fr">ODI Global Advisory Ltd</narrative>
+                <narrative xml:lang="es">ODI Global Advisory Ltd</narrative>
+                <narrative xml:lang="pt">ODI Global Advisory Ltd</narrative>
             </name>
             <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
