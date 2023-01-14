@@ -16360,6 +16360,16 @@
             <codeforiati:registry-identifier>hgc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NP-CRO-83836</code>
+            <name>
+                <narrative>pub_name</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>7272</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>YE-MSAL-473-2001</code>
             <name>
                 <narrative>Family Counseling and Development Foundation</narrative>
