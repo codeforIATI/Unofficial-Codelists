@@ -16520,6 +16520,16 @@
             <codeforiati:registry-identifier>stichtingfern</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1154413</code>
+            <name>
+                <narrative>Climate Bonds Initiative</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cbi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FI-PRO-0998454-4</code>
             <name>
                 <narrative>Finn Church Aid (Kirkon Ulkomaanapu sr)</narrative>
