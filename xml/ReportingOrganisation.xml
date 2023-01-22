@@ -7617,7 +7617,7 @@
             <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wep</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>DK-CVR-36980214</code>
             <name>
                 <narrative>DanChurchAid</narrative>
@@ -19433,6 +19433,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>miftah</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-UKPRN-10007783</code>
+            <name>
+                <narrative>The University of Aberdeen</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uoa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GH-RGD-CG056382017</code>
+            <name>
+                <narrative>Global Shea Alliance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>globalshea</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
