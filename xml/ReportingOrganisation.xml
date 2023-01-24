@@ -16445,6 +16445,16 @@
             <codeforiati:registry-identifier>laf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AE-ADCD-64747</code>
+            <name>
+                <narrative>pubname162</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>72728</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-30114696</code>
             <name>
                 <narrative>Palladium Europe</narrative>
