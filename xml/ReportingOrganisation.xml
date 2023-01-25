@@ -19445,6 +19445,16 @@
             <codeforiati:registry-identifier>miftah</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CO-RUE-8600286699</code>
+            <name>
+                <narrative>fedesarrollo</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fedesarrollo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-UKPRN-10007783</code>
             <name>
                 <narrative>The University of Aberdeen</narrative>
