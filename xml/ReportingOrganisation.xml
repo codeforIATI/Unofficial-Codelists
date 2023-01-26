@@ -7617,7 +7617,7 @@
             <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wep</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>DK-CVR-36980214</code>
             <name>
                 <narrative>DanChurchAid</narrative>
@@ -11422,6 +11422,16 @@
             <codeforiati:registry-identifier>csa-kenya</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-17</code>
+            <name>
+                <narrative>U.S. Department of Labor</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dol</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1114727</code>
             <name>
                 <narrative>Joshua Orphan and Community Care</narrative>
@@ -12243,6 +12253,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-22</code>
+            <name>
+                <narrative>U.S. International Development Finance Corporation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dfc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>KE-RCO-84486</code>
@@ -16015,6 +16035,16 @@
             <codeforiati:registry-identifier>nacgond-</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-13-ADF</code>
+            <name>
+                <narrative>African Development Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>usadf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FR-RCS-519655997</code>
             <name>
                 <narrative>Handicap International Federation</narrative>
@@ -19333,6 +19363,66 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>hfhnl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-16</code>
+            <name>
+                <narrative>U.S. Department of Commerce</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>doc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-15</code>
+            <name>
+                <narrative>U.S Department of Justice</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>doj</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-9</code>
+            <name>
+                <narrative>U.S. Department of Interior</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>doi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-7</code>
+            <name>
+                <narrative>U.S. Department of Defense</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dod</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-20</code>
+            <name>
+                <narrative>U.S. Department of Energy</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>doe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-19</code>
+            <name>
+                <narrative>U.S. Department of Homeland Security</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dhs</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XM-OCHA-HP3664</code>
