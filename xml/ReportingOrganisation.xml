@@ -11640,6 +11640,16 @@
             <codeforiati:registry-identifier>rc2africa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-6</code>
+            <name>
+                <narrative>U.S. Department of the Treasury</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>treasury</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-14-1945286</code>
             <name>
                 <narrative>The Global Development Incubator, Inc</narrative>
@@ -12071,6 +12081,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Costa Rica</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fundacion-acceso</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-TBD</code>
+            <name>
+                <narrative>U.S. Federal Trade Commission</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ftc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-91-1157127</code>
@@ -19365,6 +19385,26 @@
             <codeforiati:registry-identifier>hfhnl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-11</code>
+            <name>
+                <narrative>Department of State</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>state</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-32</code>
+            <name>
+                <narrative>U.S. Environmental Protection Agency</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>epa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-GOV-16</code>
             <name>
                 <narrative>U.S. Department of Commerce</narrative>
@@ -19373,6 +19413,66 @@
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>doc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-12</code>
+            <name>
+                <narrative>U.S. Trade and Development Agency</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ustda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-2</code>
+            <name>
+                <narrative>U.S. Department of Agriculture</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>usda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-10</code>
+            <name>
+                <narrative>Peace Corp</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>peace</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-21</code>
+            <name>
+                <narrative>Inter-American Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iaf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-26</code>
+            <name>
+                <narrative>U.S. Department of Transportation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dot</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-GOV-14</code>
+            <name>
+                <narrative>U.S. Health and Human Services</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hhs</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-GOV-15</code>
