@@ -508,6 +508,19 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-27078545</code>
+            <name>
+                <narrative>FMO</narrative>
+            </name>
+            <codeforiati:group-code>NL</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>Netherlands</narrative>
+                <narrative xml:lang="fr">Pays-Bas (les)</narrative>
+                <narrative xml:lang="es">Países Bajos</narrative>
+                <narrative xml:lang="pt">Países Baixos</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>41120</code>
             <name>
                 <narrative>UN-Habitat</narrative>
@@ -1090,6 +1103,45 @@
                 <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
                 <narrative xml:lang="es">Estados Unidos de América</narrative>
                 <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>44000</code>
+            <name>
+                <narrative>The World Bank</narrative>
+            </name>
+            <codeforiati:group-code>WB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>World Bank Group</narrative>
+                <narrative xml:lang="fr">Le Groupe de la Banque Mondiale</narrative>
+                <narrative xml:lang="es">El Grupo del Banco Mundial</narrative>
+                <narrative xml:lang="pt">O Grupo do Banco Mundial</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-IATI-WBTF</code>
+            <name>
+                <narrative>World Bank Trust Funds</narrative>
+            </name>
+            <codeforiati:group-code>WB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>World Bank Group</narrative>
+                <narrative xml:lang="fr">Le Groupe de la Banque Mondiale</narrative>
+                <narrative xml:lang="es">El Grupo del Banco Mundial</narrative>
+                <narrative xml:lang="pt">O Grupo do Banco Mundial</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-903</code>
+            <name>
+                <narrative>International Finance Corporation</narrative>
+            </name>
+            <codeforiati:group-code>WB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>World Bank Group</narrative>
+                <narrative xml:lang="fr">Le Groupe de la Banque Mondiale</narrative>
+                <narrative xml:lang="es">El Grupo del Banco Mundial</narrative>
+                <narrative xml:lang="pt">O Grupo do Banco Mundial</narrative>
             </codeforiati:group-name>
         </codelist-item>
     </codelist-items>
