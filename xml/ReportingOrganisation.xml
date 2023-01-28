@@ -1453,7 +1453,7 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>drf</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>US-USAGOV</code>
             <name>
                 <narrative>United States</narrative>
@@ -16531,6 +16531,16 @@
             <codeforiati:registry-identifier>bopinc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CO-RUE-900619925-0</code>
+            <name>
+                <narrative>Awake Travel</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>awaketravel</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>YE-MSAL-18-2013</code>
             <name>
                 <narrative>Mwatana for Human Rights</narrative>
@@ -19663,6 +19673,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>globalshea</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-CCB-01952534</code>
+            <name>
+                <narrative>E3 - Ecología, Economía y Etíca</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>grupoe3</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
