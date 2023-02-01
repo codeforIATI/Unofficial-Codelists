@@ -5812,6 +5812,16 @@
             <codeforiati:registry-identifier>dai</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-18</code>
+            <name>
+                <narrative>Millennium Challenge Corporation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>millenniumchallenge</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>US-18</code>
             <name>
                 <narrative>Millennium Challenge Corporation</narrative>
