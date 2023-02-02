@@ -820,6 +820,19 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-18</code>
+            <name>
+                <narrative>Millennium Challenge Corporation</narrative>
+            </name>
+            <codeforiati:group-code>US</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United States</narrative>
+                <narrative xml:lang="fr">États-Unis d'Amérique (les)</narrative>
+                <narrative xml:lang="es">Estados Unidos de América</narrative>
+                <narrative xml:lang="pt">Estados Unidos da América</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>US-18</code>
             <name>
                 <narrative>Millennium Challenge Corporation</narrative>
