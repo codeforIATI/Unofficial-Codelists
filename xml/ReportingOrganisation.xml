@@ -2179,6 +2179,16 @@
             <codeforiati:registry-identifier>irishaid</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-GB-9</code>
+            <name>
+                <narrative>UK - Department for Work and Pensions</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dwp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>GB-9</code>
             <name>
                 <narrative>UK - Department for Work and Pensions</narrative>
@@ -15317,6 +15327,16 @@
             <codeforiati:registry-identifier>lei</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-RC000655</code>
+            <name>
+                <narrative>Keele University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>keele-university</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-20-8530747</code>
             <name>
                 <narrative>Results for Development</narrative>
@@ -19693,6 +19713,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>grupoe3</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-RUE-901337512</code>
+            <name>
+                <narrative>ICLEI Colombia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iclei</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
