@@ -1105,7 +1105,7 @@
                 <narrative xml:lang="pt">Estados Unidos da América</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>US-USAGOV</code>
             <name>
                 <narrative>United States</narrative>
