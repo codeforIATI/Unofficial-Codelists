@@ -19655,6 +19655,16 @@
             <codeforiati:registry-identifier>hrwg_indonesia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CO-CCB-0008863</code>
+            <name>
+                <narrative>Organizacion para la Educacion y Proteccion Ambiental -OpEPA-</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>opepa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-110.162.567</code>
             <name>
                 <narrative>FIND</narrative>
@@ -19683,6 +19693,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fedesarrollo</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-58076573</code>
+            <name>
+                <narrative>AUXFIN International B.V.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>auxfinintl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-UKPRN-10007783</code>
