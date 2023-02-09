@@ -16087,7 +16087,7 @@
         <codelist-item status="active">
             <code>US-GOV-13-ADF</code>
             <name>
-                <narrative>African Development Foundation</narrative>
+                <narrative>U.S. African Development Foundation</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19427,7 +19427,7 @@
         <codelist-item status="active">
             <code>US-GOV-11</code>
             <name>
-                <narrative>Department of State</narrative>
+                <narrative>U.S. Department of State</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19517,7 +19517,7 @@
         <codelist-item status="active">
             <code>US-GOV-15</code>
             <name>
-                <narrative>U.S Department of Justice</narrative>
+                <narrative>U.S. Department of Justice</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
