@@ -13723,6 +13723,16 @@
             <codeforiati:registry-identifier>dgmh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DE-CR-RA000243-HRB5459</code>
+            <name>
+                <narrative>Particip GmbH</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>particip</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ML-NIF-082208943A</code>
             <name>
                 <narrative>Groupe Pivot Santé Population</narrative>
