@@ -10,7 +10,7 @@
         </category>
     </metadata>
     <codelist-items>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HAFG23</code>
             <name>
                 <narrative>Afghanistan Humanitarian Response Plan 2023</narrative>
@@ -20,7 +20,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RAFG23</code>
             <name>
                 <narrative>Afghanistan Situation Regional Refugee Response Plan 2023</narrative>
@@ -30,7 +30,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HBFA23</code>
             <name>
                 <narrative>Burkina Faso Plan de Réponse Humanitaire 2023</narrative>
@@ -40,7 +40,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HBDI23</code>
             <name>
                 <narrative>Burundi Plan de Réponse Humanitaire 2023</narrative>
@@ -50,7 +50,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HCMR23</code>
             <name>
                 <narrative>Cameroon Humanitarian Response Plan 2023</narrative>
@@ -70,7 +70,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RDRCRRP23</code>
             <name>
                 <narrative>Democratic Republic of the Congo Regional Refugee Response Plan 2023</narrative>
@@ -90,7 +90,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HETH23</code>
             <name>
                 <narrative>Ethiopia Humanitarian Response Plan 2023</narrative>
@@ -100,7 +100,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HGTM23</code>
             <name>
                 <narrative>Guatemala Plan de Respuesta Humanitario 2023</narrative>
@@ -110,7 +110,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HHTI23</code>
             <name>
                 <narrative>Haiti Plan de Réponse Humanitaire 2023</narrative>
@@ -120,7 +120,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HHND23</code>
             <name>
                 <narrative>Honduras Plan de Respuesta Humanitario 2023</narrative>
@@ -130,7 +130,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FKEN23</code>
             <name>
                 <narrative>Kenya Drought Response Plan 2023</narrative>
@@ -140,7 +140,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>OLBN23</code>
             <name>
                 <narrative>Lebanon Emergency Response Plan 2023</narrative>
@@ -150,7 +150,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FMDG23</code>
             <name>
                 <narrative>Madagascar Flash Appeal 2023</narrative>
@@ -170,7 +170,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HMOZ23</code>
             <name>
                 <narrative>Mozambique Humanitarian Response Plan 2023</narrative>
@@ -190,7 +190,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HNER23</code>
             <name>
                 <narrative>Niger Plan de Réponse Humanitaire 2023</narrative>
@@ -200,7 +200,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HNGA23</code>
             <name>
                 <narrative>Nigeria Humanitarian Response Plan 2023</narrative>
@@ -230,7 +230,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-05-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RDJIETHSOMYEM23</code>
             <name>
                 <narrative>Regional Migrant Response Plan for the Horn of Africa and Yemen 2023</narrative>
@@ -250,7 +250,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HCOD23</code>
             <name>
                 <narrative>République Démocratique du Congo Plan de Réponse Humanitaire 2023</narrative>
@@ -260,7 +260,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RBGD23</code>
             <name>
                 <narrative>Rohingya Humanitarian Crisis Joint Response Plan 2023</narrative>
@@ -270,7 +270,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HSOM23</code>
             <name>
                 <narrative>Somalia Humanitarian Response Plan 2023</narrative>
@@ -290,7 +290,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RETHKENUGA23</code>
             <name>
                 <narrative>South Sudan Regional Refugee Response Plan 2023</narrative>
@@ -311,6 +311,16 @@
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>FSYR23</code>
+            <name>
+                <narrative>Syria Earthquake Flash Appeal 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-02-13</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-05-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HSYR23</code>
             <name>
                 <narrative>Syrian Arab Republic Humanitarian Response Plan 2023</narrative>
@@ -320,7 +330,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RSYR23</code>
             <name>
                 <narrative>Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2023</narrative>
@@ -330,7 +340,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HTCD23</code>
             <name>
                 <narrative>Tchad Plan de Réponse Humanitaire 2023</narrative>
@@ -340,7 +350,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HUKR23</code>
             <name>
                 <narrative>Ukraine Humanitarian Response Plan 2023</narrative>
@@ -350,7 +360,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RUKRN23</code>
             <name>
                 <narrative>Ukraine Situation Regional Refugee Response Plan 2023</narrative>
@@ -360,7 +370,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>HVEN23</code>
             <name>
                 <narrative>Venezuela Plan de Respuesta Humanitario 2023</narrative>
@@ -370,7 +380,7 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RREG23</code>
             <name>
                 <narrative>Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023</narrative>
