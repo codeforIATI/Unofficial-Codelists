@@ -330,6 +330,16 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
+        <codelist-item status="active">
+            <code>FTUR23</code>
+            <name>
+                <narrative>Türkiye Earthquake Flash Appeal 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Flash appeal</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-02-06</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-04-30</codeforiati:plan-end-date>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>RSYR23</code>
             <name>
