@@ -9144,7 +9144,7 @@
         <codelist-item status="active">
             <code>SE-ON-802017-3517</code>
             <name>
-                <narrative>Diakonia Sweden</narrative>
+                <narrative>Diakonia (Sweden)</narrative>
                 <narrative xml:lang="fr">Diakonia Suède</narrative>
                 <narrative xml:lang="es">Diakonia Suecia</narrative>
                 <narrative xml:lang="pt">Diakonia Sweden</narrative>
@@ -19705,6 +19705,16 @@
             <codeforiati:registry-identifier>miftah</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KH-INGO-20201231</code>
+            <name>
+                <narrative>Action Aid Cambodia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Cambodia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aac</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>KH-INGO</code>
             <name>
                 <narrative>Action Aid Cambodia</narrative>
