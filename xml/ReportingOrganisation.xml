@@ -19794,6 +19794,16 @@
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>basel_institute</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>BJ-IFU-6202112757059</code>
+            <name>
+                <narrative>IGD Benin</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>igd_benin</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
