@@ -19714,6 +19714,16 @@
             <codeforiati:hq-country-or-region>Cambodia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>aac</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>GH-DSW-4004</code>
+            <name>
+                <narrative>Media Foundation for West Africa</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mfwa</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>KH-INGO</code>
             <name>
