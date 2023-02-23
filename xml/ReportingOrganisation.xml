@@ -19355,6 +19355,16 @@
             <codeforiati:registry-identifier>limpal-colombia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MY-SSM-256530H</code>
+            <name>
+                <narrative>Asian-Pacific Resource and Research Centre for Women (ARROW)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malaysia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>my-ssm</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CO-RUES-800121811</code>
             <name>
                 <narrative>Corporación de Apoyo a Comunidades Populares</narrative>
@@ -19813,6 +19823,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>igd_benin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-RC000653</code>
+            <name>
+                <narrative>University of Exeter</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uoex</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
