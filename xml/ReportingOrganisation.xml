@@ -9284,7 +9284,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>universityofbirmingham</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>MZ-NUIT-600000381</code>
             <name>
                 <narrative>Fundo de Investimento e Patrimonio do Abastecimento de Água (FIPAG)</narrative>
