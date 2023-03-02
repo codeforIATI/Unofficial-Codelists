@@ -1310,7 +1310,7 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>uncdf</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-CCI-20081098</code>
             <name>
                 <narrative>BRAC International</narrative>
