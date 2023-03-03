@@ -16449,7 +16449,7 @@
             <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>hgc</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NP-CRO-83836</code>
             <name>
                 <narrative>pub_name</narrative>
@@ -16534,7 +16534,7 @@
             <codeforiati:hq-country-or-region>Rwanda</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>laf</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>AE-ADCD-64747</code>
             <name>
                 <narrative>pubname162</narrative>
