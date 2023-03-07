@@ -14878,6 +14878,16 @@
             <codeforiati:registry-identifier>cis</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-RSB-80020001996190</code>
+            <name>
+                <narrative>Linking Pin Africa Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lpa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>RW-RGB-77-RGB-NGO-2013</code>
             <name>
                 <narrative>Health Development Initiative</narrative>
