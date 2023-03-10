@@ -19744,6 +19744,16 @@
             <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>mfwa</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>IL-RA-580675486</code>
+            <name>
+                <narrative>Tech2Peace</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Israel</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>t2p</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>KH-INGO</code>
             <name>
