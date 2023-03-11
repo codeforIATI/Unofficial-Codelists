@@ -180,6 +180,16 @@
             <codeforiati:plan-start-date>2023-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-12-31</codeforiati:plan-end-date>
         </codelist-item>
+        <codelist-item status="active">
+            <code>OMNG2223</code>
+            <name>
+                <narrative>MONGOLIA Early Action &amp;amp; Response Plan 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2022-12-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-05-31</codeforiati:plan-end-date>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>HMOZ23</code>
             <name>
