@@ -12432,6 +12432,16 @@
             <codeforiati:registry-identifier>anaepmr_benin</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-02517018</code>
+            <name>
+                <narrative>Universities UK</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uuk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-70292388</code>
             <name>
                 <narrative>Index Initiative Foundation</narrative>
