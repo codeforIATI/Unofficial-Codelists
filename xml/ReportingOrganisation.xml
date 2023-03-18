@@ -19874,6 +19874,16 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>uoex</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>MZ-NUIT-700061787</code>
+            <name>
+                <narrative>Gorongosa Restoration Project</narrative>
+            </name>
+            <codeforiati:organisation-type-code>30</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>grp</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
             <name>
