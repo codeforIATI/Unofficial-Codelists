@@ -19805,6 +19805,16 @@
             <codeforiati:registry-identifier>uoa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-23-6393344</code>
+            <name>
+                <narrative>World Relief Corp of National Association of Evangelicals</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>worldrelief</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-RGD-CG056382017</code>
             <name>
                 <narrative>Global Shea Alliance</narrative>
