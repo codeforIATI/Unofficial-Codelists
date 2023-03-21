@@ -19885,6 +19885,16 @@
             <codeforiati:registry-identifier>uoex</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1112404</code>
+            <name>
+                <narrative>Right To Play UK</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rtp_uk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>MZ-NUIT-700061787</code>
             <name>
                 <narrative>Gorongosa Restoration Project</narrative>
