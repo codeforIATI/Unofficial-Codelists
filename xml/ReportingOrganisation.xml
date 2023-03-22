@@ -1168,6 +1168,16 @@
             <codeforiati:registry-identifier>bracuk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-CIP-2001-005850-08</code>
+            <name>
+                <narrative>Gender Links</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>ZA-CIPC-2001/005850/08</code>
             <name>
                 <narrative>Gender Links</narrative>
