@@ -19445,6 +19445,16 @@
             <codeforiati:registry-identifier>dalbergcatalyst</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BJ-IFU-6201810257535</code>
+            <name>
+                <narrative>Association Béninoise pour le Marketing Social et la Communication pour la Santé (ABMS)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>abms</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BF-MATD-N00000408001</code>
             <name>
                 <narrative>SOS Jeunesse et Défis</narrative>
@@ -19774,6 +19784,16 @@
             <codeforiati:hq-country-or-region>Israel</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>t2p</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>JO-COA-0301-57112</code>
+            <name>
+                <narrative>Inter Islamic Network for Water Resources Development and Management</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>inwrdam</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>KH-INGO</code>
             <name>
@@ -19913,6 +19933,16 @@
             <codeforiati:organisation-type>Public Private Partnership</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>grp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-RC000659</code>
+            <name>
+                <narrative>University of Leicester</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>leics</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
