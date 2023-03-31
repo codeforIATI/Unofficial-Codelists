@@ -15201,6 +15201,16 @@
             <codeforiati:registry-identifier>carbontrustadvisory</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MHA-231660927</code>
+            <name>
+                <narrative>PUBLIC HEALTH FOUNDATION OF INDIA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>phfi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NA-NAMRA-04822224</code>
             <name>
                 <narrative>Positive Vibes Trust</narrative>
@@ -19815,6 +19825,16 @@
             <codeforiati:registry-identifier>fedesarrollo</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-24428291</code>
+            <name>
+                <narrative>Acacia Water</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aw</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-58076573</code>
             <name>
                 <narrative>AUXFIN International B.V.</narrative>
@@ -19873,6 +19893,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iclei</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-SC-SC015263</code>
+            <name>
+                <narrative>University of Strathclyde</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>strathclyde</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>CH-FDJP-CHE-109-991-002</code>
@@ -19943,6 +19973,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>leics</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ET-ERCA-0056106666</code>
+            <name>
+                <narrative>African Disability Forum (ADF)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>et-adf-0317</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>GB-1-201879-115</code>
