@@ -19935,6 +19935,16 @@
             <codeforiati:registry-identifier>rabi3</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BJ-IFU-6201001214905</code>
+            <name>
+                <narrative>Association Béninoise pour la Promotion de la Famille</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>abpf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-RC000653</code>
             <name>
                 <narrative>University of Exeter</narrative>
