@@ -15462,6 +15462,16 @@
             <codeforiati:registry-identifier>wba</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-3435</code>
+            <name>
+                <narrative>SOS Sahel Sudan</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sudan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sosss_admin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CO-CCB-S0052181</code>
             <name>
                 <narrative>transforma</narrative>
@@ -19993,6 +20003,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>leics</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ET-MFA-150317</code>
+            <name>
+                <narrative>African Disability Forum (ADF)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>et-adf-0317</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BI-NIF-4000039331</code>
