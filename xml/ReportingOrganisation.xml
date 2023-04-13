@@ -15211,6 +15211,16 @@
             <codeforiati:registry-identifier>phfi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-UKPRN-10007801</code>
+            <name>
+                <narrative>University of Plymouth</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uop</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NA-NAMRA-04822224</code>
             <name>
                 <narrative>Positive Vibes Trust</narrative>
