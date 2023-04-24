@@ -9162,7 +9162,7 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier>diakonia802017-3517</codeforiati:registry-identifier>
+            <codeforiati:registry-identifier>diakonia-sweden</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BJ-IFU-6201101048400</code>
@@ -20033,6 +20033,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>twz1</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-10781862</code>
+            <name>
+                <narrative>Smart Villages Research Group</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>svrg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LB-MOI-2402520</code>
+            <name>
+                <narrative>SMEX</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>smex</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
