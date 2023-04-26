@@ -586,6 +586,19 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-41108</code>
+            <name>
+                <narrative>International Fund for Agricultural Development (IFAD)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-41110</code>
             <name>
                 <narrative>United Nations Joint Programme on HIV and AIDS Secretariat (UNAIDS)</narrative>
@@ -742,6 +755,19 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-41149</code>
+            <name>
+                <narrative>United Nations Development Coordination Office</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-41301</code>
             <name>
                 <narrative>Food and Agriculture Organization of the United Nations (FAO)</narrative>
@@ -771,6 +797,19 @@
             <code>XM-DAC-41304</code>
             <name>
                 <narrative>United Nations Educational, Scientific and Cultural Organization (UNESCO)</narrative>
+            </name>
+            <codeforiati:group-code>UN</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Nations</narrative>
+                <narrative xml:lang="fr">Nations Unies</narrative>
+                <narrative xml:lang="es">Naciones Unidas</narrative>
+                <narrative xml:lang="pt">Nações Unidas</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-45001</code>
+            <name>
+                <narrative>International Trade Centre (ITC)</narrative>
             </name>
             <codeforiati:group-code>UN</codeforiati:group-code>
             <codeforiati:group-name>
