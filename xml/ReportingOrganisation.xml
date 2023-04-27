@@ -19975,6 +19975,16 @@
             <codeforiati:registry-identifier>uoex</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AE-DMCC-23550</code>
+            <name>
+                <narrative>ARK Group DMCC</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Arab Emirates</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>arkgroupdmcc1</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-52-1497470</code>
             <name>
                 <narrative>Conservation International Foundation</narrative>
