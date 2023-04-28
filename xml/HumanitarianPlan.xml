@@ -190,6 +190,16 @@
             <codeforiati:plan-start-date>2022-12-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2023-05-31</codeforiati:plan-end-date>
         </codelist-item>
+        <codelist-item status="active">
+            <code>OMOZ23</code>
+            <name>
+                <narrative>Mozambique Cholera, Cyclone and Floods 2023</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2023</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-03-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2023-09-30</codeforiati:plan-end-date>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>HMOZ23</code>
             <name>
