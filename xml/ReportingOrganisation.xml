@@ -19705,6 +19705,16 @@
             <codeforiati:registry-identifier>tifa_foundation</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>061660068</code>
+            <name>
+                <narrative>Innovations for Poverty Action</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ipa_</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NP-SWC-19781</code>
             <name>
                 <narrative>International Nepal Fellowship Nepal</narrative>
