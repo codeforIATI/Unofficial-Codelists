@@ -16077,6 +16077,16 @@
             <codeforiati:registry-identifier>ciprb</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-RUF</code>
+            <name>
+                <narrative>Red Umbrella Fund</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ruf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-BRIDGE-1812689272</code>
             <name>
                 <narrative>The Mailman School of Public Health</narrative>
@@ -20053,6 +20063,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>twz1</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>LB-MOI-17312</code>
+            <name>
+                <narrative>Female</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>female</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-COH-10781862</code>
