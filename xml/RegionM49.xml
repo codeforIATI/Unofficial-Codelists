@@ -10674,12 +10674,12 @@
         <codelist-item status="active">
             <code>528</code>
             <name>
-                <narrative>Netherlands</narrative>
-                <narrative xml:lang="ar"> هولندا</narrative>
-                <narrative xml:lang="es">Países Bajos</narrative>
-                <narrative xml:lang="fr">Pays-Bas</narrative>
-                <narrative xml:lang="ru">Нидерланды</narrative>
-                <narrative xml:lang="zh">荷兰</narrative>
+                <narrative>Netherlands (Kingdom of the)</narrative>
+                <narrative xml:lang="ar"> هولندا (مملكة _)</narrative>
+                <narrative xml:lang="es">Países Bajos (Reino de los)</narrative>
+                <narrative xml:lang="fr">Pays-Bas (Royaume des)</narrative>
+                <narrative xml:lang="ru">Нидерланды (Королевство)</narrative>
+                <narrative xml:lang="zh">荷兰王国</narrative>
             </name>
             <codeforiati:iso-alpha-2-code>NL</codeforiati:iso-alpha-2-code>
             <codeforiati:iso-alpha-3-code>NLD</codeforiati:iso-alpha-3-code>
