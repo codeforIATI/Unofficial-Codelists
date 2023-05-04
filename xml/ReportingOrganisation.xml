@@ -20025,6 +20025,16 @@
             <codeforiati:registry-identifier>rtp_uk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-01250443</code>
+            <name>
+                <narrative>NIRAS Group (UK) Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>niras_uk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>MZ-NUIT-700061787</code>
             <name>
                 <narrative>Gorongosa Restoration Project</narrative>
