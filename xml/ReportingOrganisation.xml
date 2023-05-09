@@ -19839,8 +19839,8 @@
             <name>
                 <narrative>Inter Islamic Network for Water Resources Development and Management</narrative>
             </name>
-            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>inwrdam</codeforiati:registry-identifier>
         </codelist-item>
