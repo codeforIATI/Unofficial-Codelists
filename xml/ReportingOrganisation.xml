@@ -16087,6 +16087,16 @@
             <codeforiati:registry-identifier>ruf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-40-3</code>
+            <name>
+                <narrative>Greece - Ministry of Foreign Affairs</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Greece</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>greece_mfa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-BRIDGE-1812689272</code>
             <name>
                 <narrative>The Mailman School of Public Health</narrative>
