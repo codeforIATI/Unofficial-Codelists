@@ -20085,6 +20085,16 @@
             <codeforiati:registry-identifier>twz1</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NG-CAC-RC-1368639</code>
+            <name>
+                <narrative>Infrastructure Credit Guarantee Company Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>infracredit</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LB-MOI-17312</code>
             <name>
                 <narrative>Female</narrative>
