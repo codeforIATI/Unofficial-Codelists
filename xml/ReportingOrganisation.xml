@@ -8651,6 +8651,16 @@
             <codeforiati:registry-identifier>libymca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-RCO-CPR-2009-5689</code>
+            <name>
+                <narrative>TradeMark East Africa</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tma</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>KE-RCO-CPR/2009/5689</code>
             <name>
                 <narrative>TradeMark East Africa</narrative>
