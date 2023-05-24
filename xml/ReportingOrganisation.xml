@@ -20105,6 +20105,16 @@
             <codeforiati:registry-identifier>infracredit</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1050821</code>
+            <name>
+                <narrative>Buddhist Compassion Relief Tzu Chi Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tzuchiuk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LB-MOI-17312</code>
             <name>
                 <narrative>Female</narrative>
