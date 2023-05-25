@@ -20144,6 +20144,16 @@
             <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>smex</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>PE-SUNARP-03024345</code>
+            <name>
+                <narrative>Universidad Peruana Cayetano Heredia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Peru</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>investigacion_cayetano</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
