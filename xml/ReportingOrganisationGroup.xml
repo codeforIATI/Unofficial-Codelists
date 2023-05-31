@@ -209,6 +209,19 @@
             </codeforiati:group-name>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-9</code>
+            <name>
+                <narrative>UK - Department for Work and Pensions</narrative>
+            </name>
+            <codeforiati:group-code>GB</codeforiati:group-code>
+            <codeforiati:group-name>
+                <narrative>United Kingdom</narrative>
+                <narrative xml:lang="fr">Royaume-Uni (le)</narrative>
+                <narrative xml:lang="es">Reino Unido</narrative>
+                <narrative xml:lang="pt">Reino Unido</narrative>
+            </codeforiati:group-name>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>GB-9</code>
             <name>
                 <narrative>UK - Department for Work and Pensions</narrative>
