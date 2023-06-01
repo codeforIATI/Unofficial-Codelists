@@ -20145,6 +20145,16 @@
             <codeforiati:registry-identifier>smex</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DK-CVR-78920610</code>
+            <name>
+                <narrative>Forests of the World</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fowdk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PE-SUNARP-03024345</code>
             <name>
                 <narrative>Universidad Peruana Cayetano Heredia</narrative>
@@ -20153,6 +20163,26 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Peru</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>investigacion_cayetano</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-05712574</code>
+            <name>
+                <narrative>Parhelion Underwriting Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pul</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-KRA-P052188980R</code>
+            <name>
+                <narrative>BFA Global Kenya Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bfa_global</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
