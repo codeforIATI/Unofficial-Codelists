@@ -18407,6 +18407,16 @@
             <codeforiati:registry-identifier>ppag_123</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-69759103</code>
+            <name>
+                <narrative>Laterite B.V.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>laterite_bv</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-OCHA-585</code>
             <name>
                 <narrative>International Centre for Migration Policy Development</narrative>
