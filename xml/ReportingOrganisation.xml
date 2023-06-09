@@ -4357,7 +4357,7 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>agriterra</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>UG-NGB-5914-7209</code>
             <name>
                 <narrative>Cheshire Services Uganda</narrative>
@@ -8507,7 +8507,7 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>carter-center</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-41169161</code>
             <name>
                 <narrative>International Child Development Initiatives</narrative>
@@ -9343,7 +9343,7 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wri</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>KE-RSO-14210</code>
             <name>
                 <narrative>United Disabled Persons of Kenya</narrative>
@@ -14032,7 +14032,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fhfuk</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-34176587</code>
             <name>
                 <narrative>Radio La Benevolencija</narrative>
