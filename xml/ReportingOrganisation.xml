@@ -20135,6 +20135,16 @@
             <codeforiati:registry-identifier>female</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-60351489</code>
+            <name>
+                <narrative>Frontclear</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>frontclear_ftap</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-10781862</code>
             <name>
                 <narrative>Smart Villages Research Group</narrative>
