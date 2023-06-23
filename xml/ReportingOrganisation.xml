@@ -11168,7 +11168,7 @@
         <codelist-item status="active">
             <code>NL-KVK-08134161</code>
             <name>
-                <narrative>VEI (Vitens-Evides International)</narrative>
+                <narrative>VEI B.V.</narrative>
                 <narrative xml:lang="fr">VEI (Vitens-Evides International)</narrative>
                 <narrative xml:lang="es">VEI (Vitens-Evides International)</narrative>
                 <narrative xml:lang="pt">VEI (Vitens-Evides International)</narrative>
@@ -17326,6 +17326,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iiss</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-GRID-grid.8652.9</code>
+            <name>
+                <narrative>University of Ghana</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ugorid</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-30114598</code>
