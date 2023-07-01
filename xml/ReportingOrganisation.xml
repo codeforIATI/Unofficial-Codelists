@@ -20234,6 +20234,16 @@
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>trial</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-262048480</code>
+            <name>
+                <narrative>ImpactAssets Inc.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ia</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
