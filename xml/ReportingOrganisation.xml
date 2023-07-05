@@ -13389,6 +13389,16 @@
             <codeforiati:registry-identifier>utwente</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DK-CVR-31378028</code>
+            <name>
+                <narrative>3F International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Denmark</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>3fi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>DK-CVR-13078513</code>
             <name>
                 <narrative>DUF - The Danish Youth Council</narrative>
