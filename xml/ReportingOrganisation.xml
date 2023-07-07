@@ -19845,6 +19845,16 @@
             <codeforiati:registry-identifier>finddiagnostics</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-02742969</code>
+            <name>
+                <narrative>Genome Research Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>grl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PS-MOI-QR177HR</code>
             <name>
                 <narrative>The Palestinian Initiative for the Promotion of Global Dialogue and Democracy-MIFTAH</narrative>
