@@ -468,7 +468,7 @@
                 <narrative xml:lang="pt">Japão</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-08215619-201210000</code>
             <name>
                 <narrative>Kadaster International</narrative>
@@ -481,7 +481,7 @@
                 <narrative xml:lang="pt">Países Baixos</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-27367015</code>
             <name>
                 <narrative>Netherlands Organisation for Scientific Research (NWO)</narrative>
@@ -494,7 +494,7 @@
                 <narrative xml:lang="pt">Países Baixos</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-27378529</code>
             <name>
                 <narrative>Netherlands Enterprise Agency (RVO)</narrative>
@@ -507,7 +507,7 @@
                 <narrative xml:lang="pt">Países Baixos</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-30276595</code>
             <name>
                 <narrative>Koninklijk Nederlands Meteorologisch Instituut</narrative>
@@ -520,7 +520,7 @@
                 <narrative xml:lang="pt">Países Baixos</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>XM-DAC-7</code>
             <name>
                 <narrative>Netherlands - Ministry of Foreign Affairs</narrative>
@@ -533,7 +533,7 @@
                 <narrative xml:lang="pt">Países Baixos</narrative>
             </codeforiati:group-name>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-27078545</code>
             <name>
                 <narrative>FMO</narrative>
