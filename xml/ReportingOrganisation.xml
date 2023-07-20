@@ -20265,6 +20265,16 @@
             <codeforiati:registry-identifier>trial</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-KRA-P052007235U</code>
+            <name>
+                <narrative>Imfact Working Capital Solutions Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>imfact2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-262048480</code>
             <name>
                 <narrative>ImpactAssets Inc.</narrative>
