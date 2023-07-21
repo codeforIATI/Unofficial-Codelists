@@ -11464,7 +11464,7 @@
         <codelist-item status="active">
             <code>US-GOV-17</code>
             <name>
-                <narrative>U.S. Department of Labor</narrative>
+                <narrative>United States Department of Labor</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -11682,7 +11682,7 @@
         <codelist-item status="active">
             <code>US-GOV-6</code>
             <name>
-                <narrative>U.S. Department of the Treasury</narrative>
+                <narrative>United States Department of the Treasury</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -12125,7 +12125,7 @@
         <codelist-item status="active">
             <code>US-GOV-TBD</code>
             <name>
-                <narrative>U.S. Federal Trade Commission</narrative>
+                <narrative>United States Federal Trade Commission</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -12317,7 +12317,7 @@
         <codelist-item status="active">
             <code>US-GOV-22</code>
             <name>
-                <narrative>U.S. International Development Finance Corporation</narrative>
+                <narrative>United States International Development Finance Corporation</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -16197,7 +16197,7 @@
         <codelist-item status="active">
             <code>US-GOV-13-ADF</code>
             <name>
-                <narrative>U.S. African Development Foundation</narrative>
+                <narrative>United States African Development Foundation</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19597,7 +19597,7 @@
         <codelist-item status="active">
             <code>US-GOV-11</code>
             <name>
-                <narrative>U.S. Department of State</narrative>
+                <narrative>United States Department of State</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19607,7 +19607,7 @@
         <codelist-item status="active">
             <code>US-GOV-32</code>
             <name>
-                <narrative>U.S. Environmental Protection Agency</narrative>
+                <narrative>United States Environmental Protection Agency</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19617,7 +19617,7 @@
         <codelist-item status="active">
             <code>US-GOV-16</code>
             <name>
-                <narrative>U.S. Department of Commerce</narrative>
+                <narrative>United States Department of Commerce</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19627,7 +19627,7 @@
         <codelist-item status="active">
             <code>US-GOV-12</code>
             <name>
-                <narrative>U.S. Trade and Development Agency</narrative>
+                <narrative>United States Trade and Development Agency</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19637,7 +19637,7 @@
         <codelist-item status="active">
             <code>US-GOV-2</code>
             <name>
-                <narrative>U.S. Department of Agriculture</narrative>
+                <narrative>United States Department of Agriculture</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19667,7 +19667,7 @@
         <codelist-item status="active">
             <code>US-GOV-26</code>
             <name>
-                <narrative>U.S. Department of Transportation</narrative>
+                <narrative>United States Department of Transportation</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19677,7 +19677,7 @@
         <codelist-item status="active">
             <code>US-GOV-14</code>
             <name>
-                <narrative>U.S. Health and Human Services</narrative>
+                <narrative>United States Health and Human Services</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19687,7 +19687,7 @@
         <codelist-item status="active">
             <code>US-GOV-15</code>
             <name>
-                <narrative>U.S. Department of Justice</narrative>
+                <narrative>United States Department of Justice</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19697,7 +19697,7 @@
         <codelist-item status="active">
             <code>US-GOV-9</code>
             <name>
-                <narrative>U.S. Department of Interior</narrative>
+                <narrative>United States Department of Interior</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19707,7 +19707,7 @@
         <codelist-item status="active">
             <code>US-GOV-7</code>
             <name>
-                <narrative>U.S. Department of Defense</narrative>
+                <narrative>United States Department of Defense</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19717,7 +19717,7 @@
         <codelist-item status="active">
             <code>US-GOV-20</code>
             <name>
-                <narrative>U.S. Department of Energy</narrative>
+                <narrative>United States Department of Energy</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
@@ -19727,7 +19727,7 @@
         <codelist-item status="active">
             <code>US-GOV-19</code>
             <name>
-                <narrative>U.S. Department of Homeland Security</narrative>
+                <narrative>United States Department of Homeland Security</narrative>
             </name>
             <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
