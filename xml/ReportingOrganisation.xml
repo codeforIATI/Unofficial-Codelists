@@ -18158,6 +18158,16 @@
             <codeforiati:registry-identifier>mdif</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-RCO-PLC-MYSMV2</code>
+            <name>
+                <narrative>EABX</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eabx</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-NIC-073343</code>
             <name>
                 <narrative>Global Fund for Community Foundations</narrative>
@@ -19485,6 +19495,16 @@
             <codeforiati:registry-identifier>limpal-colombia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-11</code>
+            <name>
+                <narrative>HM Revenue and Customs</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cbu_hmrc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>MY-SSM-256530H</code>
             <name>
                 <narrative>Asian-Pacific Resource and Research Centre for Women (ARROW)</narrative>
@@ -20293,6 +20313,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ddfkenya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-07177839</code>
+            <name>
+                <narrative>Bboxx</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bboxx</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
