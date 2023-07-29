@@ -20324,6 +20324,16 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bboxx</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>ID-DJP-032441156063000</code>
+            <name>
+                <narrative>PT Arup Indonesia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ptarupidn</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
