@@ -17911,6 +17911,16 @@
             <codeforiati:registry-identifier>walaltd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-83-1236759</code>
+            <name>
+                <narrative>Neopenda</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>neopenda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-53-0235320</code>
             <name>
                 <narrative>Pathfinder International</narrative>
@@ -20285,6 +20295,16 @@
             <codeforiati:registry-identifier>trial</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AF-MOE-118</code>
+            <name>
+                <narrative>Swedish Committee for Afghanistan</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Afghanistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sca_afghanistan</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P052007235U</code>
             <name>
                 <narrative>Imfact Working Capital Solutions Limited</narrative>
@@ -20343,6 +20363,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ptarupidn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BR-CNPJ-30619995-0001-34</code>
+            <name>
+                <narrative>Centro de Inteligência Territorial</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cit_brazil</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
