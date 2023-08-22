@@ -20355,6 +20355,16 @@
             <codeforiati:registry-identifier>bboxx</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>SN-NINEA-50255162X2</code>
+            <name>
+                <narrative>Nadji.Bi Sénégal SUARL</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Senegal</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sn-ninea-50255162x2</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ID-DJP-032441156063000</code>
             <name>
                 <narrative>PT Arup Indonesia</narrative>
