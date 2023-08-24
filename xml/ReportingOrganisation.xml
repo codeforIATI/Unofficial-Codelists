@@ -2910,7 +2910,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>simlab</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>KE-RCO-270901</code>
             <name>
                 <narrative>Education Development Trust</narrative>
@@ -12939,7 +12939,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>b_a_t</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>RW-RGB-002-RGB-NGO-2017</code>
             <name>
                 <narrative>EDUCATION DEVELOPMENT TRUST - RWANDA</narrative>
@@ -20273,6 +20273,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>harvard_global</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-NCB-218051200201502367</code>
+            <name>
+                <narrative>LVCT Health</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lvct</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>KE-KRA-P052188980R</code>
