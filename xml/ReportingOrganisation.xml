@@ -12966,6 +12966,16 @@
             <codeforiati:registry-identifier>cbm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-53-0242652</code>
+            <name>
+                <narrative>The Nature Conservancy</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>the_nature_conservancy</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-RC000664</code>
             <name>
                 <narrative>University of Nottingham</narrative>
@@ -15852,7 +15862,7 @@
             <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fgae_ethiopia</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>XM-DAC-576</code>
             <name>
                 <narrative>Ministry of Foreign Affairs - United Arab Emirates (UAE)</narrative>
