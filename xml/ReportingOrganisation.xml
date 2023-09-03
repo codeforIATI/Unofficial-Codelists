@@ -20245,6 +20245,16 @@
             <codeforiati:registry-identifier>smex</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DE-CR-RA000355-HRB726528</code>
+            <name>
+                <narrative>Fosera Solarsystems GmbH &amp; Co. KG aA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fosaa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>DK-CVR-78920610</code>
             <name>
                 <narrative>Forests of the World</narrative>
