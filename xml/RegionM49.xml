@@ -8896,7 +8896,7 @@
             <code>831</code>
             <name>
                 <narrative>Guernsey</narrative>
-                <narrative xml:lang="ar">غيرنسي</narrative>
+                <narrative xml:lang="ar"> غيرنسي</narrative>
                 <narrative xml:lang="es">Guernsey</narrative>
                 <narrative xml:lang="fr">Guernesey</narrative>
                 <narrative xml:lang="ru">Гернси</narrative>
@@ -8931,15 +8931,7 @@
                 <narrative xml:lang="ru">Северная Европа</narrative>
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
-            <codeforiati:intermediate-region-code>830</codeforiati:intermediate-region-code>
-            <codeforiati:intermediate-region-name>
-                <narrative>Channel Islands</narrative>
-                <narrative xml:lang="ar">جزر تشانل</narrative>
-                <narrative xml:lang="es">Islas Anglonormandas</narrative>
-                <narrative xml:lang="fr">Îles Anglo-Normandes</narrative>
-                <narrative xml:lang="ru">Нормандские острова</narrative>
-                <narrative xml:lang="zh">海峡群岛</narrative>
-            </codeforiati:intermediate-region-name>
+            <codeforiati:intermediate-region-code/>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
@@ -8949,7 +8941,7 @@
             <code>832</code>
             <name>
                 <narrative>Jersey</narrative>
-                <narrative xml:lang="ar">جيرسي</narrative>
+                <narrative xml:lang="ar"> جيرسي</narrative>
                 <narrative xml:lang="es">Jersey</narrative>
                 <narrative xml:lang="fr">Jersey</narrative>
                 <narrative xml:lang="ru">Джерси</narrative>
@@ -8984,21 +8976,13 @@
                 <narrative xml:lang="ru">Северная Европа</narrative>
                 <narrative xml:lang="zh">北欧</narrative>
             </codeforiati:sub-region-name>
-            <codeforiati:intermediate-region-code>830</codeforiati:intermediate-region-code>
-            <codeforiati:intermediate-region-name>
-                <narrative>Channel Islands</narrative>
-                <narrative xml:lang="ar">جزر تشانل</narrative>
-                <narrative xml:lang="es">Islas Anglonormandas</narrative>
-                <narrative xml:lang="fr">Îles Anglo-Normandes</narrative>
-                <narrative xml:lang="ru">Нормандские острова</narrative>
-                <narrative xml:lang="zh">海峡群岛</narrative>
-            </codeforiati:intermediate-region-name>
+            <codeforiati:intermediate-region-code/>
             <codeforiati:least-developed-countries>0</codeforiati:least-developed-countries>
             <codeforiati:land-locked-developing-countries>0</codeforiati:land-locked-developing-countries>
             <codeforiati:small-island-developing-states>0</codeforiati:small-island-developing-states>
             <codeforiati:developed-developing>Developed</codeforiati:developed-developing>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>680</code>
             <name>
                 <narrative>Sark</narrative>
