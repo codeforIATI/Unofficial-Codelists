@@ -9304,7 +9304,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>universityofbirmingham</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>MZ-NUIT-600000381</code>
             <name>
                 <narrative>Fundo de Investimento e Patrimonio do Abastecimento de Água (FIPAG)</narrative>
@@ -20175,6 +20175,16 @@
             <codeforiati:registry-identifier>et-adf-0317</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-41199142</code>
+            <name>
+                <narrative>Rabo Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rabofoundation</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BI-NIF-4000039331</code>
             <name>
                 <narrative>Twitezimbere</narrative>
@@ -20365,6 +20375,16 @@
             <codeforiati:registry-identifier>arasaregional</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-26-0126537</code>
+            <name>
+                <narrative>Global Integrity</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P051698850Z</code>
             <name>
                 <narrative>DataDrivenFinance Kenya Ltd</narrative>
@@ -20413,6 +20433,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>cit_brazil</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1146162</code>
+            <name>
+                <narrative>Royal Society of Tropical Medicine &amp; Hygiene</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rstmh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
