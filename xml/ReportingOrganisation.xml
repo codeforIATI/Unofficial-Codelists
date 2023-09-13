@@ -20444,6 +20444,16 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>rstmh</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>NP-IRD-201252183</code>
+            <name>
+                <narrative>B. P. Koirala Institute of Health Sciences</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bpkihs_dharan</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
