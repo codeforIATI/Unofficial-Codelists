@@ -19285,6 +19285,16 @@
             <codeforiati:registry-identifier>boadiita</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>YE-MSAL-288-2013</code>
+            <name>
+                <narrative>Youth without border organization for development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Yemen</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ywbod</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>SG-ACRA-201507403G</code>
             <name>
                 <narrative>Grow Asia</narrative>
@@ -20443,6 +20453,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>rstmh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD-ROC-S-5933</code>
+            <name>
+                <narrative>University of Liberal Arts Bangladesh</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>chpd_ulab</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NP-IRD-201252183</code>
