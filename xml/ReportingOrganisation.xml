@@ -18266,6 +18266,16 @@
             <codeforiati:registry-identifier>oca</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-RC000652</code>
+            <name>
+                <narrative>University of Essex</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>university_of_essex</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GE-RS-406061513</code>
             <name>
                 <narrative>Center for Participation and Development</narrative>
