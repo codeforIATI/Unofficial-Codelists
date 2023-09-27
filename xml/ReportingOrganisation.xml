@@ -8293,6 +8293,16 @@
             <codeforiati:registry-identifier>giro555</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-RC000053</code>
+            <name>
+                <narrative>The British Academy</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>thebritishacademy</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-928</code>
             <name>
                 <narrative>World Health Organization (WHO)</narrative>
