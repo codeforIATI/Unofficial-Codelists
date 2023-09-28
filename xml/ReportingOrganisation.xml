@@ -14232,6 +14232,16 @@
             <codeforiati:registry-identifier>namati_inc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-893249298</code>
+            <name>
+                <narrative>Grand Bargain Test</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wrgb</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-IATI-NSO</code>
             <name>
                 <narrative>Netherlands Space Office</narrative>
