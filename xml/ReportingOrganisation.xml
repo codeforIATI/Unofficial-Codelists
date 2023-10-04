@@ -20235,6 +20235,16 @@
             <codeforiati:registry-identifier>twz1</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-10488</code>
+            <name>
+                <narrative>Siasa Place</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-RC-1368639</code>
             <name>
                 <narrative>Infrastructure Credit Guarantee Company Limited</narrative>
@@ -20503,6 +20513,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Nepal</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bpkihs_dharan</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-KRA-P051883897F</code>
+            <name>
+                <narrative>Adili Solar Hubs Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>adili_sh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
