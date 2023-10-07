@@ -19575,6 +19575,16 @@
             <codeforiati:registry-identifier>my-ssm</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>RW-RGB-020-17</code>
+            <name>
+                <narrative>PRO-FEMMES TWESE HAMWE</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Rwanda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>profemmes</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CO-RUES-800121811</code>
             <name>
                 <narrative>Corporación de Apoyo a Comunidades Populares</narrative>
