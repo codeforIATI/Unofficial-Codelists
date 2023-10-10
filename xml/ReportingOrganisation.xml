@@ -18686,7 +18686,7 @@
             <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iza</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>CA_ON-ONT-1783682</code>
             <name>
                 <narrative>Gender at Work</narrative>
@@ -20533,6 +20533,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>adili_sh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MCA-U74900TN2013PTC093426</code>
+            <name>
+                <narrative>Basil Energetics Private Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bepl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
