@@ -9886,7 +9886,7 @@
         <codelist-item status="active">
             <code>BE-BCE_KBO-0445412518</code>
             <name>
-                <narrative>Institute for International Workers Education</narrative>
+                <narrative>ACV-CSC International</narrative>
                 <narrative xml:lang="fr">Institute for International Workers Education</narrative>
                 <narrative xml:lang="es">Institute for International Workers Education</narrative>
                 <narrative xml:lang="pt">Institute for International Workers Education</narrative>
@@ -17352,6 +17352,16 @@
             <codeforiati:registry-identifier>epf</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-83-3580499</code>
+            <name>
+                <narrative>Ocean Risk and Resilience Action Alliance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>orraa_inc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1177110</code>
             <name>
                 <narrative>Elrha</narrative>
@@ -17884,6 +17894,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>uoy</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-NPO-081-788</code>
+            <name>
+                <narrative>Sustainable Livelihoods Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sustainable_livelihoods_foundation</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XM-DAC-41149</code>
@@ -19095,6 +19115,16 @@
             <codeforiati:registry-identifier>assn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-46025</code>
+            <name>
+                <narrative>Islamic Development Bank</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Saudi Arabia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>isdb</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ID-DJP-018321174017000</code>
             <name>
                 <narrative>WWF Indonesia</narrative>
@@ -19313,6 +19343,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Mali</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>seco-ong-mali</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-GRID-grid4157124</code>
+            <name>
+                <narrative>Institute of Psychiatry, Rawalpindi Medical University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iop-rmu</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XM-DAC-46021</code>
@@ -20335,6 +20375,16 @@
             <codeforiati:registry-identifier>fosaa</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-RSB-80020000583761</code>
+            <name>
+                <narrative>Equatorial Power Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ep</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>DK-CVR-78920610</code>
             <name>
                 <narrative>Forests of the World</narrative>
@@ -20505,6 +20555,16 @@
             <codeforiati:registry-identifier>cit_brazil</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NG-CAC-RC-929657</code>
+            <name>
+                <narrative>FMDQ Group PLC</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fmdqgroupplc_2013</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1146162</code>
             <name>
                 <narrative>Royal Society of Tropical Medicine &amp; Hygiene</narrative>
@@ -20535,6 +20595,16 @@
             <codeforiati:registry-identifier>bpkihs_dharan</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BO-NIT-351775028</code>
+            <name>
+                <narrative>CONEXIÓN</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bolivia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>conexionla</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P051883897F</code>
             <name>
                 <narrative>Adili Solar Hubs Limited</narrative>
@@ -20553,6 +20623,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bepl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BE-BCE_KB0-0421408778</code>
+            <name>
+                <narrative>International Peace Information Service</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ipis</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
