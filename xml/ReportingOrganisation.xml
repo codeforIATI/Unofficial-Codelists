@@ -1168,6 +1168,16 @@
             <codeforiati:registry-identifier>bracuk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-NPO-036-515</code>
+            <name>
+                <narrative>Gender Links</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>ZA-CIP-2001-005850-08</code>
             <name>
                 <narrative>Gender Links</narrative>
@@ -5193,6 +5203,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>tib</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BE-BCE_KBO-0464019195</code>
+            <name>
+                <narrative>APOPO</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>apopo</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-61172863</code>
@@ -14072,7 +14092,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fhfuk</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>NL-KVK-34176587</code>
             <name>
                 <narrative>Radio La Benevolencija</narrative>
@@ -16819,6 +16839,16 @@
             <codeforiati:registry-identifier>sdsna</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BE-BCEKB0-0537407021</code>
+            <name>
+                <narrative>WAPA International ASBL</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wapa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-GRID-grid.7247.6</code>
             <name>
                 <narrative>Universidad de los Andes</narrative>
@@ -17025,6 +17055,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>inhive</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BE-BCE-KBO-0461977940</code>
+            <name>
+                <narrative>Frères des Hommes</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fdhommes</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1079752</code>
@@ -18716,7 +18756,7 @@
             <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iza</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>CA_ON-ONT-1783682</code>
             <name>
                 <narrative>Gender at Work</narrative>
@@ -20613,6 +20653,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>adili_sh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-DUNS-645826186</code>
+            <name>
+                <narrative>Shifa Tameer-e-Millat University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>stmu01</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>IN-MCA-U74900TN2013PTC093426</code>
