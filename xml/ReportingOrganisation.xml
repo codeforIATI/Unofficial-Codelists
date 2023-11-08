@@ -20525,6 +20525,16 @@
             <codeforiati:registry-identifier>ia</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>PH-SEC-CN201214699</code>
+            <name>
+                <narrative>Child Rights Coalition Asia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>crcasia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NA-NAMRA-04413362</code>
             <name>
                 <narrative>AIDS and Rights Alliance for Southern Africa</narrative>
