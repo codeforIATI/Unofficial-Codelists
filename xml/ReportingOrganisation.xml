@@ -15912,7 +15912,7 @@
             <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fgae_ethiopia</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>XM-DAC-576</code>
             <name>
                 <narrative>Ministry of Foreign Affairs - United Arab Emirates (UAE)</narrative>
