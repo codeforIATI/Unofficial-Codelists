@@ -17067,6 +17067,16 @@
             <codeforiati:registry-identifier>fdhommes</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-11116719</code>
+            <name>
+                <narrative>Brink Innovation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>brink_innovation</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1079752</code>
             <name>
                 <narrative>RedR UK</narrative>
