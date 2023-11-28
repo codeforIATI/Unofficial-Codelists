@@ -2692,7 +2692,7 @@
         <codelist-item status="active">
             <code>GB-COH-1858644</code>
             <name>
-                <narrative>DAI Europe</narrative>
+                <narrative>DAI Global UK</narrative>
                 <narrative xml:lang="fr">DAI Europe</narrative>
                 <narrative xml:lang="es">DAI Europe</narrative>
                 <narrative xml:lang="pt">DAI Europe</narrative>
@@ -20645,6 +20645,16 @@
             <codeforiati:registry-identifier>chpd_ulab</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-51837609</code>
+            <name>
+                <narrative>Upinion Netherlands</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>upinion</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NP-IRD-201252183</code>
             <name>
                 <narrative>B. P. Koirala Institute of Health Sciences</narrative>
@@ -20695,6 +20705,16 @@
             <codeforiati:registry-identifier>bepl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GH-RGD-CG034642016</code>
+            <name>
+                <narrative>UK-Ghana Chamber of Commerce</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ukgcc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BE-BCE_KB0-0421408778</code>
             <name>
                 <narrative>International Peace Information Service</narrative>
@@ -20703,6 +20723,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ipis</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PS-TIN-888005972</code>
+            <name>
+                <narrative>Water Sector Regulatory Council</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wsrc1</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
