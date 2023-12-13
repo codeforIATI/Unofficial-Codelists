@@ -1051,6 +1051,16 @@
             <codeforiati:registry-identifier>plan_uk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-21032</code>
+            <name>
+                <narrative>Population Service International</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>psi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>21032</code>
             <name>
                 <narrative>Population Service International</narrative>
@@ -20495,6 +20505,16 @@
             <codeforiati:registry-identifier>bfa_global</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-RCO-CF2015185025</code>
+            <name>
+                <narrative>Gatsby Africa</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ga</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-CHE326267730</code>
             <name>
                 <narrative>TRIAL International</narrative>
@@ -20733,6 +20753,16 @@
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wsrc1</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-57504091</code>
+            <name>
+                <narrative>Stiching Cardano Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>stichting_cd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
