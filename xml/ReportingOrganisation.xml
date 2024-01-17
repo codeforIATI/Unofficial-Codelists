@@ -15140,7 +15140,7 @@
         <codelist-item status="active">
             <code>CH-FDJP-CHE110141200</code>
             <name>
-                <narrative>Drugs for Neglected Diseases initiative</narrative>
+                <narrative>Drugs for Neglected Diseases initiative (DNDi)</narrative>
                 <narrative xml:lang="fr">Drugs for Neglected Diseases initiative (Initiative Médicaments pour les maladies négligées)</narrative>
                 <narrative xml:lang="es">Iniciativa Medicamentos para enfermedades olvidadas</narrative>
                 <narrative xml:lang="pt">Drugs for Neglected Diseases initiative</narrative>
@@ -19785,6 +19785,16 @@
             <codeforiati:registry-identifier>wilpf_22</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ID-DJP-030079198015000</code>
+            <name>
+                <narrative>PATTIRO</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pattiro</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41226182</code>
             <name>
                 <narrative>Stichting Habitat for Humanity Nederland</narrative>
@@ -19893,6 +19903,16 @@
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>doj</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MCA-U74999MH2015PTC264094</code>
+            <name>
+                <narrative>Devidayal Solar Solutions Private Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ddsolar</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-GOV-9</code>
@@ -20763,6 +20783,16 @@
             <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>stichting_cd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-34123218</code>
+            <name>
+                <narrative>Rijksakademie van beeldende kunsten</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rabk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
