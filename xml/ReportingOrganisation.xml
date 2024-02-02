@@ -3099,14 +3099,14 @@
         <codelist-item status="active">
             <code>TZ-BRLA-36057</code>
             <name>
-                <narrative>KPMG East Africa</narrative>
+                <narrative>KPMG Advisory Limited (Tanzania)</narrative>
                 <narrative xml:lang="fr">KPMG Afrique de l’Est</narrative>
                 <narrative xml:lang="es">KPMG East Africa</narrative>
                 <narrative xml:lang="pt">KPMG East Africa</narrative>
             </name>
             <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
-            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:hq-country-or-region>Tanzania, United Republic of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>kpmgea</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
