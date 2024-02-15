@@ -210,7 +210,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>RRHOAY24</code>
             <name>
                 <narrative>Regional Migrant Response Plan for the Horn of Africa and Yemen 2024</narrative>
@@ -370,7 +370,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>HYEM24</code>
             <name>
                 <narrative>Yemen Humanitarian Response Plan 2024</narrative>
