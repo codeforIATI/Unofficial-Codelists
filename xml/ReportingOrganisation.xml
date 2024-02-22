@@ -20814,6 +20814,26 @@
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>rabk</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>PS-MOI-QR-0049-F</code>
+            <name>
+                <narrative>Welfare Association (Taawon)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>xm-dac-7-ppr-4000005167</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>HK-CR-2436455</code>
+            <name>
+                <narrative>Agsol Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Hong Kong</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>agsollimited</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
