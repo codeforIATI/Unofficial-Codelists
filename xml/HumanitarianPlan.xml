@@ -30,7 +30,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>HBFA24</code>
             <name>
                 <narrative>Burkina Faso Plan de Réponse Humanitaire 2024</narrative>
@@ -40,7 +40,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>HCMR24</code>
             <name>
                 <narrative>Cameroon Humanitarian Response Plan 2024</narrative>
@@ -90,7 +90,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>HETH24</code>
             <name>
                 <narrative>Ethiopia Humanitarian Response Plan 2024</narrative>
@@ -161,6 +161,16 @@
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
         <codelist-item status="active">
+            <code>OMNG2324</code>
+            <name>
+                <narrative>Mongolia Dzud Early Action and Response Plan 2024</narrative>
+            </name>
+            <codeforiati:plan-type>Other</codeforiati:plan-type>
+            <codeforiati:plan-year>2024</codeforiati:plan-year>
+            <codeforiati:plan-start-date>2023-12-01</codeforiati:plan-start-date>
+            <codeforiati:plan-end-date>2024-05-31</codeforiati:plan-end-date>
+        </codelist-item>
+        <codelist-item status="active">
             <code>HMOZ24</code>
             <name>
                 <narrative>Mozambique Humanitarian Response Plan 2024</narrative>
@@ -180,7 +190,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>HNER24</code>
             <name>
                 <narrative>Niger Plan de Réponse Humanitaire 2024</narrative>
@@ -230,7 +240,7 @@
             <codeforiati:plan-start-date>2024-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2024-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="withdrawn">
+        <codelist-item status="active">
             <code>HCOD24</code>
             <name>
                 <narrative>République Démocratique du Congo Plan de Réponse Humanitaire 2024</narrative>
