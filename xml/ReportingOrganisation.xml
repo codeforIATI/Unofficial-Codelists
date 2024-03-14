@@ -2209,6 +2209,16 @@
             <codeforiati:registry-identifier>irishaid</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-9</code>
+            <name>
+                <narrative>UK - Department for Work and Pensions</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dwp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>GB-GOV-GB-9</code>
             <name>
                 <narrative>UK - Department for Work and Pensions</narrative>
@@ -12901,7 +12911,7 @@
         <codelist-item status="active">
             <code>NL-KVK-70048436</code>
             <name>
-                <narrative>Global Rights Compliance</narrative>
+                <narrative>Global Rights Compliance Foundation</narrative>
                 <narrative xml:lang="fr">Global Rights Compliance</narrative>
                 <narrative xml:lang="es">Global Rights Compliance</narrative>
                 <narrative xml:lang="pt">Global Rights Compliance</narrative>
@@ -20805,6 +20815,16 @@
             <codeforiati:registry-identifier>stichting_cd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BR-CNPJ-62579164-0001-72</code>
+            <name>
+                <narrative>Centro Brasileiro de Análise e Planejamento - Cebrap</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>_cebrap</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-34123218</code>
             <name>
                 <narrative>Rijksakademie van beeldende kunsten</narrative>
@@ -20813,6 +20833,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>rabk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-CIP-2011-003386-08</code>
+            <name>
+                <narrative>Cambridge Institute for Sustainability Leadership</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cisl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>PS-MOI-QR-0049-F</code>
