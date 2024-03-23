@@ -8926,6 +8926,16 @@
             <codeforiati:registry-identifier>mmh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-73728489</code>
+            <name>
+                <narrative>International NGO Safety Orgnisation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>inso</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>GB-CHC-1140276</code>
             <name>
                 <narrative>International NGO Safety Orgnisation</narrative>
@@ -20625,6 +20635,16 @@
             <codeforiati:registry-identifier>arasaregional</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>SO-COA-107-0081-2023</code>
+            <name>
+                <narrative>Iftiin Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iffoundation12</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-26-0126537</code>
             <name>
                 <narrative>Global Integrity</narrative>
@@ -20795,6 +20815,16 @@
             <codeforiati:registry-identifier>ipis</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XI-IATI-KHF_IFH</code>
+            <name>
+                <narrative>Institute for Family Health</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>khf_ifh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PS-TIN-888005972</code>
             <name>
                 <narrative>Water Sector Regulatory Council</narrative>
@@ -20843,6 +20873,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>cisl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-36159679</code>
+            <name>
+                <narrative>DiXi Group NGO</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dixigroup</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>PS-MOI-QR-0049-F</code>
