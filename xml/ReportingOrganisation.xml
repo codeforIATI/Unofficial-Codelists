@@ -5770,7 +5770,7 @@
         <codelist-item status="active">
             <code>NL-KVK-41215393</code>
             <name>
-                <narrative>War Child Holland</narrative>
+                <narrative>War Child Netherlands</narrative>
                 <narrative xml:lang="fr">War Child Holland</narrative>
                 <narrative xml:lang="es">War Child Holland</narrative>
                 <narrative xml:lang="pt">War Child Holland</narrative>
@@ -20775,6 +20775,16 @@
             <codeforiati:registry-identifier>adili_sh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-KRA-P052141361L</code>
+            <name>
+                <narrative>CLIMATE ACTION PLATFORM - AFRICA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cap-a</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-DUNS-645826186</code>
             <name>
                 <narrative>Shifa Tameer-e-Millat University</narrative>
@@ -20885,6 +20895,16 @@
             <codeforiati:registry-identifier>dixigroup</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-41150792</code>
+            <name>
+                <narrative>Justice &amp; Peace Netherlands</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>jp-nl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PS-MOI-QR-0049-F</code>
             <name>
                 <narrative>Welfare Association (Taawon)</narrative>
@@ -20892,7 +20912,7 @@
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
-            <codeforiati:registry-identifier>xm-dac-7-ppr-4000005167</codeforiati:registry-identifier>
+            <codeforiati:registry-identifier>welfare_taawon</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>HK-CR-2436455</code>
@@ -20903,6 +20923,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Hong Kong</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>agsollimited</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MCA-U74900TG2007NPL055085</code>
+            <name>
+                <narrative>George Institute for Global Health</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tgi_india</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
