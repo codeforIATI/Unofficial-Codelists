@@ -20925,6 +20925,16 @@
             <codeforiati:registry-identifier>agsollimited</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NL-KVK-91420784</code>
+            <name>
+                <narrative>War Child Alliance Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wcaf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>IN-MCA-U74900TG2007NPL055085</code>
             <name>
                 <narrative>George Institute for Global Health</narrative>
