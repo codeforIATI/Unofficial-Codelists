@@ -20925,6 +20925,26 @@
             <codeforiati:registry-identifier>agsollimited</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-12482833</code>
+            <name>
+                <narrative>AmplifyChange</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>amplifychange</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SZ-CIT-201710132021804</code>
+            <name>
+                <narrative>Women Unlimited Eswatini</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>eSwatini</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-91420784</code>
             <name>
                 <narrative>War Child Alliance Foundation</narrative>
