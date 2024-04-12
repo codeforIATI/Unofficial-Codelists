@@ -20885,6 +20885,16 @@
             <codeforiati:registry-identifier>cisl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-OC422288</code>
+            <name>
+                <narrative>Tropical Health Consulting</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>thc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UA-EDR-36159679</code>
             <name>
                 <narrative>DiXi Group NGO</narrative>
