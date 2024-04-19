@@ -19985,6 +19985,16 @@
             <codeforiati:registry-identifier>jrf_2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-83-2847769</code>
+            <name>
+                <narrative>60 Decibels</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>60db</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ci-moi-474-mis-dgat-dag-sdva</code>
             <name>
                 <narrative>convention de la société civile ivoirienne</narrative>
