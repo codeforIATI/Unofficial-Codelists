@@ -20405,6 +20405,16 @@
             <codeforiati:registry-identifier>et-adf-0317</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1162997</code>
+            <name>
+                <narrative>Peaceful Change initiative</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pci</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41199142</code>
             <name>
                 <narrative>Rabo Foundation</narrative>
