@@ -21014,6 +21014,16 @@
             <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sparc_iati</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-4625800</code>
+            <name>
+                <narrative>ISEAL</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iseal</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
