@@ -20535,6 +20535,16 @@
             <codeforiati:registry-identifier>fowdk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>DE-CR-RA000299-HRB20002</code>
+            <name>
+                <narrative>Solar Cooling Engineering GmbH</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Germany</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sce-gmbh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PE-SUNARP-03024345</code>
             <name>
                 <narrative>Universidad Peruana Cayetano Heredia</narrative>
@@ -20915,6 +20925,16 @@
             <codeforiati:registry-identifier>cisl</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-25</code>
+            <name>
+                <narrative>UK Department for Energy, Security and Net Zero</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>desnz</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-OC422288</code>
             <name>
                 <narrative>Tropical Health Consulting</narrative>
@@ -20965,6 +20985,16 @@
             <codeforiati:registry-identifier>agsollimited</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BD-ROC-C-150855</code>
+            <name>
+                <narrative>YY Ventures</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>yy_ventures</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-12482833</code>
             <name>
                 <narrative>AmplifyChange</narrative>
@@ -20985,6 +21015,16 @@
             <codeforiati:registry-identifier>wu</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NG-CAC-69519</code>
+            <name>
+                <narrative>Centre for Journalism Innovation and Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cjid_ng</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-91420784</code>
             <name>
                 <narrative>War Child Alliance Foundation</narrative>
@@ -20993,6 +21033,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>wcaf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>YE-MSAL-32-M-2008</code>
+            <name>
+                <narrative>Studies &amp; Economic Media Center ( SEMC)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Yemen</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>semc-yemen</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>IN-MCA-U74900TG2007NPL055085</code>
@@ -21023,6 +21073,46 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>iseal</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1174610</code>
+            <name>
+                <narrative>Think Equal UK</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>thinkequal</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-NCB-218051200301082704</code>
+            <name>
+                <narrative>Independent Medico-Legal Unit</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>imlu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PS-TIN-562780742</code>
+            <name>
+                <narrative>Talent Acceleration Platform (TAP)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Palestine, State of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tap</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-RSB-80010000758365</code>
+            <name>
+                <narrative>Innovex Uganda limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>in</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
