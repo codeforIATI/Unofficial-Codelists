@@ -18952,6 +18952,16 @@
             <codeforiati:registry-identifier>achr</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-OC359103</code>
+            <name>
+                <narrative>Boston Consulting Group UK LLP</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bcg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-CCD-58307</code>
             <name>
                 <narrative>Hiber for Electronic Media</narrative>
@@ -21084,7 +21094,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>thinkequal</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>KE-NCB-218051200301082704</code>
             <name>
                 <narrative>Independent Medico-Legal Unit</narrative>
@@ -21113,6 +21123,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>in</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ID-KHH-AHU-0000401.AH.01.07</code>
+            <name>
+                <narrative>Southeast Asia Freedom of Expression Network (SAFEnet)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>safenet</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
