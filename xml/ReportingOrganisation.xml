@@ -21025,6 +21025,16 @@
             <codeforiati:registry-identifier>wu</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BD-NAB-0004</code>
+            <name>
+                <narrative>CARE Bangladesh</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>carebd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-69519</code>
             <name>
                 <narrative>Centre for Journalism Innovation and Development</narrative>
@@ -21133,6 +21143,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>safenet</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-042241718</code>
+            <name>
+                <narrative>Education Development Center, Inc.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>edc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-08100658</code>
+            <name>
+                <narrative>Village Infrastructure Angels</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>via</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
