@@ -1786,8 +1786,8 @@
         <codelist-item status="active">
             <code>16061</code>
             <name>
-                <narrative>Culture and recreation</narrative>
-                <narrative xml:lang="fr">Culture et loisirs</narrative>
+                <narrative>Culture and cultural diversity</narrative>
+                <narrative xml:lang="fr">Culture et diversité culturelle</narrative>
                 <narrative xml:lang="es">Cultura y actividades recreativas</narrative>
                 <narrative xml:lang="pt">Cultura e lazer</narrative>
             </name>
@@ -2131,8 +2131,8 @@
         <codelist-item status="active">
             <code>22030</code>
             <name>
-                <narrative>Radio/television/print media</narrative>
-                <narrative xml:lang="fr">Radio, télévision, presse écrite</narrative>
+                <narrative>Radio, television, print and online media</narrative>
+                <narrative xml:lang="fr">Radio, télévision, médias imprimés et en ligne</narrative>
                 <narrative xml:lang="es">Medios de radio, televisión y prensa escrita</narrative>
                 <narrative xml:lang="pt">Rádio/televisão/imprensa escrita</narrative>
             </name>
