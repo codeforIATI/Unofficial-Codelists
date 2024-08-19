@@ -20775,6 +20775,16 @@
             <codeforiati:registry-identifier>rstmh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-46008</code>
+            <name>
+                <narrative>CAF Banco de Desarrollo de América Latina y el Caribe</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Venezuela (Bolivarian Republic of)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>caf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BD-ROC-S-5933</code>
             <name>
                 <narrative>University of Liberal Arts Bangladesh</narrative>
@@ -21243,6 +21253,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>acs_group</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE-390.672.238</code>
+            <name>
+                <narrative>NatureFinance</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nf2022</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
