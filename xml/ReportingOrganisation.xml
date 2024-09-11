@@ -20505,6 +20505,16 @@
             <codeforiati:registry-identifier>svrg</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-47-4606264</code>
+            <name>
+                <narrative>Hala Systems, Inc.</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hala_systems</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>LB-MOI-2402520</code>
             <name>
                 <narrative>SMEX</narrative>
@@ -20823,6 +20833,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Bolivia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>conexionla</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NG-CAC-1075488</code>
+            <name>
+                <narrative>Nevadic Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nvd_12</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>KE-KRA-P051883897F</code>
@@ -21215,6 +21235,16 @@
             <codeforiati:registry-identifier>in</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-OCHA-HPC8773</code>
+            <name>
+                <narrative>Education Cannot Wait</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ecw</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ID-KHH-AHU-0000401.AH.01.07</code>
             <name>
                 <narrative>Southeast Asia Freedom of Expression Network (SAFEnet)</narrative>
@@ -21255,6 +21285,16 @@
             <codeforiati:registry-identifier>acs_group</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-47-2326975</code>
+            <name>
+                <narrative>Cadasta Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cadasta</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>CH-FDJP-CHE-390.672.238</code>
             <name>
                 <narrative>NatureFinance</narrative>
@@ -21263,6 +21303,46 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>nf2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1174115</code>
+            <name>
+                <narrative>The Conflict and Environment Observatory</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ceobs</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-RCO-PVT-2016-025726</code>
+            <name>
+                <narrative>Apollo Agriculture</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>apolloagriculture</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>JO-CCD-181612</code>
+            <name>
+                <narrative>Sharkit Al Manhajyah Lelestsharat Al Tasweeqyeh</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mset</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>KE-RCO-BN-J9S5BMEB</code>
+            <name>
+                <narrative>Ecovega Enterprises</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ecovega</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
