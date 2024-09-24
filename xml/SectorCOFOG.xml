@@ -109,7 +109,7 @@
                 <narrative>Education</narrative>
             </codeforiati:group-name>
             <codeforiati:cofog-class>09.1.2 - Primary education (IS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>09.1 - Preâprimary and primary education</codeforiati:cofog-group>
+            <codeforiati:cofog-group>09.1 - Pre‐primary and primary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -149,7 +149,7 @@
                 <narrative>Education</narrative>
             </codeforiati:group-name>
             <codeforiati:cofog-class>09.1.2 - Primary education (IS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>09.1 - Preâprimary and primary education</codeforiati:cofog-group>
+            <codeforiati:cofog-group>09.1 - Pre‐primary and primary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -169,7 +169,7 @@
                 <narrative>Education</narrative>
             </codeforiati:group-name>
             <codeforiati:cofog-class>09.1.2 - Primary education (IS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>09.1 - Preâprimary and primary education</codeforiati:cofog-group>
+            <codeforiati:cofog-group>09.1 - Pre‐primary and primary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -188,8 +188,8 @@
             <codeforiati:group-name>
                 <narrative>Education</narrative>
             </codeforiati:group-name>
-            <codeforiati:cofog-class>09.1.1 - Preâprimary education (IS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>09.1 - Preâprimary and primary education</codeforiati:cofog-group>
+            <codeforiati:cofog-class>09.1.1 - Pre‐primary education (IS)</codeforiati:cofog-class>
+            <codeforiati:cofog-group>09.1 - Pre‐primary and primary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -228,7 +228,7 @@
             <codeforiati:group-name>
                 <narrative>Education</narrative>
             </codeforiati:group-name>
-            <codeforiati:cofog-class>09.2.1 - Lowerâsecondary education (IS)</codeforiati:cofog-class>
+            <codeforiati:cofog-class>09.2.1 - Lower‐secondary education (IS)</codeforiati:cofog-class>
             <codeforiati:cofog-group>09.2 - Secondary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
@@ -248,7 +248,7 @@
             <codeforiati:group-name>
                 <narrative>Education</narrative>
             </codeforiati:group-name>
-            <codeforiati:cofog-class>09.2.2 - Upperâsecondary education (IS)</codeforiati:cofog-class>
+            <codeforiati:cofog-class>09.2.2 - Upper‐secondary education (IS)</codeforiati:cofog-class>
             <codeforiati:cofog-group>09.2 - Secondary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
@@ -308,8 +308,8 @@
             <codeforiati:group-name>
                 <narrative>Education</narrative>
             </codeforiati:group-name>
-            <codeforiati:cofog-class>09.3.0 - Postâsecondary nonâtertiary education (IS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>09.3 - Postâsecondary nonâtertiary education</codeforiati:cofog-group>
+            <codeforiati:cofog-class>09.3.0 - Post‐secondary non‐tertiary education (IS)</codeforiati:cofog-class>
+            <codeforiati:cofog-group>09.3 - Post‐secondary non‐tertiary education</codeforiati:cofog-group>
             <codeforiati:cofog-division>09 - Education</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -478,7 +478,7 @@
                 <narrative>Infectious disease control</narrative>
             </name>
             <description>
-                <narrative>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), COVID-19 (12264), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm),Â viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</narrative>
+                <narrative>Immunisation; prevention and control of infectious and parasite diseases, except malaria (12262), tuberculosis (12263), COVID-19 (12264), HIV/AIDS and other STDs (13040). It includes diarrheal diseases, vector-borne diseases (e.g. river blindness and guinea worm), viral diseases, mycosis, helminthiasis, zoonosis, diseases by other bacteria and viruses, pediculosis, etc.</narrative>
             </description>
             <codeforiati:category-code>122</codeforiati:category-code>
             <codeforiati:category-name>
@@ -655,7 +655,7 @@
         <codelist-item status="active">
             <code>12340</code>
             <name>
-                <narrative>Promotion of mental health and well-beingÂ </narrative>
+                <narrative>Promotion of mental health and well-being </narrative>
             </name>
             <description>
                 <narrative>Promotion of programmes and interventions which support mental health and well-being resiliency; prevention, care and support to individuals vulnerable to suicide. Excluding treatment of addiction to tobacco, alcohol and drugs (included in codes 12320 and 12330).</narrative>
@@ -1437,8 +1437,8 @@
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
             </codeforiati:group-name>
-            <codeforiati:cofog-class>03.2.0 - Fireâprotection services (CS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>03.2 - Fireâprotection services</codeforiati:cofog-group>
+            <codeforiati:cofog-class>03.2.0 - Fire‐protection services (CS)</codeforiati:cofog-class>
+            <codeforiati:cofog-group>03.2 - Fire‐protection services</codeforiati:cofog-group>
             <codeforiati:cofog-division>03 - Public order and safety</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -1801,7 +1801,7 @@
                 <narrative>Facilitation of orderly, safe, regular and responsible migration and mobility</narrative>
             </name>
             <description>
-                <narrative>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:â¢ Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.â¢ Measures to improve migrant labour recruitment systems in developing countries.â¢ Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.â¢ Support to effective strategies to ensure international protection and the right to asylum.â¢ Support to effective strategies to ensure access to justice and assistance for displaced persons.â¢ Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).â¢ Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers' interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</narrative>
+                <narrative>Assistance to developing countries that facilitates the orderly, safe, regular and responsible migration and mobility of people. This includes:• Capacity building in migration and mobility policy, analysis, planning and management. This includes support to facilitate safe and regular migration and address irregular migration, engagement with diaspora and programmes enhancing the development impact of remittances and/or their use for developmental projects in developing countries.• Measures to improve migrant labour recruitment systems in developing countries.• Capacity building for strategy and policy development as well as legal and judicial development (including border management) in developing countries. This includes support to address and reduce vulnerabilities in migration, and strengthen the transnational response to smuggling of migrants and preventing and combating trafficking in human beings.• Support to effective strategies to ensure international protection and the right to asylum.• Support to effective strategies to ensure access to justice and assistance for displaced persons.• Assistance to migrants for their safe, dignified, informed and voluntary return to their country of origin (covers only returns from another developing country; assistance to forced returns is excluded from ODA).• Assistance to migrants for their sustainable reintegration in their country of origin (use code 93010 for pre-departure assistance provided in donor countries in the context of voluntary returns). Activities that pursue first and foremost providers' interest are excluded from ODA. Activities addressing the root causes of forced displacement and irregular migration should not be coded here, but under their relevant sector of intervention. In addition, use code 15136 for support to countries' authorities for immigration affairs and services (optional), code 24050 for programmes aiming at reducing the sending costs of remittances, code 72010 for humanitarian aspects of assistance to refugees and internally displaced persons (IDPs) such as delivery of emergency services and humanitarian protection. Use code 93010 when expenditure is for the temporary sustenance of refugees in the donor country, including for their voluntary return and for their reintegration when support is provided in a donor country in connection with the return from that donor country (i.e. pre-departure assistance), or voluntary resettlement in a third developed country.</narrative>
             </description>
             <codeforiati:category-code>151</codeforiati:category-code>
             <codeforiati:category-name>
@@ -1901,7 +1901,7 @@
                 <narrative>Reintegration and SALW control</narrative>
             </name>
             <description>
-                <narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) â see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
+                <narrative>Reintegration of demobilised military personnel into the economy; conversion of production facilities from military to civilian outputs; technical co-operation to control, prevent and/or reduce the proliferation of small arms and light weapons (SALW) – see para. 80 of the Directives for definition of SALW activities covered. [Other than in the context of an international peacekeeping operation (15230) or child soldiers (15261)].</narrative>
             </description>
             <codeforiati:category-code>152</codeforiati:category-code>
             <codeforiati:category-name>
@@ -1931,8 +1931,8 @@
             <codeforiati:group-name>
                 <narrative>Government &amp; Civil Society</narrative>
             </codeforiati:group-name>
-            <codeforiati:cofog-class>03.2.0 - Fireâprotection services (CS)</codeforiati:cofog-class>
-            <codeforiati:cofog-group>03.2 - Fireâprotection services</codeforiati:cofog-group>
+            <codeforiati:cofog-class>03.2.0 - Fire‐protection services (CS)</codeforiati:cofog-class>
+            <codeforiati:cofog-group>03.2 - Fire‐protection services</codeforiati:cofog-group>
             <codeforiati:cofog-division>03 - Public order and safety</codeforiati:cofog-division>
         </codelist-item>
         <codelist-item status="active">
@@ -1941,7 +1941,7 @@
                 <narrative>Child soldiers (prevention and demobilisation)</narrative>
             </name>
             <description>
-                <narrative>Technical co-operation provided to government â and assistance to civil society organisations â to support and apply legislation designed to prevent the recruitment of child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR) child soldiers.</narrative>
+                <narrative>Technical co-operation provided to government – and assistance to civil society organisations – to support and apply legislation designed to prevent the recruitment of child soldiers, and to demobilise, disarm, reintegrate, repatriate and resettle (DDR) child soldiers.</narrative>
             </description>
             <codeforiati:category-code>152</codeforiati:category-code>
             <codeforiati:category-name>
@@ -5328,7 +5328,7 @@
                 <narrative>Refugees/asylum seekers in donor countries - food and shelter</narrative>
             </name>
             <description>
-                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months â food and shelter: - Food and other essential temporary sustenance provisions such as clothing. - Temporary accommodation facilities (e.g. reception centres, containers, tent camps). In respect of buildings, only the costs of maintenance and upkeep may be reported as ODA. The cost of renting temporary accommodation facilities is eligible. (All construction costs are excluded).</narrative>
+                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – food and shelter: - Food and other essential temporary sustenance provisions such as clothing. - Temporary accommodation facilities (e.g. reception centres, containers, tent camps). In respect of buildings, only the costs of maintenance and upkeep may be reported as ODA. The cost of renting temporary accommodation facilities is eligible. (All construction costs are excluded).</narrative>
             </description>
             <codeforiati:category-code/>
             <codeforiati:group-code>930</codeforiati:group-code>
@@ -5345,7 +5345,7 @@
                 <narrative>Refugees/asylum seekers in donor countries - training</narrative>
             </name>
             <description>
-                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months â training: - Early childhood education, primary and secondary education for children (this includes school costs but excludes vocational training), as part of temporary sustenance. - Language training and other ad-hoc basic training for refugees e.g. basic life skills for youth and adults (literacy and numeracy training).</narrative>
+                <narrative>Costs incurred in donor countries for basic assistance to asylum seekers and refugees from developing countries, up to 12 months – training: - Early childhood education, primary and secondary education for children (this includes school costs but excludes vocational training), as part of temporary sustenance. - Language training and other ad-hoc basic training for refugees e.g. basic life skills for youth and adults (literacy and numeracy training).</narrative>
             </description>
             <codeforiati:category-code/>
             <codeforiati:group-code>930</codeforiati:group-code>
