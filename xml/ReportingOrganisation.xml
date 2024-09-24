@@ -20555,6 +20555,16 @@
             <codeforiati:registry-identifier>fowdk</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-CHE455926653</code>
+            <name>
+                <narrative>ILGA World</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ilgaworld</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>DE-CR-RA000299-HRB20002</code>
             <name>
                 <narrative>Solar Cooling Engineering GmbH</narrative>
@@ -21253,6 +21263,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>safenet</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GH-RGD-ET000570722</code>
+            <name>
+                <narrative>IDH THE SUSTAINABLE TRADE INITIATIVE</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>idh-ghana</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-042241718</code>
