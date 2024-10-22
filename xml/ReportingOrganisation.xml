@@ -15321,6 +15321,16 @@
             <codeforiati:registry-identifier>phfi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-07171834</code>
+            <name>
+                <narrative>TAG International Development Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>taginternational</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-UKPRN-10007801</code>
             <name>
                 <narrative>University of Plymouth</narrative>
@@ -15430,6 +15440,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Jordan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>josa</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-53-0196584</code>
+            <name>
+                <narrative>The George Washington University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gwu_gwi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-30238214</code>
@@ -20865,6 +20885,16 @@
             <codeforiati:registry-identifier>adili_sh</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1030884</code>
+            <name>
+                <narrative>The Wildfowl and Wetlands Trust</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gb-chc-1030884</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P052141361L</code>
             <name>
                 <narrative>CLIMATE ACTION PLATFORM - AFRICA</narrative>
@@ -20873,6 +20903,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>cap-a</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOR-PB508</code>
+            <name>
+                <narrative>Royal Botanic Gardens Kew</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rbg_kew</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XI-DUNS-645826186</code>
@@ -20995,6 +21035,16 @@
             <codeforiati:registry-identifier>thc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>YE-CR-17952</code>
+            <name>
+                <narrative>DeepRoot Consulting</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Yemen</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>dr</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>UA-EDR-36159679</code>
             <name>
                 <narrative>DiXi Group NGO</narrative>
@@ -21013,6 +21063,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>jp-nl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-NGO-INDR45161196NB</code>
+            <name>
+                <narrative>African Centre for Trade and Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>actade</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-GOV-26</code>
@@ -21265,6 +21325,16 @@
             <codeforiati:registry-identifier>safenet</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>NG-CAC-6896199</code>
+            <name>
+                <narrative>Obodo Centre for Advocacy and Equal Rights</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>obodo_ng</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-RGD-ET000570722</code>
             <name>
                 <narrative>IDH THE SUSTAINABLE TRADE INITIATIVE</narrative>
@@ -21305,6 +21375,16 @@
             <codeforiati:registry-identifier>acs_group</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>UG-RSB-125289</code>
+            <name>
+                <narrative>PCP Uganda Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pcp-ug_125289</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>US-EIN-47-2326975</code>
             <name>
                 <narrative>Cadasta Foundation</narrative>
@@ -21323,6 +21403,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>nf2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>RW-RRA-121040504</code>
+            <name>
+                <narrative>Africa Climate Ventures</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Rwanda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>acv</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1174115</code>
@@ -21355,6 +21445,16 @@
             <codeforiati:registry-identifier>mset</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MU-CR-C191439</code>
+            <name>
+                <narrative>West Africa Blue</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mauritius</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>blue</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-RCO-BN-J9S5BMEB</code>
             <name>
                 <narrative>Ecovega Enterprises</narrative>
@@ -21363,6 +21463,26 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ecovega</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1191805</code>
+            <name>
+                <narrative>Small International Development Charities Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sidcn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-27364265</code>
+            <name>
+                <narrative>Technische Universiteit Delft</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nl_tud</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
