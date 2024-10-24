@@ -21415,6 +21415,16 @@
             <codeforiati:registry-identifier>acv</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ID-DJP-016993966411000</code>
+            <name>
+                <narrative>Center for the Study of Islam and Society (PPIM)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ppim</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1174115</code>
             <name>
                 <narrative>The Conflict and Environment Observatory</narrative>
@@ -21483,6 +21493,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>nl_tud</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-RUE-90020089</code>
+            <name>
+                <narrative>Fundacion Pacto Especializada en el Apoyo de Iniciativas Sociales</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>feadin</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
