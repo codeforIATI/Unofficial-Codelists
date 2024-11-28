@@ -2966,7 +2966,7 @@
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>lepra</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>NL-KVK-51018586</code>
             <name>
                 <narrative>Zimmerman Zimmerman</narrative>
@@ -11169,6 +11169,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>civic_admin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-RC000672</code>
+            <name>
+                <narrative>University of Sussex</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uos</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1047653</code>
@@ -21315,6 +21325,16 @@
             <codeforiati:registry-identifier>ecw</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-EIN-46-3995547</code>
+            <name>
+                <narrative>International Budget Partnership</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ibp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>ID-KHH-AHU-0000401.AH.01.07</code>
             <name>
                 <narrative>Southeast Asia Freedom of Expression Network (SAFEnet)</narrative>
@@ -21415,6 +21435,16 @@
             <codeforiati:registry-identifier>acv</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ID-DJP-016993966411000</code>
+            <name>
+                <narrative>Center for the Study of Islam and Society (PPIM)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ppim</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1174115</code>
             <name>
                 <narrative>The Conflict and Environment Observatory</narrative>
@@ -21465,6 +21495,26 @@
             <codeforiati:registry-identifier>ecovega</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AU-ABN-94642321640</code>
+            <name>
+                <narrative>Conciliation Resources Australia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Australia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cra</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802401-6134</code>
+            <name>
+                <narrative>The Kvinna till Kvinna Foundation - Head Office</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ktk_ho</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1191805</code>
             <name>
                 <narrative>Small International Development Charities Network</narrative>
@@ -21475,6 +21525,16 @@
             <codeforiati:registry-identifier>sidcn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-14411359</code>
+            <name>
+                <narrative>Chemonics Group UK Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>chemonics_uk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-27364265</code>
             <name>
                 <narrative>Technische Universiteit Delft</narrative>
@@ -21483,6 +21543,106 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>nl_tud</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-6602621019-7</code>
+            <name>
+                <narrative>Fight for Humanity</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ffh</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CO-RUE-90020089</code>
+            <name>
+                <narrative>Fundacion Pacto Especializada en el Apoyo de Iniciativas Sociales</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Colombia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>feadin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BF-MATD-1131</code>
+            <name>
+                <narrative>Association African Solidarité (AAS)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burkina Faso</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>240001090</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EG-CR-42812</code>
+            <name>
+                <narrative>Outreach Egypt</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Egypt</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>outreach_egypt</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-04481639</code>
+            <name>
+                <narrative>Alinea International Ltd. UK</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>alinea_uk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BF-MATD-118884808RR0001</code>
+            <name>
+                <narrative>Radios Rurales Internationales</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burkina Faso</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bfrri</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-UKPRN-10007789</code>
+            <name>
+                <narrative>University of East Anglia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>uea_uk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-UKPRN-10000824</code>
+            <name>
+                <narrative>Bournemouth University Higher Education Corporation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bournemouth_university</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BD-NAB-557</code>
+            <name>
+                <narrative>The Hunger Project Bangladesh</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Bangladesh</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>thpdb</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UG-NGO-INDR21712234NB</code>
+            <name>
+                <narrative>Uganda National NGO Forum</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ngoforum_01</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
