@@ -21644,6 +21644,16 @@
             <codeforiati:hq-country-or-region>Uganda</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ngoforum_01</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-NPO-IT7504-1992-PMB</code>
+            <name>
+                <narrative>ACCORD</narrative>
+            </name>
+            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>accord_2024</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
