@@ -6665,7 +6665,7 @@
         <codelist-item status="active">
             <code>NL-KvK-41177601</code>
             <name>
-                <narrative>Mondiaal FNV</narrative>
+                <narrative>Mondiaal FNV (Stichting)</narrative>
                 <narrative xml:lang="fr">Mondiaal FNV</narrative>
                 <narrative xml:lang="es">Mondiaal FNV</narrative>
                 <narrative xml:lang="pt">Mondiaal FNV</narrative>
@@ -18348,6 +18348,16 @@
             <codeforiati:registry-identifier>eabx</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-CHC-1144091</code>
+            <name>
+                <narrative>Nesta</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nesta</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-NIC-073343</code>
             <name>
                 <narrative>Global Fund for Community Foundations</narrative>
@@ -21445,6 +21455,16 @@
             <codeforiati:registry-identifier>ppim</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CA-CC-020387-4</code>
+            <name>
+                <narrative>Equality Fund</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ef</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-CHC-1174115</code>
             <name>
                 <narrative>The Conflict and Environment Observatory</narrative>
@@ -21585,6 +21605,16 @@
             <codeforiati:registry-identifier>outreach_egypt</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-KRA-P052193943Z</code>
+            <name>
+                <narrative>Nairobi Climate Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>theclimatenetwork</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-04481639</code>
             <name>
                 <narrative>Alinea International Ltd. UK</narrative>
@@ -21653,6 +21683,16 @@
             <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>accord_2024</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-DAC-962</code>
+            <name>
+                <narrative>UN Trade and Development</narrative>
+            </name>
+            <codeforiati:organisation-type-code>40</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>unctad</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
