@@ -7251,7 +7251,7 @@
         <codelist-item status="active">
             <code>GB-CHC-228248</code>
             <name>
-                <narrative>ODI</narrative>
+                <narrative>ODI Global</narrative>
                 <narrative xml:lang="fr">Institut de développement d’outre-mer (Overseas Development Institute, ODI)</narrative>
                 <narrative xml:lang="es">Instituto de Desarrollo de Ultramar</narrative>
                 <narrative xml:lang="pt">Overseas Development Institute</narrative>
@@ -18510,6 +18510,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>su-impala</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-RC000668</code>
+            <name>
+                <narrative>University of Southampton</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>soton</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NG-CAC-37051</code>
