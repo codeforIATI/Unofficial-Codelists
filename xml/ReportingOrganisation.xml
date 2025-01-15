@@ -20665,6 +20665,16 @@
             <codeforiati:registry-identifier>lvct</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-47149</code>
+            <name>
+                <narrative>International Commission on Missing Persons</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>icmp</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P052188980R</code>
             <name>
                 <narrative>BFA Global Kenya Ltd</narrative>
@@ -21703,6 +21713,16 @@
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>unctad</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-ROR-01wk3d929</code>
+            <name>
+                <narrative>Universitas Brawijaya</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>medicine_ub</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
