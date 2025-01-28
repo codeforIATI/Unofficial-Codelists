@@ -3005,7 +3005,7 @@
         <codelist-item status="active">
             <code>DAC-1601</code>
             <name>
-                <narrative>Bill &amp; Melinda Gates Foundation</narrative>
+                <narrative>Gates Foundation</narrative>
                 <narrative xml:lang="fr">Fondation Bill et Melinda Gates</narrative>
                 <narrative xml:lang="es">Fundación Bill y Melinda Gates</narrative>
                 <narrative xml:lang="pt">Fundação Bill &amp; Melinda Gates</narrative>
@@ -21283,6 +21283,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sparc_iati</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NL-KVK-75373750</code>
+            <name>
+                <narrative>Institute for Community Based Sociotherapy</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ic-bs_24</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PK-NTN-2158581-4</code>
+            <name>
+                <narrative>Shirkat Gah-Women's Resource Centre</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>shirkatgah</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>NL-KVK-81042582</code>
