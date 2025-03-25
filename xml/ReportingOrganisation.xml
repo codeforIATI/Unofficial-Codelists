@@ -3974,7 +3974,7 @@
         <codelist-item status="active">
             <code>NL-KVK-41150298</code>
             <name>
-                <narrative>Amref Flying Doctors</narrative>
+                <narrative>Amref Health Africa NL</narrative>
                 <narrative xml:lang="fr">Amref Flying Doctors</narrative>
                 <narrative xml:lang="es">AMREF Flying Doctors</narrative>
                 <narrative xml:lang="pt">Amref Flying Doctors</narrative>
@@ -12203,6 +12203,16 @@
             <codeforiati:registry-identifier>fundacion-acceso</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-23</code>
+            <name>
+                <narrative>United States Federal Trade Commission</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ftc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>US-GOV-TBD</code>
             <name>
                 <narrative>United States Federal Trade Commission</narrative>
@@ -16315,6 +16325,16 @@
             <codeforiati:registry-identifier>nacgond-</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>US-GOV-13</code>
+            <name>
+                <narrative>United States African Development Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>usadf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="withdrawn">
             <code>US-GOV-13-ADF</code>
             <name>
                 <narrative>United States African Development Foundation</narrative>
@@ -20675,6 +20695,16 @@
             <codeforiati:registry-identifier>icmp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-UKPRN-10007786</code>
+            <name>
+                <narrative>University of Bristol</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>unibristol</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P052188980R</code>
             <name>
                 <narrative>BFA Global Kenya Ltd</narrative>
@@ -20823,6 +20853,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ptarupidn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-12675400</code>
+            <name>
+                <narrative>Centre for Information Resilience</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cir</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BR-CNPJ-30619995-0001-34</code>
@@ -21025,6 +21065,16 @@
             <codeforiati:registry-identifier>stichting_cd</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-05572704</code>
+            <name>
+                <narrative>ACER International UK Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>aceruk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BR-CNPJ-62579164-0001-72</code>
             <name>
                 <narrative>Centro Brasileiro de Análise e Planejamento - Cebrap</narrative>
@@ -21143,6 +21193,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Madagascar</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pjl</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>YE-MSAL-19</code>
+            <name>
+                <narrative>Resonate! Yemen</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Yemen</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rymn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-COH-02412299</code>
@@ -21405,6 +21465,26 @@
             <codeforiati:registry-identifier>obodo_ng</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MHA-083930308</code>
+            <name>
+                <narrative>Mahila Sarvangeen Utkarsh Mandal, Pune, India</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>masumpune_87</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MW-NBM-NGO-L-13-059</code>
+            <name>
+                <narrative>Women's Legal Resources Centre</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Malawi</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wolrec</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GH-RGD-ET000570722</code>
             <name>
                 <narrative>IDH THE SUSTAINABLE TRADE INITIATIVE</narrative>
@@ -21463,6 +21543,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>cadasta</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BI-NIF-4001458845</code>
+            <name>
+                <narrative>Association des Jeunes Burundais pour le Développement Inclusif (AJEBUDI-YAGA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Burundi</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ajebudi_2024</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>CH-FDJP-CHE-390.672.238</code>
@@ -21573,6 +21663,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ktk_ho</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CA-CRA_ACR-827142530RR0001</code>
+            <name>
+                <narrative>Rainbow Railroad</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rr_qfdi</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-1191805</code>
@@ -21725,6 +21825,26 @@
             <codeforiati:registry-identifier>accord_2024</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ZA-CIP-1997-015443-07</code>
+            <name>
+                <narrative>Wits Health Consortium (Pty) Ltd</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>whc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1186748</code>
+            <name>
+                <narrative>Neotree</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>nt_2024</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XM-DAC-962</code>
             <name>
                 <narrative>UN Trade and Development</narrative>
@@ -21735,6 +21855,26 @@
             <codeforiati:registry-identifier>unctad</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AR-CUIT-30-70806240-1</code>
+            <name>
+                <narrative>Institute for Clinical Effectiveness and Health Policy</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Argentina</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iecs-2024</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GT-RPJ-21339045</code>
+            <name>
+                <narrative>Fundación de Antropología Forense de Guatemala</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Guatemala</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fafg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-ROR-01wk3d929</code>
             <name>
                 <narrative>Universitas Brawijaya</narrative>
@@ -21743,6 +21883,176 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Indonesia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>medicine_ub</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PE-SUNARP-11582738</code>
+            <name>
+                <narrative>Universidad Cientifica del Sur</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Peru</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cientifica-pe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>PK-VSWA-2028-2002</code>
+            <name>
+                <narrative>Blue Veins</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bveins</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-13697512</code>
+            <name>
+                <narrative>2X Global Limited</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>2xglobal</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-24719411</code>
+            <name>
+                <narrative>ARGUS, Company with Foreign Capital</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>argus_kyiv</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-210639</code>
+            <name>
+                <narrative>The Royal United Services Institute for Defence and Security Studies</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rusi</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-HPC1888</code>
+            <name>
+                <narrative>Rainwater Association of Somalia-RAAS</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>inforaas</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-HPC6052</code>
+            <name>
+                <narrative>Himilo Relief and Development Association (HIRDA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hirda</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BE-BCE_KBO-0665.649.335</code>
+            <name>
+                <narrative>Seefar Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>seefarfoundation</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-HPC5902</code>
+            <name>
+                <narrative>PHYSICIANS ACROSS CONTINENTS (PAC)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>pac_som</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-HPC3382</code>
+            <name>
+                <narrative>Somali Community Concern</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>scc_2025</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SO-COA-107-0079-2025</code>
+            <name>
+                <narrative>Kaalmo Relief and Development Organization (KARDO AID)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kardo-somalia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XM-OCHA-HPC10477</code>
+            <name>
+                <narrative>Somali Women Vision</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Somalia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>swvsom</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-08524506</code>
+            <name>
+                <narrative>Common Seas CIC</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>commonseas</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MHA-5897</code>
+            <name>
+                <narrative>The Leprosy Mission Trust India</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tlmti</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GH-RGD-CG016822016</code>
+            <name>
+                <narrative>Center for Democratic Development Ghana</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ghana</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cdd_admin</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-03591514</code>
+            <name>
+                <narrative>THE LEPROSY MISSION INTERNATIONAL</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>tlm_io</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BR-CNPJ-45358058000140</code>
+            <name>
+                <narrative>Universidade Federal de São Carlos - UFSCar</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ufscar_brasil</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
