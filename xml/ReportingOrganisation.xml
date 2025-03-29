@@ -21145,6 +21145,16 @@
             <codeforiati:registry-identifier>dixigroup</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>TN-RNE-1526532C</code>
+            <name>
+                <narrative>Wallah We Can</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tunisia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwc_27068084</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41150792</code>
             <name>
                 <narrative>Justice &amp; Peace Netherlands</narrative>
@@ -21885,6 +21895,16 @@
             <codeforiati:registry-identifier>medicine_ub</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-27</code>
+            <name>
+                <narrative>Ministry for Housing Communities and Local Government</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mhclg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PE-SUNARP-11582738</code>
             <name>
                 <narrative>Universidad Cientifica del Sur</narrative>
@@ -21903,6 +21923,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Pakistan</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>bveins</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AT-ZVR-482616437</code>
+            <name>
+                <narrative>HOPE'87 - Hundreds of Original Projects for Employment</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Austria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hope87</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-COH-13697512</code>
@@ -22043,6 +22073,16 @@
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>tlm_io</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE109810537</code>
+            <name>
+                <narrative>Fondation suisse de déminage (FSD)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fsd-switzerland_2025</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BR-CNPJ-45358058000140</code>
