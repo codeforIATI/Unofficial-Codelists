@@ -5588,7 +5588,7 @@
         <codelist-item status="active">
             <code>GB-COH-02768268</code>
             <name>
-                <narrative>Nathan Associates London Ltd.</narrative>
+                <narrative>Cadmus International UK Limited</narrative>
                 <narrative xml:lang="fr">Nathan Associates London Ltd.</narrative>
                 <narrative xml:lang="es">Nathan Associates London Ltd.</narrative>
                 <narrative xml:lang="pt">Nathan Associates London Ltd.</narrative>
@@ -8932,7 +8932,7 @@
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
-            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>inso</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
@@ -21145,6 +21145,16 @@
             <codeforiati:registry-identifier>dixigroup</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>TN-RNE-1526532C</code>
+            <name>
+                <narrative>Wallah We Can</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tunisia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>wwc_27068084</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NL-KVK-41150792</code>
             <name>
                 <narrative>Justice &amp; Peace Netherlands</narrative>
@@ -21223,6 +21233,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Hong Kong</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>agsollimited</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FR-RCS-53119997400027</code>
+            <name>
+                <narrative>Première Urgence Internationale</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>France</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>premiere-urgence</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BD-ROC-C-150855</code>
@@ -21885,6 +21905,16 @@
             <codeforiati:registry-identifier>medicine_ub</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-GOV-27</code>
+            <name>
+                <narrative>Ministry for Housing Communities and Local Government</narrative>
+            </name>
+            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mhclg</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>PE-SUNARP-11582738</code>
             <name>
                 <narrative>Universidad Cientifica del Sur</narrative>
@@ -21905,6 +21935,26 @@
             <codeforiati:registry-identifier>bveins</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>AT-ZVR-482616437</code>
+            <name>
+                <narrative>HOPE'87 - Hundreds of Original Projects for Employment</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Austria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>hope87</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GE-NAPR-367</code>
+            <name>
+                <narrative>Curatio International Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Georgia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>curatio</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-13697512</code>
             <name>
                 <narrative>2X Global Limited</narrative>
@@ -21923,6 +21973,16 @@
             <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>argus_kyiv</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CA-CRA_ACR-892100884</code>
+            <name>
+                <narrative>Commonwealth of Learning</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Canada</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>col</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>GB-CHC-210639</code>
@@ -22045,6 +22105,16 @@
             <codeforiati:registry-identifier>tlm_io</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>CH-FDJP-CHE109810537</code>
+            <name>
+                <narrative>Fondation suisse de déminage (FSD)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fsd-switzerland_2025</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BR-CNPJ-45358058000140</code>
             <name>
                 <narrative>Universidade Federal de São Carlos - UFSCar</narrative>
@@ -22053,6 +22123,26 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Brazil</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ufscar_brasil</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>US-EIN-113816205</code>
+            <name>
+                <narrative>Independent Diplomat</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>independent_diplomat</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1159483</code>
+            <name>
+                <narrative>Start Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>start-network</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
