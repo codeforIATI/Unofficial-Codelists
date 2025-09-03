@@ -20265,6 +20265,16 @@
             <codeforiati:registry-identifier>t2p</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>XM-DAC-47062</code>
+            <name>
+                <narrative>International Institute of Tropical Agriculture (IITA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Nigeria</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iita_2022</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>JO-COA-0301-57112</code>
             <name>
                 <narrative>Inter Islamic Network for Water Resources Development and Management</narrative>
@@ -21615,6 +21625,16 @@
             <codeforiati:registry-identifier>via</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-05380206</code>
+            <name>
+                <narrative>Joint Nature Conservation Committee</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>jncc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-02525806</code>
             <name>
                 <narrative>Air Charter Service Group Ltd</narrative>
@@ -22533,6 +22553,16 @@
             <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Netherlands</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>clim-eat</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-COH-08195029</code>
+            <name>
+                <narrative>Environmental Finance Limited, trading as Finance Earth</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>finance_earth</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>US-EIN-52-1780162</code>
