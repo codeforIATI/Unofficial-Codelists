@@ -22634,6 +22634,16 @@
             <codeforiati:hq-country-or-region>United States</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>ef-2025</codeforiati:registry-identifier>
         </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-42661077</code>
+            <name>
+                <narrative>Consumer society IMTD-INTERNATIONAL</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>imtd_int_11</codeforiati:registry-identifier>
+        </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
             <name>
