@@ -20785,6 +20785,16 @@
             <codeforiati:registry-identifier>ifes</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>GB-COH-46049</code>
+            <name>
+                <narrative>test dave</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>testdave</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-KRA-P052007235U</code>
             <name>
                 <narrative>Imfact Working Capital Solutions Limited</narrative>
@@ -22585,6 +22595,16 @@
             <codeforiati:registry-identifier>piermarc</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>ET-CSA-1560</code>
+            <name>
+                <narrative>Ethiopian Orthodox Church, Developement and Inter Church Aid Commssion (EOC-DICAC)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ethiopia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eocdicac</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>KE-RCO-CPR-2014-161876</code>
             <name>
                 <narrative>Millennium Water Alliance Kenya</narrative>
@@ -22675,6 +22695,16 @@
             <codeforiati:registry-identifier>imtd_int_11</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>TR-VKN-4940457659</code>
+            <name>
+                <narrative>KAMER Women's Centre Education, Production, Consultation and Solidarity Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>(No country assigned)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kamer</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>GB-COH-00559784</code>
             <name>
                 <narrative>The Pirbright Institute</narrative>
@@ -22683,6 +22713,16 @@
             <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>pirbright_institute</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-COA-44916875</code>
+            <name>
+                <narrative>СНАRITABLE ORGANIZATHION «СНАRITABLE FOUNDATHION «VERITAS SPES+ UKRAINE»</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>vs</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-ON-802002-3209</code>
