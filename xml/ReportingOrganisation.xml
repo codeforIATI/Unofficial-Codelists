@@ -22545,6 +22545,16 @@
             <codeforiati:registry-identifier>fonplata</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>BJ-IFU-6201002029400</code>
+            <name>
+                <narrative>Centre de recherche en reproduction humaine et en démographie</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cerrhud</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>BF-MATD-N4217</code>
             <name>
                 <narrative>Association Burkinabè pour le Bien Etre Familial Burkina Faso</narrative>
@@ -22763,6 +22773,36 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>smc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MZ-MOJ-105040119</code>
+            <name>
+                <narrative>HelpAge Mozambique</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ham</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TZ-NNCB-INGO-R1-00149</code>
+            <name>
+                <narrative>Global Communities</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tanzania, United Republic of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gc_tanzania</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE259180555</code>
+            <name>
+                <narrative>Rift Partners GmbH</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rift_partners</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
