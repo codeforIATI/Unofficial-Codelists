@@ -330,7 +330,7 @@
             <codeforiati:plan-start-date>2025-01-01</codeforiati:plan-start-date>
             <codeforiati:plan-end-date>2025-12-31</codeforiati:plan-end-date>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>FSYR25a</code>
             <name>
                 <narrative>Syrian Arab Republic Humanitarian Response Priorities As-Sweida Crisis Addendum 2025</narrative>
