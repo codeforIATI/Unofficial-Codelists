@@ -22435,6 +22435,16 @@
             <codeforiati:registry-identifier>hu</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>KE-NCB-21805199941329</code>
+            <name>
+                <narrative>Centre for Rights Education and Awareness</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Kenya</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>creawkenya_2025</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>NG-CAC-8270899</code>
             <name>
                 <narrative>SUGAS GLOBAL AGRO LTD</narrative>
@@ -22543,6 +22553,16 @@
             <codeforiati:organisation-type>Multilateral</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Bolivia</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>fonplata</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BJ-IFU-6201002029400</code>
+            <name>
+                <narrative>Centre de recherche en reproduction humaine et en démographie</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Benin</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>cerrhud</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>BF-MATD-N4217</code>
@@ -22763,6 +22783,96 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>smc</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MZ-MOJ-105040119</code>
+            <name>
+                <narrative>HelpAge Mozambique</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Mozambique</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ham</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TZ-NNCB-INGO-R1-00149</code>
+            <name>
+                <narrative>Global Communities</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tanzania, United Republic of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gc_tanzania</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-CHE259180555</code>
+            <name>
+                <narrative>Rift Partners GmbH</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>rift_partners</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-ROR-03GH19D6</code>
+            <name>
+                <narrative>The University of Zambia</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Zambia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>unza</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1141471</code>
+            <name>
+                <narrative>Global Network of Civil Society Organisations for Disaster Risk Reduction (GNDR)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gndr</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802473-4892</code>
+            <name>
+                <narrative>Inclusive Business Partners</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ibp_swe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802400-7620</code>
+            <name>
+                <narrative>ForumCiv</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>forumciv_sweden</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-GOV-28</code>
+            <name>
+                <narrative>Medicines and Healthcare products Regulatory Agency (MHRA)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mhra</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-845000-4240</code>
+            <name>
+                <narrative>Föreningen Svalorna Indien Bangladesh</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>sib</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="withdrawn">
             <code>ET-ERCA-0056106666</code>
