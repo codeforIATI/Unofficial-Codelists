@@ -13003,7 +13003,7 @@
         <codelist-item status="active">
             <code>NL-KVK-27367015</code>
             <name>
-                <narrative>Netherlands Organisation for Scientific Research (NWO)</narrative>
+                <narrative>Dutch Research Council (NWO)</narrative>
                 <narrative xml:lang="fr">Organisation néerlandaise pour la recherche scientifique (NWO)</narrative>
                 <narrative xml:lang="es">Organización Neerlandesa para la Investigación Científica (NWO)</narrative>
                 <narrative xml:lang="pt">Organização de Investigação Científica dos Países Baixos (NWO)</narrative>
@@ -22457,7 +22457,7 @@
         <codelist-item status="active">
             <code>XM-OCHA-HPC6052</code>
             <name>
-                <narrative>Himilo Relief and Development Association (HIRDA)</narrative>
+                <narrative>Himilo Relief and Development Association （HIRDA Somalia）</narrative>
             </name>
             <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
@@ -24693,6 +24693,26 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>swefor_</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>TZ-NNCB-00NGO00009862</code>
+            <name>
+                <narrative>Mtandao wa vikundi vya wakulima na wafugaji Nyancha</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Tanzania, the United Republic of</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mviwanya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>ZA-CIT-9063151162</code>
+            <name>
+                <narrative>University of KwaZulu-Natal</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>South Africa</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ukzn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-ON-857205-8694</code>
