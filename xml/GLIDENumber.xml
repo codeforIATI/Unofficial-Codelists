@@ -27,6 +27,62 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>EP-2026-000174-BGD</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23925</url>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Epidemic</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>BGD</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Bangladesh</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-09-15</codeforiati:date>
+            <codeforiati:glide-serial>2026-000174</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2026-000173-VNM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23924</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>VNM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Viet Nam</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-09-13</codeforiati:date>
+            <codeforiati:glide-serial>2026-000173</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>OT-2026-000172-YEM</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23923</url>
+            <codeforiati:event-code>OT</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Other</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>YEM</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Yemen</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-09-11</codeforiati:date>
+            <codeforiati:glide-serial>2026-000172</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>VO-2026-000171-IDN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23922</url>
+            <codeforiati:event-code>VO</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Volcano</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>IDN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Indonesia</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-09-04</codeforiati:date>
+            <codeforiati:glide-serial>2026-000171</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>FL-2026-000170-JPN</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23921</url>
             <codeforiati:event-code>FL</codeforiati:event-code>
