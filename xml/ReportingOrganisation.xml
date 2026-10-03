@@ -14090,7 +14090,7 @@
         <codelist-item status="active">
             <code>GB-CHC-1027201</code>
             <name>
-                <narrative>Institute for War &amp; Peace Reporting</narrative>
+                <narrative>Institute for War and Peace Reporting</narrative>
                 <narrative xml:lang="fr">Institute for War &amp; Peace Reporting (Institut de reportage sur la guerre et la paix)</narrative>
                 <narrative xml:lang="es">Institute for War &amp; Peace Reporting</narrative>
                 <narrative xml:lang="pt">Institute for War &amp; Peace Reporting</narrative>
@@ -25315,6 +25315,26 @@
             <codeforiati:registry-identifier>cag</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>MK-CR-6524710</code>
+            <name>
+                <narrative>Balkan Civil Society Development Network</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>North Macedonia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>bcsdn</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>MG-NIF-2002872017</code>
+            <name>
+                <narrative>MIARAKAP SA</narrative>
+            </name>
+            <codeforiati:organisation-type-code>70</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Private Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Madagascar</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>miarakap</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TZ-NNCB-00NGO-08231</code>
             <name>
                 <narrative>Foundation for Local Capacity in Agricultural Development</narrative>
@@ -25333,6 +25353,16 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Tanzania, the United Republic of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>chamwiilee</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802528-0002</code>
+            <name>
+                <narrative>Ethical Trade Sweden</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>etiskhandel</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>TZ-NNCB-00NGOR7295</code>
