@@ -25635,6 +25635,16 @@
             <codeforiati:registry-identifier>sft</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>IN-MHA-231650010</code>
+            <name>
+                <narrative>HelpAge India</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>helpageindia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>XI-ROR-02r91my29</code>
             <name>
                 <narrative>University of Kelaniya</narrative>
