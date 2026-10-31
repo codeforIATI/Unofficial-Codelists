@@ -14321,7 +14321,7 @@
             <codeforiati:hq-country-or-region>United States of America (the)</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>namati_inc</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>GB-COH-893249298</code>
             <name>
                 <narrative>Grand Bargain Test</narrative>
@@ -25633,6 +25633,36 @@
             <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Tanzania, the United Republic of</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>sft</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802422-2336</code>
+            <name>
+                <narrative>Christian Democratic International Center</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kic</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>IN-MHA-231650010</code>
+            <name>
+                <narrative>HelpAge India</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>helpageindia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>NO-BRC-951434353</code>
+            <name>
+                <narrative>Norwegian Church Aid</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Norway</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>kn</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XI-ROR-02r91my29</code>
