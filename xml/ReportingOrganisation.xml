@@ -1746,7 +1746,7 @@
         <codelist-item status="active">
             <code>GB-CHC-1070684</code>
             <name>
-                <narrative>Cord</narrative>
+                <narrative>Cord Global</narrative>
                 <narrative xml:lang="fr">Cord</narrative>
                 <narrative xml:lang="es">Cord</narrative>
                 <narrative xml:lang="pt">Cord</narrative>
@@ -17400,7 +17400,7 @@
             <codeforiati:hq-country-or-region>Mexico</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>icm_mx</codeforiati:registry-identifier>
         </codelist-item>
-        <codelist-item status="active">
+        <codelist-item status="withdrawn">
             <code>XM-DAC-7-PPR-4000002938</code>
             <name>
                 <narrative>Global Water Partnership</narrative>
@@ -25683,6 +25683,16 @@
             <codeforiati:organisation-type>Government</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sri Lanka</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>digipaths_kelaniya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-902000-3845</code>
+            <name>
+                <narrative>Global Water Partnership</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gwp</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>XI-ROR-026A3NK20</code>
