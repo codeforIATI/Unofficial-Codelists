@@ -12103,8 +12103,8 @@
             <name>
                 <narrative>Marsa Sexual Health Center</narrative>
             </name>
-            <codeforiati:organisation-type-code>23</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Regional NGO</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Lebanon</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>marsa_welead</codeforiati:registry-identifier>
         </codelist-item>
@@ -25679,10 +25679,80 @@
             <name>
                 <narrative>University of Kelaniya</narrative>
             </name>
-            <codeforiati:organisation-type-code>10</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Government</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sri Lanka</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>digipaths_kelaniya</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>XI-ROR-008sszm38</code>
+            <name>
+                <narrative>M S Swaminathan Research Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>India</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>mssrf</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GE-NAPR-204861970</code>
+            <name>
+                <narrative>Ilia State University</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Georgia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>iliauni</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>CH-FDJP-332507090</code>
+            <name>
+                <narrative>Fab AI Foundation</narrative>
+            </name>
+            <codeforiati:organisation-type-code>60</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Foundation</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Switzerland</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>fab_ai</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-875003-0846</code>
+            <name>
+                <narrative>Intacts Vänner</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>intact</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802416-4280</code>
+            <name>
+                <narrative>Engineers Without Borders Sweden</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>ewb-swe</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-202100-2817</code>
+            <name>
+                <narrative>Swedish University of Agricultural Sciences</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>slu</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-202100‑5448</code>
+            <name>
+                <narrative>Skatteverket</narrative>
+            </name>
+            <codeforiati:organisation-type-code>15</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>skv_72</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-ON-902000-3845</code>
