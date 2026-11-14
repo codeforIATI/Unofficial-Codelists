@@ -25715,6 +25715,16 @@
             <codeforiati:registry-identifier>fab_ai</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
+            <code>SE-ON-802418-8883</code>
+            <name>
+                <narrative>Social Initiative</narrative>
+            </name>
+            <codeforiati:organisation-type-code>90</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>siif</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
             <code>SE-ON-875003-0846</code>
             <name>
                 <narrative>Intacts Vänner</narrative>
