@@ -27,6 +27,48 @@
             <codeforiati:glide-serial>2020-000012</codeforiati:glide-serial>
         </codelist-item>
         <codelist-item status="active">
+            <code>EQ-2026-000202-JPN</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23956</url>
+            <codeforiati:event-code>EQ</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Earthquake</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>JPN</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Japan</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-11-08</codeforiati:date>
+            <codeforiati:glide-serial>2026-000202</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>FL-2026-000201-HTI</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23955</url>
+            <codeforiati:event-code>FL</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Flood</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>HTI</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Haiti</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-10-24</codeforiati:date>
+            <codeforiati:glide-serial>2026-000201</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>EP-2026-000200-MWI</code>
+            <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23954</url>
+            <codeforiati:event-code>EP</codeforiati:event-code>
+            <codeforiati:event>
+                <narrative>Epidemic</narrative>
+            </codeforiati:event>
+            <codeforiati:country-code>MWI</codeforiati:country-code>
+            <codeforiati:country>
+                <narrative>Malawi</narrative>
+            </codeforiati:country>
+            <codeforiati:date>2026-07-20</codeforiati:date>
+            <codeforiati:glide-serial>2026-000200</codeforiati:glide-serial>
+        </codelist-item>
+        <codelist-item status="active">
             <code>TC-2026-000199-IND</code>
             <url>https://glidenumber.net/glide/public/search/details.jsp?glide=23953</url>
             <codeforiati:event-code>TC</codeforiati:event-code>
