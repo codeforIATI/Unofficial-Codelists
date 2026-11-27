@@ -22287,7 +22287,7 @@
         <codelist-item status="active">
             <code>AR-CUIT-30-70806240-1</code>
             <name>
-                <narrative>Institute for Clinical Effectiveness and Health Policy</narrative>
+                <narrative>Instituto de Efectividad Clínica y Sanitaria (IECS)</narrative>
             </name>
             <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
             <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
@@ -23899,8 +23899,8 @@
             <name>
                 <narrative>Pediatric Health Initiative</narrative>
             </name>
-            <codeforiati:organisation-type-code>24</codeforiati:organisation-type-code>
-            <codeforiati:organisation-type>Partner Country based NGO</codeforiati:organisation-type>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>phi</codeforiati:registry-identifier>
         </codelist-item>
@@ -25753,6 +25753,76 @@
             <codeforiati:organisation-type>Other Public Sector</codeforiati:organisation-type>
             <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
             <codeforiati:registry-identifier>skv_72</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-885501-0453</code>
+            <name>
+                <narrative>Färnebo folkhögskola</narrative>
+            </name>
+            <codeforiati:organisation-type-code>80</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Academic, Training and Research</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>farnebofhsk</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>BE-BCE_KBO-0648.708.779</code>
+            <name>
+                <narrative>European Partnership for Democracy (EPD)</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Belgium</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>epd</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802418-8883</code>
+            <name>
+                <narrative>Social Initiative</narrative>
+            </name>
+            <codeforiati:organisation-type-code>90</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>siif</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>UA-EDR-38907831</code>
+            <name>
+                <narrative>Bureau of Gender Strategies and Budgeting</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Ukraine</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>gb</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>GB-CHC-1182208</code>
+            <name>
+                <narrative>ENVIRONMENTAL INVESTIGATION AGENCY UK</narrative>
+            </name>
+            <codeforiati:organisation-type-code>21</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>International NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>United Kingdom of Great Britain and Northern Ireland (the)</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>eia</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>AU-ABN-44945150299</code>
+            <name>
+                <narrative>Live &amp; Learn Environmental Education</narrative>
+            </name>
+            <codeforiati:organisation-type-code>22</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>National NGO</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Australia</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>llee</codeforiati:registry-identifier>
+        </codelist-item>
+        <codelist-item status="active">
+            <code>SE-ON-802404-5836</code>
+            <name>
+                <narrative>Left International Forum</narrative>
+            </name>
+            <codeforiati:organisation-type-code>90</codeforiati:organisation-type-code>
+            <codeforiati:organisation-type>Other</codeforiati:organisation-type>
+            <codeforiati:hq-country-or-region>Sweden</codeforiati:hq-country-or-region>
+            <codeforiati:registry-identifier>lif</codeforiati:registry-identifier>
         </codelist-item>
         <codelist-item status="active">
             <code>SE-ON-902000-3845</code>
